@@ -25,3 +25,6 @@
 - [Milvus 101- Most advanced VectorDB](https://www.youtube.com/watch?v=ZABs7HcMPR0)
 
 ## Misc & Use Cases
+
+- [Health Assistant Bot](../apps/HealthBot)
+- [Research Paper Bot](../apps/ResearchPaperBot)

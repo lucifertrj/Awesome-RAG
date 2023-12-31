@@ -1,0 +1,1523 @@
+Diet_type,Recipe_name,Cuisine_type,Protein(g),Carbs(g),Fat(g),Extraction_day,Extraction_time
+vegan,Spiked Vegan Eggnog,american,46.36,84.52,42.61,2022-10-16,20:02:29
+vegan,Vegan Cucumber Tea Sandwiches,american,41.73,143.91,73.88,2022-10-16,20:02:29
+vegan,Vegan Broccoli Soup Recipe,american,103.83,82.54,139.3,2022-10-16,20:02:29
+vegan,Baked Vegan Mac and Cheese Recipe,american,140.19,524.38,221.29,2022-10-16,20:02:29
+vegan,Vegan Nachos,american,73.05,266.38,166.64,2022-10-16,20:02:29
+vegan,The Best Vegan Breakfast Sandwich,american,143.13,208.42,189.86,2022-10-16,20:02:29
+vegan,{Vegan} Peanut Butter & Honey Muffins recipes,american,29.53,168.46,59.83,2022-10-16,20:02:29
+vegan,Vegan Pots de Crème,american,45.25,106.45,98.01,2022-10-16,20:02:29
+vegan,Vegan tiffin,american,60.38,272.18,287.22,2022-10-16,20:02:29
+vegan,Vegan Stovetop Lasagna,american,124.77,512.21,147.15,2022-10-16,20:02:29
+vegan,Vegan Italian Cold Cut Sandwich,american,54.22,143.1,81.73,2022-10-16,20:02:29
+vegan,Vegan Chocolate Pie,american,71.19,428.01,248.98,2022-10-16,20:02:29
+vegan,Vegan Mushroom Tea Sandwiches,american,36.74,127.18,60.04,2022-10-16,20:02:29
+vegan,Vegan Chicken Nuggets,american,119.69,80.59,33.4,2022-10-16,20:02:29
+vegan,Creamy Vegan Butternut Squash Mac And Cheese,american,132.14,453.36,72.61,2022-10-16,20:02:35
+vegan,Vegan Candied Almonds,american,120.98,530.66,289.27,2022-10-16,20:02:35
+vegan,Vegan Cinnamon Rolls Recipe,american,62.84,884.18,321.47,2022-10-16,20:02:35
+vegan,"Classic American Fare, Now In Vegan! recipes",american,103.83,82.54,139.3,2022-10-16,20:02:35
+vegan,Simple Vegan Tofu Lasagna,asian,129.45,317.99,86.68,2022-10-16,20:02:35
+vegan,Vegan Stroganoff recipes,american,52.69,40.66,37.09,2022-10-16,20:02:35
+vegan,Vegan Meatballs,american,61.47,269.97,68.85,2022-10-16,20:02:35
+vegan,Vegan Pie Crust,american,14.53,107.31,78.16,2022-10-16,20:02:35
+vegan,Vegan Sesame Strugglaire’s Shortbread,american,55.94,468.46,400.53,2022-10-16,20:02:35
+vegan,Vegan Chocolate Frosting recipes,american,33.03,663.3,541.54,2022-10-16,20:02:35
+vegan,Vegan Lasagna,american,144.17,284.74,54.78,2022-10-16,20:02:35
+vegan,"The Best ""Beefy"" Vegan Burgers",american,86.16,548.23,129.69,2022-10-16,20:02:35
+vegan,Vegan Chocolate Peanut Butter Cups recipes,american,66.4,239.64,284.24,2022-10-16,20:02:35
+vegan,Vegan Pumpkin Pie,american,42.83,344.63,121.93,2022-10-16,20:02:42
+vegan,Vegan Scallops,american,31.9,66.68,13.49,2022-10-16,20:02:42
+vegan,Vegan Caesar Salad Dressing,american,28.01,37.29,67.87,2022-10-16,20:02:42
+vegan,Vegan (Or Not) Peach Creamsicle Sherbet,american,55.03,439.96,52.51,2022-10-16,20:02:42
+vegan,Vegan pizza Margherita,italian,113.8,391.09,97.24,2022-10-16,20:02:42
+vegan,Vegan Classic Cheesecake,american,105.08,635.06,243.29,2022-10-16,20:02:42
+vegan,Vegan Chocolate-Dipped Frozen Banana Bites,american,29.04,178.5,73.99,2022-10-16,20:02:42
+vegan,Vegan brownies,french,56.1,486.28,195.65,2022-10-16,20:02:42
+vegan,Vegan Spinach and Mushroom Lasagna,american,161.61,304.45,175.45,2022-10-16,20:02:42
+vegan,Vegan Pumpkin Pull-Apart Loaf,american,55.62,662.7,93.64,2022-10-16,20:02:42
+vegan,Vegan Potato Salad,american,20.77,129.36,26.85,2022-10-16,20:02:42
+vegan,Vegan white pizza,american,74.83,374.84,36.75,2022-10-16,20:02:42
+vegan,Vegan Macaroni Salad,american,42.07,170.89,42.08,2022-10-16,20:02:42
+vegan,Asparagus and Arugula Pizza with Vegan Pesto,italian,24.25,80.63,40.53,2022-10-16,20:02:42
+vegan,Vegan Eton mess,american,46.27,297.82,26.19,2022-10-16,20:02:42
+vegan,Vegan Cornbread Stuffing,american,64.42,421.16,91.7,2022-10-16,20:02:42
+vegan,Vegan potato salad,american,21.37,121.44,48.19,2022-10-16,20:02:42
+vegan,Vegan French Onion Dip,american,57.38,134.68,188.77,2022-10-16,20:02:42
+vegan,Vegan Jambalaya,american,49.54,220.02,59.7,2022-10-16,20:02:42
+vegan,Vegan Meyer Lemon Poppyseed Shortbread,american,37.78,425.18,271.62,2022-10-16,20:02:49
+vegan,Vegan bolognese,american,80.8,335.2,27.94,2022-10-16,20:02:49
+vegan,Vegan Creamy Coleslaw,american,6.76,40.99,68.13,2022-10-16,20:02:49
+vegan,Vegan chocolate ice cream,american,34.96,284.85,220.65,2022-10-16,20:02:49
+vegan,Vegan Ginger Sticky Date Pudding & Cardamom Toffee,british,43.95,859.11,287.58,2022-10-16,20:02:49
+vegan,‘Cheesy’ vegan scones,american,68.49,279.16,49.72,2022-10-16,20:02:49
+vegan,Vegan Mushroom Stroganoff,american,50.67,221.8,68.92,2022-10-16,20:02:49
+vegan,Vegan Fig Galette,american,52.72,880.99,346.35,2022-10-16,20:02:49
+vegan,Vegan fry-up,american,100.27,167.06,279.46,2022-10-16,20:02:49
+vegan,Traditional Vegan Caesar Salad,american,46.34,126.68,66.66,2022-10-16,20:02:49
+vegan,Vegan Mushroom Bolognese,american,57.26,229.43,36.96,2022-10-16,20:02:49
+vegan,Vegan White Peach Mug Cobbler With Cardamom,american,5.51,70.81,16.13,2022-10-16,20:02:49
+vegan,Easy vegan tacos,american,26.13,153.72,15.67,2022-10-16,20:02:49
+vegan,Gluten-Free Walnut & Portobello Mushroom Vegan Burgers,american,34.55,97.14,30.74,2022-10-16,20:02:49
+vegan,Vegan Cauliflower Alfredo Bake,american,114.36,389.31,28.11,2022-10-16,20:02:49
+vegan,Zesty Italian Vegan Meatballs,american,55.19,100.02,66.46,2022-10-16,20:02:49
+vegan,Vegan lasagne,american,169.83,604.54,100.68,2022-10-16,20:02:56
+vegan,Gluten-Free Walnut & Portobello Mushroom Vegan Burgers,american,37.37,99.68,42.81,2022-10-16,20:02:56
+vegan,Carrot Cake With Vegan Cream Cheese Frosting,american,74.47,1032.32,465.91,2022-10-16,20:02:56
+vegan,Vegan Pizza,american,35.92,223.73,71.83,2022-10-16,20:02:56
+vegan,Vegan moussaka,american,129.49,548.31,119.91,2022-10-16,20:02:56
+vegan,Vegan Sushi Burger,japanese,24.23,198.01,32.0,2022-10-16,20:02:56
+vegan,Vegan Brownies recipes,french,35.2,405.49,129.47,2022-10-16,20:02:56
+vegan,Beefless Vegan Tacos,american,57.67,132.69,72.92,2022-10-16,20:02:56
+vegan,Vegan Chocolate and Raspberry Panna Cotta,american,33.99,158.29,73.24,2022-10-16,20:02:56
+vegan,Vegan Pav-Bhaji,american,17.71,99.41,32.22,2022-10-16,20:02:56
+vegan,Vegan toffee apple upside-down cake,american,33.97,422.06,151.76,2022-10-16,20:02:56
+vegan,Vegan BLATs (BLTs with Avocado),american,41.62,119.38,71.62,2022-10-16,20:02:56
+vegan,Vegan rhubarb & custard bake,american,39.49,531.36,211.22,2022-10-16,20:02:56
+vegan,Vegan Pasta Pie,american,71.56,310.5,39.6,2022-10-16,20:02:56
+vegan,Vegan Eggplant Parmesan,american,53.02,221.99,68.26,2022-10-16,20:02:56
+vegan,Vegan Creme Brulee Buttermilk Cupcakes,american,41.75,1133.7,415.07,2022-10-16,20:02:56
+vegan,Bean and Potato Vegan Enchiladas recipes,american,65.85,324.88,152.74,2022-10-16,20:03:03
+vegan,Vegan Blueberry Pie,american,27.46,448.09,131.15,2022-10-16,20:03:03
+vegan,Cinnamon Sugar Vegan Donuts,american,14.41,411.22,64.83,2022-10-16,20:03:03
+vegan,Vegan pie,american,102.33,552.11,240.21,2022-10-16,20:03:03
+vegan,The best gluten-free vegan pesto pasta,american,227.6,502.31,462.82,2022-10-16,20:03:03
+vegan,Spicy Thai Vegan Burger,south east asian,80.51,190.71,52.97,2022-10-16,20:03:03
+vegan,Vegan Kale And Leek Bake recipes,american,40.32,217.22,141.53,2022-10-16,20:03:03
+vegan,Vegan Quinoa Lentil Curry Burger,american,40.15,136.6,18.22,2022-10-16,20:03:03
+vegan,Vegan Chocolate Cheesecake,american,107.55,859.49,382.54,2022-10-16,20:03:03
+vegan,Vegan Cauliflower Buffalo Wings,american,52.39,263.63,47.66,2022-10-16,20:03:03
+vegan,Vegan Mac and Cheese recipes,american,166.81,444.38,25.66,2022-10-16,20:03:03
+vegan,Vegan Shepherd's Pie,american,106.76,425.81,101.91,2022-10-16,20:03:03
+vegan,Vegan Lemon Vanilla Cupcakes with Lemon Buttercream Frosting,american,27.77,619.26,207.28,2022-10-16,20:03:03
+vegan,Vegan Chocolate Cheesecake,american,98.03,714.56,314.5,2022-10-16,20:03:03
+vegan,Spicy Thai Vegan Burger,american,80.51,190.71,52.97,2022-10-16,20:03:03
+vegan,Vegan Sweet Potato Biscuits,american,54.63,448.19,138.11,2022-10-16,20:03:03
+vegan,Vegan Banana Chocolate Chip Muffins,american,36.93,418.54,106.0,2022-10-16,20:03:03
+vegan,Vegan Thai green curry,south east asian,43.56,247.53,57.67,2022-10-16,20:03:10
+vegan,Vegan Black Bean Burgers,american,70.79,256.3,113.3,2022-10-16,20:03:10
+vegan,Vegan Cream Of Broccoli Soup,american,75.06,161.94,111.21,2022-10-16,20:03:10
+vegan,Vegan Lentil Burgers,american,84.93,331.31,43.1,2022-10-16,20:03:10
+vegan,Vegan Sweet Potato & Pear Soup,american,11.66,164.77,28.96,2022-10-16,20:03:10
+vegan,Classic Vegan Date Bars,american,70.29,1101.77,331.04,2022-10-16,20:03:10
+vegan,Gluten-Free Vegan Creole Jalapeno Hush Puppies,american,37.11,384.44,135.66,2022-10-16,20:03:10
+vegan,Vegan Cream Of Mushroom Soup With Not So Vegan Herb Bread,american,71.33,222.41,121.53,2022-10-16,20:03:10
+vegan,Ian's Vegan Chili,american,155.27,571.66,106.53,2022-10-16,20:03:10
+vegan,EASY VEGAN COCONUT CURRY NOODLE BOWLS,asian,24.54,181.37,107.56,2022-10-16,20:03:10
+vegan,"Vegan ""B.L.A.T.""s: Lettuce, Tomato, Avocado, and Crispy Smoked Mushroom Sandwiches Recipe",american,20.82,77.06,45.26,2022-10-16,20:03:10
+vegan,Vegan Chickpea Crab Cakes,american,81.59,304.48,221.1,2022-10-16,20:03:10
+vegan,No-churn Vegan Peanut Butter Chocolate Chip Ice Cream recipes,american,95.88,416.83,477.74,2022-10-16,20:03:17
+vegan,Fully Loaded Vegan Baked Potato Soup Recipe,american,59.15,222.48,150.25,2022-10-16,20:03:17
+vegan,"Vegan Sausage, Kale and Cauliflower Potpie",american,149.81,395.9,150.42,2022-10-16,20:03:17
+vegan,Vegan Misir Wot Pierogi,central europe,168.87,870.67,50.77,2022-10-16,20:03:17
+vegan,You Won't Believe it's Vegan Pumpkin Pie,american,36.0,304.6,92.59,2022-10-16,20:03:17
+vegan,Vegan Lasagna alla Bolognese Recipe,italian,72.92,373.65,54.98,2022-10-16,20:03:17
+vegan,Vegan and Gluten-Free Fruit and Almond Shortbread Bars,american,31.11,463.9,275.34,2022-10-16,20:03:17
+vegan,Vegan Spiced Pumpkin Pie Glo Bites,american,38.34,243.38,68.53,2022-10-16,20:03:17
+vegan,Black-Bottom Peanut Butter Freezer Pie,american,94.34,522.29,354.72,2022-10-16,20:03:17
+vegan,Vegan Shepherd's Pie,american,98.26,498.68,200.96,2022-10-16,20:03:17
+vegan,Vegan Italian Roasted Eggplant Bisque,american,22.05,79.91,36.02,2022-10-16,20:03:17
+vegan,"Bacon Ranch Salad, Now In Vegan Form!",american,37.9,51.12,156.63,2022-10-16,20:03:17
+vegan,Chef Chloe's Best-Ever Vegan Baked Macaroni and Cheese,american,133.22,511.08,63.01,2022-10-16,20:03:17
+vegan,GRAIN FREE + VEGAN LIME PIE BARS,american,24.81,143.11,186.7,2022-10-16,20:03:17
+vegan,Vegan Cream of Mushroom Soup With Crispy Shiitake Chips Recipe,american,38.03,122.84,130.18,2022-10-16,20:03:17
+vegan,Chocolate Chip Cake with Buttercream Icing (Vegan),american,50.97,1002.35,676.53,2022-10-16,20:03:17
+vegan,Mushroom and Pea Tart (vegan friendly),american,73.9,378.91,130.61,2022-10-16,20:03:23
+vegan,Can't-Believe-It's-Vegan Chili,american,214.61,484.66,105.34,2022-10-16,20:03:23
+vegan,This Ain’t Grandma’s Sweet Potato Casserole (Vegan) recipes,american,26.46,323.89,132.46,2022-10-16,20:03:23
+vegan,Tomato and basil bruschetta (for vegans and non vegans alike),american,25.17,97.93,57.09,2022-10-16,20:03:23
+vegan,Heirloom Tomato BLTs recipes,american,259.09,789.39,168.65,2022-10-16,20:03:23
+vegan,"Instant Pot Buffalo Sweet Potato Soup {Vegan, Whole30, Paleo, Gluten-Free}",american,14.26,79.07,109.53,2022-10-16,20:03:23
+vegan,Itty Bitty Herbed Garlic Pumpkin Knots With Vegan Parmesan Cheese,american,23.25,124.6,45.81,2022-10-16,20:03:23
+vegan,Vegan Chocolate-Covered Digestive Biscuits Recipe,american,37.68,313.69,226.63,2022-10-16,20:03:23
+vegan,Vegan Slow-Cooker Sweet Potato Chili,american,65.82,224.74,32.78,2022-10-16,20:03:23
+vegan,Vegan Chickpea Cakes with Mashed Avocado Recipe,american,74.62,351.32,160.23,2022-10-16,20:03:23
+vegan,Classic Vegan Gumbo,american,122.54,442.68,229.02,2022-10-16,20:03:23
+vegan,Vegan Spinach and Artichoke Dip Recipe,mediterranean,66.61,157.17,89.84,2022-10-16,20:03:23
+vegan,Vegan Black Bean and Squash Chili Recipe,american,97.48,229.27,101.69,2022-10-16,20:03:30
+vegan,Gluten Free Vegan Fudgy Black Bean Brownies Recipe,french,40.59,314.63,95.06,2022-10-16,20:03:30
+vegan,"Easy Cucumber Noodles with a Vegan Basil Cream, Tomatoes and Pine Nuts recipes",american,46.69,165.17,170.8,2022-10-16,20:03:30
+vegan,Vegan Chocolate Cake and Frosting recipes,american,76.8,1295.31,756.82,2022-10-16,20:03:30
+vegan,Vegan katsu curry,american,79.46,265.89,116.58,2022-10-16,20:03:30
+vegan,"Super Healthy, But Doesn’t Taste It Vegan Banana Bread",american,38.31,441.56,109.48,2022-10-16,20:03:30
+vegan,Mexican Hot Chocolate Cupcakes with Whipped Cream (vegan),american,38.34,330.17,174.65,2022-10-16,20:03:30
+vegan,Vegan Egg Salad Sandwich recipes,american,74.95,102.31,85.59,2022-10-16,20:03:30
+vegan,Vegan Chocolate Tart With Salted Oat Crust,american,61.46,529.8,330.19,2022-10-16,20:03:30
+vegan,Smoky Tomato & Garlic Spelt Risotto with Crumbled Vegan Feta,mediterranean,66.35,290.35,116.51,2022-10-16,20:03:30
+vegan,Vegan Chocolate Tart with Salted Oat Crust recipes,american,61.46,529.8,330.19,2022-10-16,20:03:30
+vegan,Wholegrain Pitta with Tomatoes and Pesto,italian,6.98,31.38,12.07,2022-10-16,20:03:30
+vegan,The Best Vegan Baked Mac & Cheese Recipe,american,83.66,441.39,81.04,2022-10-16,20:03:30
+vegan,Try This Vegan Recipe For Stuffed Mushroom Burgers recipes,american,99.49,616.7,137.2,2022-10-16,20:03:30
+vegan,Grits Cheesecake,american,65.26,514.5,240.49,2022-10-16,20:03:30
+vegan,"Vegan, Gluten-Free Double Chocolate Muffins",american,44.62,454.71,320.21,2022-10-16,20:03:30
+vegan,Gluten-Free Sweet Potato Cardamom Macadamia Brownies,french,22.67,234.49,171.88,2022-10-16,20:03:30
+vegan,Lime Cheesecake,american,56.74,279.19,145.24,2022-10-16,20:03:37
+vegan,Crowd-Pleasing Vegan Caesar Salad recipes,american,87.84,199.83,121.3,2022-10-16,20:03:37
+vegan,Crowd-Pleasing Vegan Caesar Salad recipes,american,88.56,202.18,124.26,2022-10-16,20:03:37
+vegan,Vegan Frosting,american,1.45,0.1,301.59,2022-10-16,20:03:37
+vegan,Beluga Lentil Caviar on Blini,eastern europe,49.59,180.15,91.1,2022-10-16,20:03:37
+vegan,Chocolate-Covered Matzo Bark,french,30.6,270.36,103.89,2022-10-16,20:03:37
+vegan,Vegan pesto,american,25.51,22.8,172.61,2022-10-16,20:03:37
+vegan,Hadley’s Vegan Apple Spice Muffins With Oatmeal Streusel Topping,american,43.71,505.55,89.84,2022-10-16,20:03:37
+vegan,Matcha Green Tea Ice Cream Sandwich with Vegan Ginger Molasses Cookies Recipe,american,92.89,1079.21,330.99,2022-10-16,20:03:37
+vegan,Carrot & caraway crackers,american,19.35,185.39,46.89,2022-10-16,20:03:37
+vegan,Chocolate Walnut Bites Recipe,american,70.47,524.05,165.8,2022-10-16,20:03:37
+vegan,Vegan Queso,american,43.24,61.71,62.75,2022-10-16,20:03:37
+vegan,Vegan Root Beer Coconut Ice Cream,american,12.15,177.57,91.47,2022-10-16,20:03:37
+vegan,Vegan Meringues,american,29.98,240.24,11.78,2022-10-16,20:03:37
+vegan,Vegan Pesto,american,15.28,24.1,75.12,2022-10-16,20:03:44
+vegan,Vegan burritos,american,135.16,595.7,98.97,2022-10-16,20:03:44
+vegan,Vegan Masa,american,99.13,891.96,223.08,2022-10-16,20:03:44
+vegan,Vegan fajitas,american,42.5,182.74,52.72,2022-10-16,20:03:44
+vegan,Vegan nuggets,american,91.67,262.84,45.06,2022-10-16,20:03:44
+vegan,Vegan meatballs,american,55.2,233.31,79.82,2022-10-16,20:03:44
+vegan,Vegan Dumplings,american,8.71,102.45,18.76,2022-10-16,20:03:44
+vegan,Barbecue Pulled Jackfruit Sandwiches,american,27.91,406.7,94.66,2022-10-16,20:03:44
+vegan,Vegan Queso,american,54.39,74.21,73.09,2022-10-16,20:03:44
+vegan,Vegan Lasagna,american,101.15,272.84,66.63,2022-10-16,20:03:44
+vegan,Vegan Sushi,japanese,31.81,295.6,11.96,2022-10-16,20:03:44
+vegan,Vegan Kimchi,american,104.24,539.25,14.78,2022-10-16,20:03:44
+vegan,Classic Cinnamon Rolls recipes,nordic,81.33,788.44,176.4,2022-10-16,20:03:44
+vegan,Vegan Meatballs,american,55.47,198.88,69.92,2022-10-16,20:03:44
+vegan,Vegan Gyoza,american,198.89,851.59,80.86,2022-10-16,20:03:50
+vegan,Fancy Green Beans,american,9.51,33.92,11.36,2022-10-16,20:03:50
+vegan,Raw Chocolate Mousse recipes,american,55.3,385.05,192.81,2022-10-16,20:03:50
+vegan,Vegan Gravy,american,16.42,50.17,27.99,2022-10-16,20:03:50
+vegan,Hummus Tartine with Sprouts recipes,mediterranean,8.37,34.76,18.01,2022-10-16,20:03:50
+vegan,Vegan Mayonnaise,american,22.97,25.13,106.85,2022-10-16,20:03:50
+vegan,Vegan Eggnog,american,28.72,151.67,136.98,2022-10-16,20:03:50
+vegan,Gluten-Free Sweet Potato Pie,american,22.83,226.55,165.84,2022-10-16,20:03:50
+vegan,Vegan Vichysoisse,american,34.11,254.47,41.28,2022-10-16,20:03:50
+vegan,Vegan Nachos,american,119.72,312.06,136.44,2022-10-16,20:03:50
+vegan,Heirloom Tomato BLT,american,67.86,133.37,114.89,2022-10-16,20:03:50
+vegan,Toasted Coconut and Almond Butter,american,66.39,96.28,197.65,2022-10-16,20:03:50
+vegan,Summer Baked Beans recipes,american,12.72,3204.43,53.92,2022-10-16,20:03:50
+vegan,Vegan Gravy,american,15.33,88.78,63.28,2022-10-16,20:03:50
+vegan,Sweet Potato Turnovers with Sweet Kraut,french,18.53,340.31,95.89,2022-10-16,20:03:50
+vegan,Vegan Chili,american,77.37,290.62,53.2,2022-10-16,20:03:57
+vegan,Vegan Chili,american,83.07,289.12,24.89,2022-10-16,20:03:57
+vegan,Vegan Cassoulet,american,32.89,192.7,911.66,2022-10-16,20:03:57
+vegan,Chocolate Chip Pumpkin Bread,american,41.34,466.58,154.67,2022-10-16,20:03:57
+vegan,Vegan Lasagna,american,175.6,469.02,121.44,2022-10-16,20:03:57
+vegan,Cherry Tomato Zucchini Noodles,asian,11.46,39.76,14.13,2022-10-16,20:03:57
+vegan,"Pb, J & Chocolate Love Pie",american,62.69,275.49,262.8,2022-10-16,20:03:57
+vegan,Red lentil & sweet potato pâté,french,37.67,118.32,15.72,2022-10-16,20:03:57
+vegan,Double-Chocolate Glazed Doughnuts,american,26.65,316.79,119.73,2022-10-16,20:03:57
+vegan,Vegan cashew Parmesan,american,59.46,65.69,67.7,2022-10-16,20:03:57
+vegan,Vegan Mayonnaise Recipe,american,9.89,4.19,341.1,2022-10-16,20:03:57
+vegan,Rustic Garlic and Asparagus Tofu Quiche Is a Slice of Sunshine,french,16.32,119.85,87.04,2022-10-16,20:03:57
+vegan,Vegan Corn Soup,american,29.92,164.72,38.37,2022-10-16,20:03:57
+vegan,Chocolate Sunflower Butter Spread recipes,american,9.19,136.89,228.0,2022-10-16,20:03:57
+vegan,Vegan Cauliflower Soup,american,26.33,36.65,29.47,2022-10-16,20:03:57
+vegan,Vegan Yorkshire puddings,british,28.33,194.44,41.45,2022-10-16,20:03:57
+vegan,"Vegan ""Ice Cream""",american,3.15,28.35,4.84,2022-10-16,20:03:57
+vegan,Vegan Christmas pudding,american,60.68,1131.87,113.81,2022-10-16,20:04:04
+vegan,Grilled Avocado Sandwich,american,7.0,31.62,8.68,2022-10-16,20:04:04
+vegan,Vegan Asparagus Risotto,american,30.84,247.0,16.36,2022-10-16,20:04:04
+vegan,Vegan lemon cheesecake,american,80.07,223.02,266.4,2022-10-16,20:04:04
+vegan,Vegan Mushroom Gravy,american,10.93,37.1,41.71,2022-10-16,20:04:04
+vegan,Vegan Blueberry Crisp,american,30.9,196.29,153.5,2022-10-16,20:04:04
+vegan,Vegan lemon cake,american,29.37,568.68,97.64,2022-10-16,20:04:04
+vegan,Chocolate-Covered Banana Ice Cream Bars,american,43.88,239.08,154.42,2022-10-16,20:04:04
+vegan,Vegan Lemon Cake,american,27.09,473.21,76.49,2022-10-16,20:04:04
+vegan,"Oat Milk Tres ""Leches"" Cake",south american,118.03,713.21,278.89,2022-10-16,20:04:04
+vegan,"Steamed Buns with Simmered Daikon and Shiitake, Pickled Bean Sprouts, and Spicy Mayonnaise (Vegan) Recipe",american,78.57,442.46,59.91,2022-10-16,20:04:04
+vegan,Easy vegan pho,american,18.65,106.31,15.27,2022-10-16,20:04:04
+vegan,Vegan Chocolate Sorbet,american,7.27,173.78,51.9,2022-10-16,20:04:10
+vegan,Vegan Black Beans,american,104.19,316.86,49.68,2022-10-16,20:04:10
+vegan,Easy vegan burgers,american,49.36,466.88,24.18,2022-10-16,20:04:10
+vegan,Vegan Chocolate Cake,american,50.01,722.29,229.58,2022-10-16,20:04:10
+vegan,Vegan Sourdough Stuffing,american,64.61,290.67,54.0,2022-10-16,20:04:10
+vegan,Vegan Sweet Potato and 2-Bean Chili With Hominy Recipe,american,135.92,583.76,59.5,2022-10-16,20:04:10
+vegan,Vegan Chickpea Curry,american,71.67,244.33,64.8,2022-10-16,20:04:10
+vegan,Vegan Baked Beans,american,98.26,403.51,48.14,2022-10-16,20:04:10
+vegan,Vegan Mapo Tofu,american,52.07,60.56,56.37,2022-10-16,20:04:10
+vegan,Vegan Chili Mac,american,74.67,242.04,66.9,2022-10-16,20:04:10
+vegan,Vegan Scalloped Potatoes,american,37.1,298.65,73.61,2022-10-16,20:04:10
+vegan,Vegan Christmas cake,american,101.45,1210.44,371.51,2022-10-16,20:04:17
+vegan,Vegan Rice Pudding,british,27.49,328.04,84.0,2022-10-16,20:04:17
+vegan,Vegan Spring Risotto,italian,25.13,212.46,16.39,2022-10-16,20:04:17
+vegan,Vegan mince pies,american,71.56,727.39,268.62,2022-10-16,20:04:17
+vegan,Vegan Eggplant Lasagna,italian,130.69,183.5,96.88,2022-10-16,20:04:17
+vegan,Simple Vegan Pesto,american,35.18,28.08,155.98,2022-10-16,20:04:17
+vegan,Vegan Mayonnaise recipes,american,2.4,16.16,82.56,2022-10-16,20:04:17
+vegan,Vegan Hoppin' John,american,45.97,391.64,27.27,2022-10-16,20:04:17
+vegan,Vegan Chocolate Ganache Cupcakes with Salted Caramel and Dark Chocolate Buttercream,american,120.61,1486.52,685.22,2022-10-16,20:04:17
+vegan,Vegan Thai curry,south east asian,81.25,376.16,143.38,2022-10-16,20:04:17
+vegan,Vegan Miso Pesto,american,10.76,16.9,79.51,2022-10-16,20:04:24
+vegan,Roasted Veggie Mason Jar Salad,asian,30.27,24.73,22.72,2022-10-16,20:04:24
+vegan,Vegan Mac & Cheese,american,85.38,300.79,83.5,2022-10-16,20:04:24
+vegan,Vegan Chocolate Mousse,american,41.81,212.07,100.09,2022-10-16,20:04:24
+vegan,Korean Shrimp Cocktail,american,185.31,22.83,93.78,2022-10-16,20:04:24
+vegan,Vegan Anytime Risotto,american,67.37,327.18,59.52,2022-10-16,20:04:24
+vegan,Vegan Salad Nicoise,american,74.16,120.17,380.98,2022-10-16,20:04:24
+vegan,Vegan Mashed Potatoes,american,11.66,96.4,54.73,2022-10-16,20:04:24
+vegan,Low-key Iridofu Or Scrambled Tofu With Vegetables recipes,asian,74.74,32.31,40.2,2022-10-16,20:04:24
+vegan,Vegan Sesame Grill,american,12.67,77.56,12.17,2022-10-16,20:04:24
+vegan,Vegan Jackfruit Tacos,american,63.86,303.01,67.49,2022-10-16,20:04:24
+vegan,Tofu Salad,asian,18.76,32.32,17.91,2022-10-16,20:04:24
+vegan,Deviled Potatoes,mediterranean,120.85,767.12,18.23,2022-10-16,20:04:24
+vegan,Vegan Potato Soup,american,79.69,262.1,130.71,2022-10-16,20:04:24
+vegan,Vegan Caesar Dressing,american,22.05,31.41,44.91,2022-10-16,20:04:24
+vegan,Vegan Summer Succotash,american,28.19,112.52,25.87,2022-10-16,20:04:30
+vegan,Vegan Tikka Masala,american,106.33,309.79,144.92,2022-10-16,20:04:30
+vegan,Vegan Enchilada Casserole,american,151.55,654.47,56.44,2022-10-16,20:04:30
+vegan,Vegan Chocolate Milkshake,american,21.17,120.27,41.1,2022-10-16,20:04:30
+vegan,Jalapeño Pesto Potato Tamales,south american,43.71,343.61,198.67,2022-10-16,20:04:30
+vegan,Vegan Basil Pesto,american,20.29,25.97,96.69,2022-10-16,20:04:30
+vegan,Vegan Banana Muffins,american,22.36,316.56,118.11,2022-10-16,20:04:30
+vegan,Massaged Kale Salad recipes,mediterranean,37.56,101.22,88.18,2022-10-16,20:04:30
+vegan,Vegan Basil “Chicken”,american,70.45,43.51,63.81,2022-10-16,20:04:30
+vegan,Vegan Lentil Soup,american,62.9,181.19,31.82,2022-10-16,20:04:30
+vegan,Vegan Pumpkin Bread,american,43.54,417.73,112.34,2022-10-16,20:04:30
+vegan,Gena Hamshaw's (Vegan) Deli Bowls With Smashed Chickpea Salad,american,121.33,340.49,177.38,2022-10-16,20:04:30
+vegan,Decadent Vegan Brownies,french,23.33,339.8,113.64,2022-10-16,20:04:30
+vegan,Vegan Pear Tart,american,28.5,296.05,112.24,2022-10-16,20:04:37
+vegan,Vegan Blueberry Muffins,american,33.07,422.0,94.49,2022-10-16,20:04:37
+vegan,Vegan Penne Vodka,american,86.64,434.2,76.53,2022-10-16,20:04:37
+vegan,Vegan Scalloped Potatoes,american,61.88,199.46,65.27,2022-10-16,20:04:37
+vegan,Beet Jerky recipes,american,15.59,69.3,0.97,2022-10-16,20:04:37
+vegan,Vegan Chickpea Alfredo,american,142.21,512.07,75.14,2022-10-16,20:04:37
+vegan,Vegan Buddha Bowl,american,57.85,227.15,105.16,2022-10-16,20:04:37
+vegan,7 layer mexican dip,mexican,102.31,337.22,197.22,2022-10-16,20:04:37
+vegan,Vegan Coconut Bars,world,14.76,330.45,79.45,2022-10-16,20:04:37
+vegan,Vegan Zucchini kofta,american,37.62,152.18,196.5,2022-10-16,20:04:37
+vegan,Vegan Portobello Muffuletta,american,47.7,190.91,70.41,2022-10-16,20:04:37
+vegan,Vegan Chocolate Babka,american,38.94,333.75,88.42,2022-10-16,20:04:37
+vegan,Vegan Brownies recipes,french,66.43,400.61,228.71,2022-10-16,20:04:37
+vegan,Seitan,asian,186.43,70.93,30.6,2022-10-16,20:04:37
+vegan,Vegan tarka dal,american,116.89,316.1,45.52,2022-10-16,20:04:37
+vegan,Southeast Asian Inspired Vegan Apple Blackberry Pie With Coconut Crumb Topping And Coconut Scented Crust,american,55.31,770.24,267.22,2022-10-16,20:04:44
+vegan,"Dark Chocolate, Chia, and Cherry Pecan Bar",american,10.48,94.15,67.01,2022-10-16,20:04:44
+vegan,Vegan Pumpkin Chili,american,61.67,276.87,37.83,2022-10-16,20:04:44
+vegan,Vegan Chocolate Dipped Strawberries,american,8.66,83.05,46.09,2022-10-16,20:04:44
+vegan,Plain Cake Donut,american,14.71,558.56,76.65,2022-10-16,20:04:44
+vegan,Vegan Pad Thai,south east asian,123.43,287.59,133.03,2022-10-16,20:04:44
+vegan,Vegan Peach Cobbler,american,75.12,622.73,68.91,2022-10-16,20:04:44
+vegan,Couscous with Pine Nuts and Currants,american,18.2,105.12,32.85,2022-10-16,20:04:44
+vegan,Baby Bok Choy Salad with Mama O's Kimchi Paste,chinese,6.02,21.02,0.95,2022-10-16,20:04:44
+vegan,Vegan cashew cream cheese,american,62.25,90.89,110.77,2022-10-16,20:04:44
+vegan,Easy Vegan Chocolate Truffles,american,50.68,309.97,200.92,2022-10-16,20:04:44
+vegan,Vegan Pumpkin Pie,american,44.62,371.87,350.17,2022-10-16,20:04:44
+vegan,Vegan Chocolate & Pumpkin Pudding,british,4.65,77.96,4.75,2022-10-16,20:04:44
+vegan,Easiest ever vegan gravy,american,3.12,9.71,5.39,2022-10-16,20:04:44
+vegan,Cranberry-Carrot Cake Recipe,american,63.64,457.67,101.36,2022-10-16,20:04:44
+vegan,Massaged Kale Salad Recipe,american,37.56,101.22,80.74,2022-10-16,20:04:50
+vegan,Vegan Saffron Risotto,american,72.96,427.95,33.85,2022-10-16,20:04:50
+vegan,Vegan Lasagna recipes,american,141.85,361.97,150.89,2022-10-16,20:04:50
+vegan,Vegan French-Fried Onions,american,7.01,45.29,7.68,2022-10-16,20:04:50
+vegan,Vegan Double Caramel Flan,american,23.14,313.45,51.01,2022-10-16,20:04:50
+vegan,Vegan Mocha Mousse Recipe,american,75.54,201.64,83.46,2022-10-16,20:04:50
+vegan,Purple Carrot's Jalapeño Popper Potato Skins,american,83.47,343.82,132.41,2022-10-16,20:04:50
+vegan,Vegan Palak Paneer,indian,69.07,87.68,64.8,2022-10-16,20:04:50
+vegan,Vegan kale pesto pasta,american,85.33,299.08,87.91,2022-10-16,20:04:50
+vegan,Vegan vanilla ice cream,american,17.39,209.12,171.18,2022-10-16,20:04:50
+vegan,Chunky Peanut Butter Fudge Squares,american,57.88,212.55,153.01,2022-10-16,20:04:50
+vegan,Vegan Spaghetti alla Puttanesca,american,67.2,375.92,56.82,2022-10-16,20:04:50
+vegan,Vegan Bistro Lunch Box,american,8.25,28.23,8.52,2022-10-16,20:04:50
+vegan,Vegan Avocado Ice Cream,american,14.45,190.05,130.85,2022-10-16,20:04:50
+vegan,Vanilla Torte With Raspberry Filling And Chocolate Frosting,american,114.32,908.43,238.33,2022-10-16,20:04:50
+vegan,Vegan Asparagus Avocado Soup,american,40.99,112.72,125.04,2022-10-16,20:04:57
+vegan,Kale Slaw recipes,american,12.4,57.01,20.99,2022-10-16,20:04:57
+vegan,Inclusive Vegan Sour Cream,american,8.61,15.68,36.19,2022-10-16,20:04:57
+vegan,Vegan Chocolate-Ganache Frosting,american,19.52,191.74,165.39,2022-10-16,20:04:57
+vegan,Smoky spiced veggie rice,american,72.5,477.82,76.99,2022-10-16,20:04:57
+vegan,Vegan mac 'n' cheese,american,120.58,520.01,162.1,2022-10-16,20:04:57
+vegan,Easy Vegan Bacon Bits,american,59.11,49.68,0.38,2022-10-16,20:04:57
+vegan,Healthy Vegan Snacking recipes,american,6.02,127.9,1.98,2022-10-16,20:04:57
+vegan,Vegan BBQ teriyaki tofu,asian,71.0,62.88,53.38,2022-10-16,20:04:57
+vegan,Vegan Lentil Soup Recipe,american,117.97,329.04,33.72,2022-10-16,20:04:57
+vegan,Vegan Carbonara Pasta Recipe,american,114.96,383.39,128.65,2022-10-16,20:04:57
+vegan,Vegan Coconut Chickpea Curry,american,86.87,501.32,53.58,2022-10-16,20:04:57
+vegan,Vegan Sweet Potato Casserole,american,36.04,307.12,110.7,2022-10-16,20:04:57
+vegan,Vegan Basil Cashew Pesto,american,28.42,30.95,99.52,2022-10-16,20:04:57
+vegan,Vegan lemon meringue pie,american,26.72,385.51,193.03,2022-10-16,20:04:57
+vegan,Vegan Grape Jelly recipes,american,1.09,99.98,0.24,2022-10-16,20:05:04
+vegan,Vegan Chickpea Coconut Curry,american,19.93,100.18,134.96,2022-10-16,20:05:04
+vegan,Chargrilled Artichokes Hummus [vegan],mediterranean,35.61,115.73,43.49,2022-10-16,20:05:04
+vegan,Easy Brown Rice & Veggie Wrap,chinese,11.03,52.26,19.43,2022-10-16,20:05:04
+vegan,Vegan Olive Oil Cake,american,36.09,492.72,221.5,2022-10-16,20:05:04
+vegan,Vegan Kaju Matar Masala | Vegan Cashew and Green Peas Curry,indian,39.11,104.85,97.12,2022-10-16,20:05:04
+vegan,Vegan Fettuccine Alfredo Recipe,american,125.93,357.2,139.6,2022-10-16,20:05:04
+vegan,Asparagus Garlic Scape Pesto Spaghetti recipes,italian,16.02,42.41,54.27,2022-10-16,20:05:04
+vegan,Vegan Chocolate Frosting recipes,american,7.27,143.81,160.91,2022-10-16,20:05:04
+vegan,The best vegan tacos,american,73.62,221.55,34.38,2022-10-16,20:05:04
+vegan,Vegan Superfood Buddha Bowls,american,74.84,234.13,70.8,2022-10-16,20:05:04
+vegan,Whole Spelt Vegan Pasta,american,17.2,98.28,15.52,2022-10-16,20:05:04
+vegan,Vegan Vanilla Ice Cream,american,25.52,107.14,61.4,2022-10-16,20:05:04
+vegan,Root Vegetables Jazzed Up!,american,8.66,99.05,14.91,2022-10-16,20:05:04
+vegan,Vegan Cashew Caesar Salad,american,38.86,89.46,101.6,2022-10-16,20:05:11
+vegan,Raw Vegan Coconut Macaroons,american,31.57,95.83,112.34,2022-10-16,20:05:11
+vegan,Vegan Strawberry Ice Cream,american,5.79,222.43,5.76,2022-10-16,20:05:11
+vegan,Simplest Chocolate Mousse,british,46.49,138.98,128.96,2022-10-16,20:05:11
+vegan,Vegan Peach Ice Scream,american,13.42,177.68,9.47,2022-10-16,20:05:11
+vegan,Roasted Veggie Brown Rice Buddha Bowl,asian,29.38,45.68,19.5,2022-10-16,20:05:11
+vegan,Simple Vegan Pesto Zoodles,american,29.84,63.91,92.41,2022-10-16,20:05:11
+vegan,Vegan Mango Lassi recipes,world,5.81,155.67,10.77,2022-10-16,20:05:11
+vegan,Vegan Nectarine Ice Cream,american,12.36,151.54,97.35,2022-10-16,20:05:11
+vegan,Vegan Vanilla Ice Cream,american,17.21,115.94,180.87,2022-10-16,20:05:11
+vegan,Grilled Corn with Sriracha Mayo,mediterranean,21.18,84.51,72.18,2022-10-16,20:05:11
+vegan,Saweet! Potato Casserole with a Crunchy Nut Crumble recipes,american,66.71,586.67,225.24,2022-10-16,20:05:11
+vegan,Recent stonesoup vegan recipes,american,7.62,17.64,9.59,2022-10-16,20:05:11
+vegan,"Vegan ""Cheesy"" Pumpkin Seeds",american,83.58,32.84,153.89,2022-10-16,20:05:11
+vegan,Vegan Butternut Squash Soup,american,17.34,91.39,115.59,2022-10-16,20:05:11
+vegan,Vegan Lemon Asparagus Risotto,american,54.8,225.11,31.22,2022-10-16,20:05:11
+vegan,Satoimo (taro Root) Cooked In Miso With Tofu recipes,asian,41.19,114.26,19.73,2022-10-16,20:05:11
+vegan,Cold Avocado Soup With Sweet Corn And Bacon,south american,28.33,85.11,94.31,2022-10-16,20:05:17
+vegan,Cranberry-topped Sourdough Coffee Cake,american,43.4,518.9,141.93,2022-10-16,20:05:17
+vegan,No-Bake Strawberry Pie,american,18.95,373.66,70.16,2022-10-16,20:05:17
+vegan,Vegan Baked Banana Donuts,american,6.02,308.57,4.73,2022-10-16,20:05:17
+vegan,Jerseylicious Vegan Peach Pie,american,32.45,368.31,113.84,2022-10-16,20:05:17
+vegan,Vegan Caprese Salad recipes,american,61.81,46.18,75.54,2022-10-16,20:05:17
+vegan,Vegan Raw Plantain Salad,american,8.8,139.47,2.19,2022-10-16,20:05:17
+vegan,Vegan Fresh Pasta Dough.,american,35.58,262.82,7.89,2022-10-16,20:05:17
+vegan,Hearts of Baltimore Crab Cakes,mediterranean,30.74,84.99,104.24,2022-10-16,20:05:17
+vegan,Garlicky Baked Butternut Squash recipes,american,32.14,190.38,39.93,2022-10-16,20:05:17
+vegan,Green Tea Ice Cream,american,11.9,143.33,92.97,2022-10-16,20:05:17
+vegan,Asparagus recipes,chinese,11.74,10.23,32.11,2022-10-16,20:05:17
+vegan,Ultimate Vegan Thanksgiving Gravy,american,27.2,102.17,42.17,2022-10-16,20:05:17
+vegan,Perfect Vegan Pie Crust,american,29.06,223.51,111.76,2022-10-16,20:05:17
+vegan,Thyme roasted vegetables,american,8.56,146.03,42.54,2022-10-16,20:05:17
+vegan,Vegan Banana Cashew Yogurt,american,29.25,102.35,62.48,2022-10-16,20:05:17
+vegan,Homemade Vegan Kimchi Recipe,american,33.83,108.25,14.19,2022-10-16,20:05:24
+vegan,Easy Vegan Pad Thai,south east asian,69.47,523.83,45.24,2022-10-16,20:05:24
+vegan,Tomato Tart,french,17.48,100.57,44.06,2022-10-16,20:05:24
+vegan,Vegan Chocolate Orange Muffins,american,34.66,266.45,64.99,2022-10-16,20:05:24
+vegan,Pecan Butter,american,18.36,47.61,162.93,2022-10-16,20:05:24
+vegan,Vegan Seafood Spelt Pasta,american,54.91,264.71,49.65,2022-10-16,20:05:24
+vegan,Raw vegan spag bol,american,78.97,245.02,44.98,2022-10-16,20:05:24
+vegan,Maple Frosted Pumpkin Cake Recipe,american,66.83,938.29,252.26,2022-10-16,20:05:24
+vegan,Vegan Vanilla Cashew Cream,american,18.23,31.25,43.86,2022-10-16,20:05:24
+vegan,Vegan Mediterranean Pita Pockets,american,120.28,197.28,115.53,2022-10-16,20:05:24
+vegan,Vegan Green-Goddess Dip,american,3.6,13.98,71.09,2022-10-16,20:05:24
+vegan,Vegan Caprese Salad recipes,american,57.58,46.33,29.68,2022-10-16,20:05:24
+vegan,Easy Green Chile Quesadilla Recipe With Sprouted Corn Tortillas,mexican,34.34,48.42,50.87,2022-10-16,20:05:24
+vegan,"Beetroot, hummus & crispy chickpea sub sandwich",mediterranean,59.07,262.48,42.64,2022-10-16,20:05:24
+vegan,Vegan Mushroom Gravy recipes,american,17.32,106.32,57.73,2022-10-16,20:05:24
+vegan,Simple Vegan Chocolate Cake,american,38.71,545.64,135.55,2022-10-16,20:05:31
+vegan,Vegan Banana Ice Cream,american,11.88,169.1,97.21,2022-10-16,20:05:31
+vegan,Vegan Spiced Cashew Rice,american,45.72,211.44,86.92,2022-10-16,20:05:31
+vegan,Vegan Carrot Jalapeño Soup,american,20.77,90.18,59.76,2022-10-16,20:05:31
+vegan,Vegan Sweet Squash Soup,american,6.77,102.28,23.03,2022-10-16,20:05:31
+vegan,Vegan Avocado Ceviche recipes,american,9.15,39.7,43.86,2022-10-16,20:05:31
+vegan,5-Minute Vegan Breakfast Burritos,american,76.01,132.07,50.95,2022-10-16,20:05:31
+vegan,Veggie Veggie Vegan Soup,american,20.35,123.04,29.02,2022-10-16,20:05:31
+vegan,Best-Ever Vegan Meatballs,american,35.95,114.25,28.96,2022-10-16,20:05:31
+vegan,Vegan Lemon Fettuccine Alfredo,american,85.42,292.08,91.47,2022-10-16,20:05:31
+vegan,No-Oil Balsamic Dressing,american,33.28,101.9,2.99,2022-10-16,20:05:31
+vegan,Vegan bean chilli fries,american,50.83,249.54,90.69,2022-10-16,20:05:31
+vegan,All the 'melon Ceviche (vegan),american,14.32,122.56,31.66,2022-10-16,20:05:31
+vegan,Vegan Moroccan Harira recipes,middle eastern,127.16,430.33,43.33,2022-10-16,20:05:31
+vegan,Vegan Cream Of Broccoli Soup,american,41.97,142.86,18.91,2022-10-16,20:05:38
+vegan,Vegan Caesar Salad recipes,american,55.62,193.4,143.75,2022-10-16,20:05:38
+vegan,Vegan and Gluten-Free Gravy,american,29.69,49.33,16.42,2022-10-16,20:05:38
+vegan,Miso-Agave Mayonnaise (Vegan) Recipe,japanese,18.36,51.95,84.05,2022-10-16,20:05:38
+vegan,Vegan Sweet Potato Chili,american,44.2,231.63,39.97,2022-10-16,20:05:38
+vegan,Orange-Walnut Biscotti,italian,82.16,393.23,137.8,2022-10-16,20:05:38
+vegan,Vegan Kale Caesar Salad,american,44.65,114.84,53.56,2022-10-16,20:05:38
+vegan,Vegan “Cheese” Spread recipes,american,70.39,99.61,130.81,2022-10-16,20:05:38
+vegan,Smoky Black Bean Enchiladas,mexican,99.51,308.46,48.72,2022-10-16,20:05:38
+vegan,Raw Vegan Zoodles with Romesco,american,52.57,234.71,59.35,2022-10-16,20:05:38
+vegan,Vegan Chorizo for Omnivores Recipe,american,170.52,351.7,94.17,2022-10-16,20:05:38
+vegan,15 Minute Cauliflower Fried Rice recipes,chinese,40.74,57.84,43.11,2022-10-16,20:05:38
+vegan,Spicy Vegan Sloppy Joes,american,52.1,233.65,50.05,2022-10-16,20:05:38
+vegan,Vegan Thai Cucumber Salad,south east asian,16.75,48.12,47.06,2022-10-16,20:05:44
+vegan,Eggless Molten Lava Cake (In the Microwave),american,4.73,38.99,18.82,2022-10-16,20:05:44
+vegan,Vegan Cauliflower Fried Rice,chinese,42.07,84.73,76.58,2022-10-16,20:05:44
+vegan,Vegetable Stock From 'Afro-Vegan',american,0.56,3.29,0.06,2022-10-16,20:05:44
+vegan,Pecan-stuffed dates,american,23.83,282.81,103.33,2022-10-16,20:05:44
+vegan,Reeses Pie recipes,american,119.7,385.64,191.84,2022-10-16,20:05:44
+vegan,Spicy Vegan Sloppy Joes,american,52.1,233.65,50.05,2022-10-16,20:05:44
+vegan,Vegan Dal Makhni recipes,american,68.31,177.32,70.78,2022-10-16,20:05:44
+vegan,Vegan White Bean Chili,american,89.72,304.98,67.7,2022-10-16,20:05:44
+vegan,Raw Walnut Brownies (vegan + gf),american,8.87,112.76,41.16,2022-10-16,20:05:44
+vegan,Vegan: Breakfast Garlic Toast Recipe,american,33.25,115.8,63.11,2022-10-16,20:05:44
+vegan,Vegan Pad Thai with Tofu,asian,66.38,195.01,63.49,2022-10-16,20:05:44
+vegan,Vegan Black Sesame Milkshakes,american,18.8,76.81,117.06,2022-10-16,20:05:44
+vegan,Delicious Vegan Chili recipes,american,42.13,167.98,24.93,2022-10-16,20:05:44
+vegan,Vegan Pinto Bean Chili,american,381.55,1264.46,37.23,2022-10-16,20:05:44
+vegan,Vegan Chili and Cornbread Casserole,american,319.54,1159.0,291.7,2022-10-16,20:05:51
+vegan,Healthy Vegan Yoga Bowl,american,60.73,188.21,18.76,2022-10-16,20:05:51
+vegan,Vegan Portobello Muffuletta recipes,american,47.45,189.36,70.33,2022-10-16,20:05:51
+vegan,Baked Vegan Doughnuts recipes,american,15.23,304.34,67.71,2022-10-16,20:05:51
+vegan,Vegan Chipotle Lentil Tacos,american,136.34,428.83,53.51,2022-10-16,20:05:51
+vegan,Purple Carrot’s Loaded Nachos,mexican,126.73,425.71,338.92,2022-10-16,20:05:51
+vegan,Vegan Black Bean Burgers,american,113.81,338.17,38.43,2022-10-16,20:05:51
+vegan,Chocolate Mocha Pie,american,39.03,348.34,75.65,2022-10-16,20:05:51
+vegan,Vegan Crispy Roasted Cauliflower,american,33.34,42.56,46.01,2022-10-16,20:05:51
+vegan,Vegan Mixed Berry Panna Cotta,american,14.9,111.97,50.97,2022-10-16,20:05:51
+vegan,Vegan Butter Chicken recipes,american,52.94,121.02,76.27,2022-10-16,20:05:51
+vegan,Hearty Vegetable Stock (Vegan) Recipe,american,0.46,2.66,0.12,2022-10-16,20:05:51
+vegan,Beetroot & red onion tarte tatin,french,47.43,319.17,232.71,2022-10-16,20:05:51
+vegan,Raspberry Lemon Cake,american,26.36,279.82,58.73,2022-10-16,20:05:51
+vegan,Vegan Pulled Mushroom BBQ Sandwiches,american,50.04,300.89,48.65,2022-10-16,20:05:51
+vegan,Vegan Bakery-Style Blueberry Muffins,american,60.67,558.45,19.72,2022-10-16,20:05:51
+vegan,Carnitas tenderloin tacos,mexican,71.06,54.84,66.08,2022-10-16,20:05:58
+vegan,Canadian apple butter,american,2.49,135.45,25.78,2022-10-16,20:05:58
+vegan,"Pantry Bacon (vegan, gluten free)",american,0.92,79.66,27.61,2022-10-16,20:05:58
+vegan,Raw Vegan Coconut Almond Macaroons,american,36.09,114.15,126.25,2022-10-16,20:05:58
+vegan,Burgers with Chunky Grilled Vegetables,american,52.87,100.71,28.39,2022-10-16,20:05:58
+vegan,Vegan Broccoli Cream Soup Recipe,american,23.5,92.68,28.95,2022-10-16,20:05:58
+vegan,Vegan chocolate banana ice cream,american,1.61,27.46,0.63,2022-10-16,20:05:58
+vegan,Patatas Bravas,mediterranean,25.85,207.13,64.9,2022-10-16,20:05:58
+vegan,"Big Quesadillas with Refried Beans, Spinach, and Avocado",mexican,51.06,204.95,54.93,2022-10-16,20:05:58
+vegan,"Charred cauliflower, lemon & caper orzo",italian,19.38,93.24,11.53,2022-10-16,20:05:58
+vegan,Mango-Raspberry Vegan Shake recipes,american,4.2,164.16,14.87,2022-10-16,20:05:58
+vegan,Healthy Vegan German Potato Salad,american,28.42,244.78,1.47,2022-10-16,20:05:58
+vegan,Red cabbage with coriander seed,american,4.48,111.57,15.81,2022-10-16,20:05:58
+vegan,Chickpeas With Spring Greens (Vegan),american,39.1,139.69,22.25,2022-10-16,20:05:58
+vegan,Fully Loaded Vegan Burritos,american,67.39,364.68,36.02,2022-10-16,20:05:58
+vegan,Spicy Vegan Refried Beans Recipe,american,100.45,309.31,61.96,2022-10-16,20:05:58
+vegan,Cheesy Vegan Brussels Sprout Chips,american,12.37,27.62,14.54,2022-10-16,20:06:05
+vegan,Trinidad Pholourie (Gluten Free & Vegan),american,52.36,390.02,84.29,2022-10-16,20:06:05
+vegan,Vegan Whipped Coconut Sweet Potatoes,american,7.42,82.5,24.29,2022-10-16,20:06:05
+vegan,Olive-Artichoke Eggplant Rolls,mediterranean,21.24,79.57,92.14,2022-10-16,20:06:05
+vegan,Vegan Jelly-Filled Muffins Recipe,american,20.55,440.45,79.32,2022-10-16,20:06:05
+vegan,RAW VEGAN BLOODY MARY recipes,american,5.99,29.77,1.48,2022-10-16,20:06:05
+vegan,Hungarian Apple Crumb Kugel,french,17.65,504.27,94.97,2022-10-16,20:06:05
+vegan,Zucchini Verde Vegan Enchiladas,american,91.98,243.48,112.79,2022-10-16,20:06:05
+vegan,Asian-Style Lettuce Wraps,japanese,50.77,54.64,18.12,2022-10-16,20:06:05
+vegan,Vegan chickpea curry jacket potatoes,american,76.95,355.52,41.04,2022-10-16,20:06:05
+vegan,Vegan Fluffy Buttercream Frosting recipes,american,1.19,424.99,193.24,2022-10-16,20:06:05
+vegan,Vegan Thai Summer Squash Vichyssoise,south east asian,44.26,154.44,61.48,2022-10-16,20:06:05
+vegan,Vegan Cream of Broccoli Soup,american,50.28,107.77,31.46,2022-10-16,20:06:11
+vegan,Vegan Vanilla Ice Cream recipes,american,25.52,107.14,61.4,2022-10-16,20:06:11
+vegan,Raw Vegan Fig-Vanilla Jam,american,3.26,61.03,3.23,2022-10-16,20:06:11
+vegan,Vegan Bakery-Style Banana Muffins,american,54.07,584.1,8.27,2022-10-16,20:06:11
+vegan,Banana Cake with Peanut Butter Frosting recipes,american,33.4,355.7,147.51,2022-10-16,20:06:11
+vegan,Banana Bread for One,american,2.58,40.25,14.28,2022-10-16,20:06:11
+vegan,Vegan Spinach and Artichoke Dip,american,51.29,101.78,127.63,2022-10-16,20:06:11
+vegan,Vegan Stuffing with Mushrooms and Leeks,american,66.77,281.85,107.09,2022-10-16,20:06:11
+vegan,Vegan Tofu and Spinach Scramble,american,70.95,39.43,62.98,2022-10-16,20:06:11
+vegan,Spicy Cabbage Slaw (vegan) Recipe,american,5.78,84.31,0.89,2022-10-16,20:06:11
+vegan,VEGAN PENNE WITH VODKA SAUCE,american,107.55,480.93,253.29,2022-10-16,20:06:11
+vegan,Vegan Pumpkin Pie Ice Cream,american,16.63,173.09,43.5,2022-10-16,20:06:11
+vegan,Vegan Mint Chip Ice Cream,american,39.05,157.15,134.2,2022-10-16,20:06:11
+vegan,Grilled Portobello Mushroom Burgers,world,43.5,164.35,27.76,2022-10-16,20:06:11
+vegan,Raspberry Mousse recipes,french,39.86,167.6,36.62,2022-10-16,20:06:18
+vegan,Cajun Portobello Sandwich with Avocado and Rémoulade,american,57.79,210.99,172.74,2022-10-16,20:06:18
+vegan,Vegan Macaroni and Cheese recipes,american,193.15,523.06,199.57,2022-10-16,20:06:18
+vegan,Vegan Tofu Green Goddess Dressing,american,6.27,18.38,77.51,2022-10-16,20:06:18
+vegan,Vegan Sweet Potato Malai Kofta,american,36.9,128.0,128.65,2022-10-16,20:06:18
+vegan,Easy Vegan Pad Thai Supreme,american,97.94,217.78,168.32,2022-10-16,20:06:18
+vegan,Gluten-Free Balsamic Zucchini Scones,american,20.83,236.24,117.68,2022-10-16,20:06:18
+vegan,Vegan Lasagna with Roasted Vegetables,american,163.88,380.69,90.7,2022-10-16,20:06:18
+vegan,RAW VEGAN CHOCOLATE CAKE recipes,american,64.58,545.79,182.41,2022-10-16,20:06:18
+vegan,Creamy Vegan Butternut Squash Carbonara,american,109.29,444.43,60.41,2022-10-16,20:06:18
+vegan,RAW VEGAN DONUT HOLES recipes,american,27.04,203.88,72.04,2022-10-16,20:06:18
+vegan,Spring Has Sprung Salad recipes,american,17.79,61.94,14.16,2022-10-16,20:06:18
+vegan,Vegan Roasted Sweet Potato Quesadillas,mexican,77.95,361.1,76.6,2022-10-16,20:06:18
+vegan,Homemade 'Reese's Cups' Recipe,american,95.7,445.64,398.74,2022-10-16,20:06:25
+vegan,Vegan Green Bean Casserole Recipe,american,41.54,127.28,418.85,2022-10-16,20:06:25
+vegan,Chilled Avocado Soup,american,11.34,45.35,81.6,2022-10-16,20:06:25
+vegan,Creamy Vegan Herb Salad Dressing,american,14.5,6.77,34.26,2022-10-16,20:06:25
+vegan,Super Healthy Vegan Hummus Wrap,american,22.54,64.48,36.5,2022-10-16,20:06:25
+vegan,Vegan Portobello and Peach Burger,american,79.96,381.1,254.75,2022-10-16,20:06:25
+vegan,Creamy Vegan Avocado Potato Salad,american,26.81,185.65,60.99,2022-10-16,20:06:25
+vegan,Vegan Pumpkin Pie Ice Cream,american,16.63,173.09,43.5,2022-10-16,20:06:25
+vegan,Vegan Cauliflower Steaks with Mushroom Gravy,american,37.21,111.41,69.17,2022-10-16,20:06:25
+vegan,"The Happy Herbivore's Easy, Mock Tuna Salad Recipe",american,102.57,315.32,37.81,2022-10-16,20:06:25
+vegan,Vegan Cauliflower Fettuccine Alfredo with Kale,american,75.91,290.12,71.3,2022-10-16,20:06:25
+vegan,Smokin' Hot Vegan Vaquero Chili,american,57.35,191.42,17.06,2022-10-16,20:06:25
+vegan,Soy-Free Vegan Mayonnaise recipes,american,2.47,12.91,173.68,2022-10-16,20:06:25
+vegan,Paleo Honey Cake,eastern europe,87.32,258.25,259.21,2022-10-16,20:06:25
+vegan,"Homemade Vegan ""Kit Kat"" Bars",american,54.69,511.03,283.58,2022-10-16,20:06:25
+vegan,Spinach & Dill Pasta Salad,american,17.4,70.76,24.13,2022-10-16,20:06:25
+vegan,Vegan Cream of Broccoli Soup recipes,american,41.97,142.86,18.91,2022-10-16,20:06:32
+vegan,Indian Cauliflower with Black Mustard Seeds,mediterranean,14.68,48.25,45.34,2022-10-16,20:06:32
+vegan,5 Minute Vegan Kale Pesto recipes,american,13.62,20.92,135.28,2022-10-16,20:06:32
+vegan,Mexican Quinoa Bake,middle eastern,146.79,496.75,81.22,2022-10-16,20:06:32
+vegan,Pantry Thai vegan chickpea pasta,south east asian,119.07,530.39,176.66,2022-10-16,20:06:32
+vegan,Raw Mini Key Lime Pies,american,8.55,164.25,92.62,2022-10-16,20:06:32
+vegan,Vegan Italian Garbanzo Bean Soup,american,29.6,113.87,21.94,2022-10-16,20:06:32
+vegan,Recipe: Vegan Sweet Potato Chowder,american,17.31,201.34,28.75,2022-10-16,20:06:32
+vegan,Italian Wedding Soup,italian,125.25,163.89,50.35,2022-10-16,20:06:32
+vegan,Vegan Carrot Ginger Coconut Soup,american,29.08,129.28,68.93,2022-10-16,20:06:32
+vegan,RAW VEGAN SPECIAL BROWNIES recipes,american,33.59,250.48,358.36,2022-10-16,20:06:32
+vegan,Vegan Dark Chocolate Coconut Tart,american,32.24,221.1,103.54,2022-10-16,20:06:32
+vegan,Vegan Burrito Bowls with Cauliflower Rice,mexican,25.61,50.07,58.11,2022-10-16,20:06:32
+vegan,Soy-Free Vegan Mac and Cheese,american,74.62,161.63,11.77,2022-10-16,20:06:32
+vegan,Paleo and Vegan Pesto stuffed mushrooms,american,10.73,15.5,49.29,2022-10-16,20:06:32
+vegan,Vegan Dan Dan Noodles Recipe,asian,45.41,189.76,105.4,2022-10-16,20:06:32
+vegan,Eggless Tofu Salad,asian,54.39,29.82,38.61,2022-10-16,20:06:32
+vegan,The Best Vegan Tacos Ever,american,66.84,319.94,135.48,2022-10-16,20:06:38
+vegan,Vegan Lemon-Dill Cashew Dip,american,57.76,99.83,193.27,2022-10-16,20:06:38
+vegan,Summer Baked Beans,american,10.34,402.59,7.31,2022-10-16,20:06:38
+vegan,Green Goddess Dressing (Vegan) recipes,american,6.86,26.61,84.01,2022-10-16,20:06:38
+vegan,Carrot Mustard Soup,american,69.1,147.26,30.53,2022-10-16,20:06:38
+vegan,Vegan Creamy Curried Pumpkin Soup,american,63.88,290.85,179.29,2022-10-16,20:06:38
+vegan,Vegan Banana Coconut Ice Cream Recipe,american,12.53,369.55,105.65,2022-10-16,20:06:38
+vegan,Crabless Cakes with Hearts of Palm and Corn,mediterranean,30.54,144.93,42.23,2022-10-16,20:06:38
+vegan,"Chana Saag (vegan, gluten free)",american,60.24,155.38,44.87,2022-10-16,20:06:38
+vegan,Tofu Burger,asian,122.37,445.66,80.26,2022-10-16,20:06:38
+vegan,Mushroom Sun Burger,american,45.55,85.84,81.32,2022-10-16,20:06:38
+vegan,Mushroom Chia Risotto,italian,42.76,409.11,63.48,2022-10-16,20:06:38
+vegan,Tangy Vegan Potato Salad Recipe,american,57.93,304.53,130.47,2022-10-16,20:06:45
+vegan,Spicy Pumpkin Soup,british,23.85,148.88,17.78,2022-10-16,20:06:45
+vegan,Creamy Vegan Fingerling Potato Salad Recipe,american,20.82,185.35,55.76,2022-10-16,20:06:45
+vegan,Pumpkin Spice Whoopie Pies (Vegan),american,44.86,408.68,110.29,2022-10-16,20:06:45
+vegan,Petite Quiches Three Ways,french,115.56,354.44,204.12,2022-10-16,20:06:45
+vegan,"Vegan ""Pancit Bihon"" with Spaghetti Squash",american,14.17,90.83,32.26,2022-10-16,20:06:45
+vegan,Vegan Garlic Scrape and Mushroom Rice,american,29.91,145.23,15.92,2022-10-16,20:06:45
+vegan,Baked Eggplant Fries Recipe,french,61.99,238.33,30.15,2022-10-16,20:06:45
+vegan,Toasted Hazelnut and Fig Cake (Vegan),american,63.19,453.89,357.0,2022-10-16,20:06:45
+vegan,Naughty & Nice Vegan Enchilada Casserole,american,84.97,339.36,32.59,2022-10-16,20:06:45
+vegan,Vegan Harvest Vegetable Tart recipes,american,92.46,214.57,116.61,2022-10-16,20:06:45
+vegan,Peanut-Tamarind Dipping Sauce for Spring Rolls or Satay Recipe,south east asian,24.35,36.34,66.36,2022-10-16,20:06:45
+vegan,Vegan Pumpkin Pecan Pie recipes,american,87.99,496.82,335.19,2022-10-16,20:06:45
+vegan,Gluten-Free Vegan Stuffed Potatoes,american,98.63,691.07,33.85,2022-10-16,20:06:45
+vegan,Miso-Marinated Portobello Carpaccio (Vegan) Recipe,japanese,11.93,38.64,69.78,2022-10-16,20:06:45
+vegan,Vegan Avocado Lime Ice Cream Recipe,american,12.58,259.48,88.12,2022-10-16,20:06:45
+vegan,Oatmeal Banana Chocolate Chip Cake {Vegan},american,46.97,639.42,212.42,2022-10-16,20:06:45
+vegan,Vegan Peach Crumble Coffee Cake,american,34.97,392.01,164.88,2022-10-16,20:06:52
+vegan,Recipe: 6-Ingredient Vegan Enchilada Casserole,american,51.99,239.48,95.83,2022-10-16,20:06:52
+vegan,Best-Ever Vegan Mac & Cheese,american,134.86,514.32,144.12,2022-10-16,20:06:52
+vegan,Wholesome Holiday Cookies (vegan + gluten-free),american,36.43,157.33,208.54,2022-10-16,20:06:52
+vegan,Vegan Mint Chip Ice Cream Recipe,american,28.89,288.27,249.93,2022-10-16,20:06:52
+vegan,"Tofu ""Egg"" Salad",asian,68.9,30.83,70.95,2022-10-16,20:06:52
+vegan,"Strawberry Kiwi Daiquiri Cupcakes with Kiwi Curd, Strawberry Rum Frosting, and Strawberry Rum Shooter Garnish",american,92.28,2314.02,665.2,2022-10-16,20:06:52
+vegan,Loaded Organic Baked Potato with Broccoli and Cheese,italian,59.69,179.9,109.31,2022-10-16,20:06:52
+vegan,Vegan Soft Serve Ice Cream recipes,american,7.04,90.76,3.39,2022-10-16,20:06:52
+vegan,Zucchini Za’atar Vegan Scones recipes,american,37.77,213.68,129.79,2022-10-16,20:06:52
+vegan,VIETNAMESE RICE NOODLE SOUP (VEGAN PHO),south east asian,31.1,207.84,18.92,2022-10-16,20:06:52
+vegan,Deep Dish Chocolate Peanut Butter Ice Cream Cake recipes,american,112.35,575.76,249.51,2022-10-16,20:06:52
+vegan,Japanese Pancakes (Okonomiyaki) recipes,american,27.62,110.94,35.07,2022-10-16,20:06:52
+vegan,Spiced Coconut Lentil Soup recipes,south american,56.77,157.3,68.75,2022-10-16,20:06:52
+vegan,Veggie Kebabs With Vegan Pesto Sauce,american,107.45,103.38,222.45,2022-10-16,20:06:52
+vegan,Aromatic Coconut Rice recipes,indian,35.06,342.77,69.42,2022-10-16,20:06:59
+vegan,Fruit & nut butternut squash quinoa,south american,79.26,308.07,131.58,2022-10-16,20:06:59
+vegan,Slow-Cooker Vegan Lentil Curry,american,112.09,408.52,18.4,2022-10-16,20:06:59
+vegan,Instant-Pot Vegan Cauliflower Queso,american,27.68,59.25,18.02,2022-10-16,20:06:59
+vegan,Vegan Pumpkin Pecan Pie recipes,american,84.98,439.4,274.26,2022-10-16,20:06:59
+vegan,Vegan Carrot Spice Muffins recipes,american,52.3,443.44,47.22,2022-10-16,20:06:59
+vegan,5 Minute Vegan Pumpkin Soup recipes,american,30.87,168.45,44.04,2022-10-16,20:06:59
+vegan,Date parcels stuffed with frangipane and pomegranate,american,45.98,511.58,285.24,2022-10-16,20:06:59
+vegan,Vegan Coconut Banana Ice Cream recipes,american,12.71,127.44,84.77,2022-10-16,20:06:59
+vegan,Vegan Lentil Bolognese with Cashew Parmesan,american,113.48,482.33,37.83,2022-10-16,20:06:59
+vegan,Grilled Broccoli and Bread Salad with Pickled Shallots,american,42.75,263.75,130.8,2022-10-16,20:06:59
+vegan,"Celeriac, hazelnut & truffle soup",french,52.69,168.76,110.68,2022-10-16,20:06:59
+vegan,Rice Spaghetti with Green Vegan Basil Pesto,american,19.28,141.13,67.74,2022-10-16,20:06:59
+vegan,Easy Vegan Garlic Scape Pesto recipes,american,84.75,33.82,112.08,2022-10-16,20:06:59
+vegan,Vegan Saffron-Almond Rice Pudding Recipe,british,42.64,336.11,40.95,2022-10-16,20:07:05
+vegan,The Best Vegan Mapo Tofu Recipe,asian,75.35,69.27,136.84,2022-10-16,20:07:05
+vegan,15-Minute Creamy Tomato Soup (Vegan) Recipe,american,27.5,129.28,116.19,2022-10-16,20:07:05
+vegan,Eggless Salad,french,42.76,30.02,25.53,2022-10-16,20:07:05
+vegan,"Mushroom, Zucchini, and Black Bean Enchiladas",south american,69.31,322.33,106.83,2022-10-16,20:07:05
+vegan,The Trifecta Burger,american,105.55,94.95,227.09,2022-10-16,20:07:05
+vegan,"King Oyster Mushroom ""BLT"" with Basil Mayonnaise recipes",american,25.16,78.74,51.15,2022-10-16,20:07:05
+vegan,Callaloo - Trinidadian (Vegan) Cream of Spinach,american,23.33,58.48,125.79,2022-10-16,20:07:05
+vegan,Crispy Fish 'n' Rainbow Chips,american,203.23,155.01,146.44,2022-10-16,20:07:05
+vegan,Naan,indian,72.17,442.77,69.4,2022-10-16,20:07:05
+vegan,"Chocolate-Covered Potato Chips with Coconut, Chile Powder, & Toasted Almonds",american,65.69,379.93,327.43,2022-10-16,20:07:05
+vegan,Vegan Coconut Zucchini Chocolate Chip Bread,american,45.07,364.82,232.78,2022-10-16,20:07:05
+vegan,Roasted Cauliflower and Almond Risotto,italian,71.43,255.83,115.68,2022-10-16,20:07:05
+vegan,Vegan Kale and White Bean Korma,american,110.61,344.48,46.11,2022-10-16,20:07:05
+vegan,Vegan Stovetop-Style Macaroni and Cheese Recipe,american,57.7,264.11,151.45,2022-10-16,20:07:12
+vegan,Vegan Shiitake Miso Cleansing Soup recipes,american,39.68,202.63,9.48,2022-10-16,20:07:12
+vegan,Salmon with Stone Fruit and Parmesan Salad,nordic,87.02,43.49,122.55,2022-10-16,20:07:12
+vegan,Vegan Caesar Salad with Polenta Croutons,american,75.65,219.09,54.16,2022-10-16,20:07:12
+vegan,Mango Rice with Mustard,indian,18.61,178.66,51.56,2022-10-16,20:07:12
+vegan,Satay sweet potato curry,south east asian,30.05,156.04,107.5,2022-10-16,20:07:12
+vegan,Bean & halloumi stew,french,54.94,133.87,72.08,2022-10-16,20:07:12
+vegan,Yellow Split-Pea Soup,french,113.42,313.22,12.41,2022-10-16,20:07:12
+vegan,Lamington babka - chocolate and coconut vegan brioche,american,67.84,520.26,136.02,2022-10-16,20:07:12
+vegan,(Absolutely not a Falafel) Vegan Lentil Falafel,american,46.33,133.73,2.36,2022-10-16,20:07:12
+vegan,Vegan Lentil Bolognese with Cashew Parmesan,american,170.99,544.44,105.64,2022-10-16,20:07:12
+vegan,Spinach Fettuccine with Tangy Grilled Summer Squash,american,79.87,404.91,132.08,2022-10-16,20:07:12
+vegan,Spicy Vegan Dragon Noodle Salad Recipe,american,57.2,255.09,90.89,2022-10-16,20:07:12
+vegan,Meal-Prep Vegan Moroccan Lettuce Wraps,american,181.37,572.53,54.59,2022-10-16,20:07:12
+vegan,Savory Vegan Chickpea Crêpes With Vegetable Ragout,american,47.23,162.33,31.12,2022-10-16,20:07:19
+vegan,Fudgy Brownies recipes,french,61.79,603.55,215.47,2022-10-16,20:07:19
+vegan,Papadums With Whipped Dal,indian,55.86,135.98,58.81,2022-10-16,20:07:19
+vegan,Oil-free Vegan Pesto Pasta Salad,american,31.33,303.87,42.21,2022-10-16,20:07:19
+vegan,Vegan Pasta Alfredo With Two Stroganoff Variations,american,70.53,254.29,34.09,2022-10-16,20:07:19
+vegan,Repair and Recover Vegan Chia Pudding recipes,british,8.47,26.41,9.87,2022-10-16,20:07:19
+vegan,Kimchi Udon Noodle Soup,asian,55.59,161.65,24.36,2022-10-16,20:07:19
+vegan,Orange Chocolate Vegan Cheese Cake recipes,american,79.19,398.7,470.33,2022-10-16,20:07:19
+vegan,Vegan Chocolate-Peanut Butter Pudding Cups,british,65.49,340.58,271.16,2022-10-16,20:07:19
+vegan,Creamy Vegan Linguine with Wild Mushrooms recipes,american,102.78,374.81,91.03,2022-10-16,20:07:19
+vegan,Shiny Happy Poppers,french,32.06,200.02,115.51,2022-10-16,20:07:19
+vegan,Spinach Dip,american,30.78,43.04,132.01,2022-10-16,20:07:19
+vegan,Vegan Salty Peanut Butter Ice Cream Recipe,american,79.44,310.67,351.96,2022-10-16,20:07:19
+vegan,Vegan Sweet Potato and Pumpkin Pudding Cups,british,17.94,154.04,73.94,2022-10-16,20:07:19
+vegan,Sticky toffee pear pudding,british,38.94,975.75,206.75,2022-10-16,20:07:19
+vegan,Foolproof Vegan Vanilla Coconut Ice Cream Recipe,american,22.14,253.66,219.45,2022-10-16,20:07:26
+vegan,KALE + EDAMAME DUMPLINGS w/ SIMPLE DIPPING SAUCE recipes,chinese,74.92,368.27,22.84,2022-10-16,20:07:26
+vegan,Vegan Quinoa-Stuffed Grilled Zucchini recipes,american,36.15,107.22,72.8,2022-10-16,20:07:26
+vegan,"Vegan, Gluten Free Butternut Squash Gratin",american,104.45,273.06,62.21,2022-10-16,20:07:26
+vegan,Vegan Toasted Coconut And Pistachio Ice Cream,american,15.14,143.93,108.29,2022-10-16,20:07:26
+vegan,Vegan Dark Chocolate-Avocado Cake recipes,american,70.04,956.9,298.71,2022-10-16,20:07:26
+vegan,Chana Masala Pockets with Tofu and Arugula,asian,212.76,609.53,108.18,2022-10-16,20:07:26
+vegan,Vegan Chocolate Cake with Creamy Chocolate Filling,american,82.81,942.6,262.43,2022-10-16,20:07:26
+vegan,Vegan Quinoa-Cranberry Stuffed Acorn Squash,american,45.69,339.78,67.84,2022-10-16,20:07:26
+vegan,Karina's Gluten-Free Pumpkin Pie With Praline And Coconut-Pecan Crust,american,43.53,604.47,340.12,2022-10-16,20:07:26
+vegan,Vegan Vanilla Bean Coconut Milk Ice Cream,american,17.2,154.45,180.78,2022-10-16,20:07:26
+vegan,Strawberries with Pomegranate Molasses and Vegan Whip Cream,american,16.29,206.68,134.38,2022-10-16,20:07:26
+vegan,Vegan Wild-Rice-Stuffed Butternut Squash,american,37.1,306.15,77.66,2022-10-16,20:07:32
+vegan,Vegan Seitan and Mushroom Ragù Bolognese Recipe,american,132.82,110.63,99.64,2022-10-16,20:07:32
+vegan,Mini Vegan Key Lime Icebox Pies,american,34.73,315.21,801.39,2022-10-16,20:07:32
+vegan,Foolproof Vegan Chocolate Coconut Ice Cream Recipe,american,28.47,271.83,223.87,2022-10-16,20:07:32
+vegan,Vegan Shepherd’s Pie with Gravy recipes,american,42.83,360.03,54.61,2022-10-16,20:07:32
+vegan,Recipe: Vegan Creamy Curried Cauliflower Soup,american,32.73,97.53,95.5,2022-10-16,20:07:32
+vegan,Creamy Vegan Saag Paneer (With Tofu) Recipe,asian,50.62,81.39,62.87,2022-10-16,20:07:32
+vegan,Spiced Butternut Squash Lentil Soup (Vegan),american,64.65,236.09,33.82,2022-10-16,20:07:32
+vegan,"Gluten-Free, Vegan Cranberry-Almond Tartlets",american,71.0,418.03,177.94,2022-10-16,20:07:32
+vegan,Flying Tofu Wedges,asian,56.97,25.88,37.72,2022-10-16,20:07:32
+vegan,"Vegan Quinoa, Broccoli, and Kale Curry Recipe",american,42.54,161.71,55.0,2022-10-16,20:07:32
+vegan,"Vegan Coconut, Lime, and Rum Ice Cream Recipe",american,22.2,253.22,219.46,2022-10-16,20:07:32
+vegan,Easy Vegan Pressure-Cooker Miso Risotto Recipe,japanese,37.37,347.3,87.9,2022-10-16,20:07:32
+vegan,Mak Kimchi,south east asian,16.34,36.04,1.92,2022-10-16,20:07:39
+vegan,Amaretto-spiked Chocolate Mousse recipes,italian,51.89,188.64,99.61,2022-10-16,20:07:39
+vegan,"Easy Flaked Almond ""Tuna"" Salad recipes",american,36.59,50.97,86.5,2022-10-16,20:07:39
+vegan,Southern Skillet Black-Eyed Peas with Quick Buttery Biscuits,mediterranean,83.85,497.26,304.42,2022-10-16,20:07:39
+vegan,"Butternut, chestnut & lentil cake",south east asian,123.25,624.69,113.28,2022-10-16,20:07:39
+vegan,Pink Pasta - with a creamy vegan vegetable sauce,american,63.96,356.1,16.77,2022-10-16,20:07:39
+vegan,Garlic Potato Kale Cakes,central europe,39.38,301.21,42.49,2022-10-16,20:07:39
+vegan,Ultimate Vegan Lentil Walnut Loaf recipes,american,76.55,333.74,32.63,2022-10-16,20:07:39
+vegan,"Homemade Baileys Irish Cream, made vegan. recipes",world,8.86,93.2,117.82,2022-10-16,20:07:39
+vegan,"Vegan Potato, Pepper and Olive Phyllo Cups",mediterranean,65.91,373.92,94.34,2022-10-16,20:07:39
+vegan,Barbecued Tofu Burger,asian,66.13,259.53,41.51,2022-10-16,20:07:46
+vegan,5 Ingredient No Bake Vegan Date Squares recipes,american,100.09,831.04,179.01,2022-10-16,20:07:46
+vegan,Colin Quinn's Irish Lamb Stew recipes,british,282.7,351.37,349.13,2022-10-16,20:07:46
+vegan,Sweet Potato-Black Bean Burgers,american,78.61,299.8,66.66,2022-10-16,20:07:46
+vegan,Gluten- and Dairy-Free Pie Crust,american,19.84,146.62,117.59,2022-10-16,20:07:46
+vegan,Homemade Vegan Burgers That Don't Suck Recipe,american,116.52,408.38,173.73,2022-10-16,20:07:46
+vegan,Baked mini gluten free vegan vanilla donuts,american,6.74,206.28,51.41,2022-10-16,20:07:46
+vegan,Dark Chocolate Cherry Walnut Truffles recipes,french,29.78,210.49,152.54,2022-10-16,20:07:46
+vegan,Vegan Beet Burgers with Sweet Chili Slaw,american,55.2,303.88,59.95,2022-10-16,20:07:46
+vegan,Appetizer Recipe: Miso Sweet Potato Bites,japanese,29.62,206.76,42.3,2022-10-16,20:07:46
+vegan,Vegan Snack Recipe: Toast with Hummus & Veggies,american,8.85,33.92,4.8,2022-10-16,20:07:46
+vegan,Vegan dal | Hidden veg red lentil dal,american,80.1,235.31,7.74,2022-10-16,20:07:46
+vegan,Vegan Olive Oil Cake w/Candied Rosemary,american,39.73,686.82,352.54,2022-10-16,20:07:46
+vegan,Red Lentil Soup with Lime,french,53.51,161.56,19.46,2022-10-16,20:07:46
+vegan,Our Favorite Chocolate Cake,american,25.32,408.54,105.86,2022-10-16,20:07:46
+vegan,Who Cares Vegan Mac and Cheese recipes,american,303.66,681.96,245.27,2022-10-16,20:07:46
+vegan,"SEXY CARAMEL SLICE (RAW, VEGAN, XO) recipes",american,99.61,812.75,256.02,2022-10-16,20:07:46
+vegan,The Saint Jamez Benedict,american,67.18,126.42,168.33,2022-10-16,20:07:46
+vegan,Mexican Mushroom and Spinach Sandwich (Vegan Torta) Recipe,american,47.97,185.14,66.94,2022-10-16,20:07:46
+vegan,"Vegan Mushroom ""Jerky"" (Slow-Roasted Mushroom Strips)",american,6.67,32.45,14.0,2022-10-16,20:07:53
+vegan,Roasted Vegan Cauliflower Soup with Parsley-Chive Swirl,american,125.49,260.01,367.16,2022-10-16,20:07:53
+vegan,Vegan “Cream” Of Broccoli Soup With Leeks And Scallions,american,27.64,114.23,30.7,2022-10-16,20:07:53
+vegan,Spaghetti and Soyballs,italian,129.78,282.3,84.87,2022-10-16,20:07:53
+vegan,Vegan Pumpkin Pie With Rustic Spelt Crust,american,50.19,470.24,154.08,2022-10-16,20:07:53
+vegan,Raw Chili recipes,american,70.26,284.92,93.63,2022-10-16,20:07:53
+vegan,Vegan Southern-Style Collard Greens With Mushrooms Recipe,american,55.98,115.89,160.31,2022-10-16,20:07:53
+vegan,Organic Lentil and Rice Stuffed Peppers,mediterranean,115.69,347.98,40.9,2022-10-16,20:07:53
+vegan,Blender Sweet Potato Pie,south american,20.34,253.96,98.65,2022-10-16,20:07:53
+vegan,Vegan Hot and Sour Soup with Tofu recipes,american,81.76,53.77,82.74,2022-10-16,20:07:53
+vegan,Jackfruit Sloppy Joes,american,24.71,272.95,26.66,2022-10-16,20:07:53
+vegan,Plain Cake Donut,american,14.5,404.4,76.58,2022-10-16,20:07:53
+vegan,"Vegan Farro Risotto with Fennel, Peas and Greens",italian,41.38,190.32,76.47,2022-10-16,20:07:53
+vegan,Crisp Tofu and Thai Cucumber Raita,south east asian,26.96,34.41,40.89,2022-10-16,20:07:53
+vegan,CrisSpi Asian Tofu Sandwich,asian,150.3,464.12,119.07,2022-10-16,20:07:53
+vegan,Vegan Coconut-Lime Panna Cotta with Mango Jam,american,17.71,157.36,54.27,2022-10-16,20:07:53
+vegan,Asian Asparagus Salad With Peanuts and Mint Dressing [vegan],american,35.41,104.48,84.24,2022-10-16,20:07:53
+vegan,Vegan Kale and Black Sesame Sushi Bowl,japanese,33.12,258.51,45.52,2022-10-16,20:07:59
+vegan,Roasted Sweet Potato Salad with Candied Walnuts recipes,south american,18.51,117.15,64.52,2022-10-16,20:07:59
+vegan,Vegan Curry Butternut Squash Soup With Kale Recipe,american,37.46,163.3,59.63,2022-10-16,20:07:59
+vegan,Vegan Cream of Mushroom and Wild Rice Soup,american,47.23,183.97,66.42,2022-10-16,20:07:59
+vegan,Vegetarian Pasta Puttanesca,italian,54.02,303.41,75.85,2022-10-16,20:07:59
+vegan,Baked Yam Fries with Sriracha Hummus (Vegan + GF),american,33.02,169.41,42.68,2022-10-16,20:07:59
+vegan,Corn Soup with Tofu Larb,asian,88.69,267.57,77.5,2022-10-16,20:07:59
+vegan,"Tomato, pepper & bean one pot",mexican,161.21,531.46,26.21,2022-10-16,20:07:59
+vegan,THE BEST VEGAN CORN TACOS WITH BELL PEPPER AND CILANTRO,american,19.99,144.88,41.58,2022-10-16,20:07:59
+vegan,Basil Scalloped Tomatoes and Croutons recipes,american,40.71,83.13,49.37,2022-10-16,20:07:59
+vegan,"Carrot, Pea, and Mint Salad Recipe",mediterranean,17.22,75.91,82.92,2022-10-16,20:07:59
+vegan,Beet and Citrus Salad With Pine Nut Vinaigrette Recipe,american,24.74,156.71,107.6,2022-10-16,20:07:59
+vegan,Stir Fried Singapore Noodles with Garlic Ginger Sauce recipes,asian,35.17,166.07,18.47,2022-10-16,20:07:59
+vegan,Easy Vegan Soba Noodles with Peanut Sauce Recipe,asian,100.27,392.87,70.17,2022-10-16,20:07:59
+vegan,"Eat your veggies, risotto!",italian,57.83,172.85,39.19,2022-10-16,20:07:59
+vegan,Vegan Coconut Cream Tart with White Peaches and Blueberries,american,39.45,285.88,109.49,2022-10-16,20:08:06
+vegan,Tomato-Garlic Focaccia - My Vegan Italian Flatbread,american,29.81,323.46,24.1,2022-10-16,20:08:06
+vegan,Gluten-Free Low-Fat Vegan Oatmeal Muffins Recipe,american,36.6,395.9,52.33,2022-10-16,20:08:06
+vegan,Light Yakisoba Noodles,asian,26.81,120.31,35.64,2022-10-16,20:08:06
+vegan,Barbecue Slawpy Jacks,american,28.7,376.7,56.48,2022-10-16,20:08:06
+vegan,Gigante Beans a la Zaytinya,american,29.56,98.08,46.07,2022-10-16,20:08:06
+vegan,Vegan Chickpea Chile Soup with Greens and Grains,american,56.37,226.91,31.65,2022-10-16,20:08:06
+vegan,Vegan Garden Pesto With Miso and Mixed Herbs Recipe,american,10.74,18.94,124.83,2022-10-16,20:08:06
+vegan,Fig Salad inspired by Yotam Ottolenghi,american,22.07,156.75,49.11,2022-10-16,20:08:06
+vegan,Seared Maitake Mushrooms recipes,french,13.6,57.03,197.0,2022-10-16,20:08:06
+vegan,Cheater’s Maple Baked Beans on Toast recipes,american,34.0,133.4,9.01,2022-10-16,20:08:06
+vegan,Chickpea Salad recipes,american,35.34,109.62,26.9,2022-10-16,20:08:06
+vegan,The Vegan Divas Cookbook: Smoky Tomato-Bean Soup,american,70.3,187.93,32.62,2022-10-16,20:08:06
+vegan,Mexican Fried Eggplant Sandwich (Vegan Tortas and Pambazos) Recipe,american,61.37,316.97,274.04,2022-10-16,20:08:06
+vegan,Summer tomato lazy bruschetta,italian,37.03,180.61,44.77,2022-10-16,20:08:06
+vegan,"""Refried"" Black Beans and Walnut Meat Tacos (Vegan)",american,133.18,332.91,127.84,2022-10-16,20:08:06
+vegan,Vegan Roasted Vegetable Quinoa Bowl with Creamy Green Sauce,american,56.14,170.34,81.83,2022-10-16,20:08:06
+vegan,Herb and Cheese Drop Biscuits recipes,british,36.3,205.92,94.25,2022-10-16,20:08:06
+vegan,"Vegan Eggnog (Dairy Free, Egg Free, Gluten Free)",american,91.05,155.31,215.85,2022-10-16,20:08:13
+vegan,Butternut Squash Salad With Farro And Pepitas recipes,italian,67.75,229.64,124.65,2022-10-16,20:08:13
+vegan,"Vegan raw corn, avocado and black bean salad",american,44.72,195.48,34.04,2022-10-16,20:08:13
+vegan,Vegan Chocolate Layer Cake With Creamy Chocolate Filling,american,82.81,942.6,262.43,2022-10-16,20:08:13
+vegan,Seared Maitake Mushrooms,french,13.34,55.4,196.91,2022-10-16,20:08:13
+vegan,Chive Vegan Cheese Spread and Veggie Crackers recipes,american,138.65,214.34,302.54,2022-10-16,20:08:13
+vegan,Zucchini Gratin,french,48.89,133.58,108.22,2022-10-16,20:08:13
+vegan,Salmon Burgers with Tartar Sauce,nordic,172.89,109.41,191.28,2022-10-16,20:08:13
+vegan,Vegan Huevos Rancheros Are 10/10 Would Make Again,american,93.69,284.36,66.49,2022-10-16,20:08:13
+vegan,Whole Wheat Eggless Garlic Bread Rolls,american,95.06,500.82,65.36,2022-10-16,20:08:13
+vegan,French Apple Tart (Tarte Fine aux Pommes) [vegan],american,5.76,154.65,42.27,2022-10-16,20:08:13
+vegan,Toasted Coconut Chocolate Cream Pie,american,96.57,276.56,234.17,2022-10-16,20:08:13
+vegan,Vegan Pesto Spaghetti Squash with Mushrooms & Sun-Dried Tomatoes,american,30.43,110.1,81.2,2022-10-16,20:08:13
+vegan,Pasta e fagioli,italian,100.0,327.59,46.54,2022-10-16,20:08:13
+vegan,The Whole Wheat,american,80.52,395.26,102.03,2022-10-16,20:08:13
+vegan,"Eggplant, Mushroom & Pesto Pizza recipes",italian,66.43,309.21,113.02,2022-10-16,20:08:20
+vegan,Rotini Tomato Pasta with 3 Minute Vegan Parmesan Cheese recipes,american,28.77,26.8,36.72,2022-10-16,20:08:20
+vegan,Portobello Sliders with Pepita Pesto,american,67.2,211.29,116.76,2022-10-16,20:08:20
+vegan,Savory Vegan Chickpea Crêpes with Spring Vegetable Ragout,american,47.23,162.33,31.12,2022-10-16,20:08:20
+vegan,Slow-Cooker Vegan Butternut Squash Soup with Apple,american,49.4,225.93,112.78,2022-10-16,20:08:20
+vegan,Vegan: Japanese Simmered Daikon with Bok Choy and Edamame Recipe,world,22.13,75.04,6.6,2022-10-16,20:08:20
+vegan,Grilled Broccoli And Bread Salad With Pickled Shallots,american,42.75,263.75,130.8,2022-10-16,20:08:20
+vegan,"Green Bean Casserole (The Vegan, Gluten Free Sequel)",american,37.46,211.74,147.84,2022-10-16,20:08:20
+vegan,Vegan Crispy Stir-Fried Tofu With Broccoli Recipe,asian,67.23,204.3,282.72,2022-10-16,20:08:20
+vegan,Vegan Stuffed Squash with Brown Rice and Mushrooms recipes,american,70.59,564.75,78.83,2022-10-16,20:08:20
+vegan,Quinoa chilli with avocado & coriander,south american,63.63,199.77,62.16,2022-10-16,20:08:20
+vegan,Aloo Gobi,indian,26.33,176.83,12.93,2022-10-16,20:08:20
+vegan,Apple-Cranberry Cobbler,american,88.21,772.5,75.84,2022-10-16,20:08:20
+vegan,"From the Pantry: Vegan Pear, Cranberry and Pecan Muffins",american,31.57,444.44,162.63,2022-10-16,20:08:20
+vegan,Springtime Strawberry Lime Mango Crisp (Vegan + GF) recipes,american,48.9,300.82,142.18,2022-10-16,20:08:20
+vegan,Gluten-Free Tuesday: Vegan Apple Doughnuts Recipe,american,29.04,712.15,210.64,2022-10-16,20:08:26
+vegan,The Most Delicious Vegan Pad Kee Mao Recipe,american,86.42,497.8,386.06,2022-10-16,20:08:26
+vegan,Vegan Seared Pepper Tacos With Pintos And Avocado Crema,american,25.68,158.11,103.65,2022-10-16,20:08:26
+vegan,Charred aubergines with white beans & salsa verde,mexican,100.96,337.54,186.26,2022-10-16,20:08:26
+vegan,Yogurt Pancakes with Clementine Raspberry Compote,american,26.62,228.04,54.43,2022-10-16,20:08:26
+vegan,Curried Carrot Ginger Soup,indian,27.43,175.59,121.69,2022-10-16,20:08:26
+vegan,Tomato Bisque with Cashew Cream,mediterranean,63.64,156.49,170.3,2022-10-16,20:08:26
+vegan,"Apple, Pear, And Sage Pie With Maple Walnut Crunch And Salted Honey Yogurt",american,77.2,673.23,194.71,2022-10-16,20:08:26
+vegan,Crunchy Summer Salad with Creamy Vegan Avocado Dressing,american,65.41,268.37,97.67,2022-10-16,20:08:26
+vegan,RAW VEGAN TIRAMISU with VANILLA CREAM & COFFEE LADYFINGERS recipes,american,102.51,578.68,263.97,2022-10-16,20:08:26
+vegan,"Oatmeal, Fig, and Walnut Bars",american,73.43,1059.84,223.88,2022-10-16,20:08:26
+vegan,Chickpea Miso Gravy Bowl with Sweet and Tangy Portobello Mushrooms recipes,japanese,32.73,191.92,39.61,2022-10-16,20:08:26
+vegan,"Oatmeal, Fig, And Walnut Bars",american,54.06,916.76,219.49,2022-10-16,20:08:26
+vegan,Vegan Spinach and Hominy Enchiladas With Spicy Cashew Cream Recipe,american,95.94,460.5,120.71,2022-10-16,20:08:26
+vegan,Crabless Cakes with Hearts of Palm & Corn recipes,american,34.41,152.22,43.18,2022-10-16,20:08:26
+vegan,"Braised Red Cabbage (Rotkraut) - (Vegan, Gluten Free, Low Fat)",american,19.6,91.74,39.84,2022-10-16,20:08:26
+vegan,High Protein Quinoa Almond Berry Salad (Vegan & GF) recipes,american,39.67,220.91,45.97,2022-10-16,20:08:33
+vegan,Nut Meat Tacos with Pickled Red Onions,american,43.71,165.56,91.56,2022-10-16,20:08:33
+vegan,"Zucchini Noodles with Roasted Tomato Sauce (Gluten-Free, Vegan)",american,22.79,88.69,39.57,2022-10-16,20:08:33
+vegan,End Of Summer Peach Apple Cobbler (Gluten-Free & Vegan),american,25.99,293.33,56.32,2022-10-16,20:08:33
+vegan,"Cranberry, Apricot And Pecan Wild Rice Pilaf (Gf + Vegan)",american,36.91,263.46,75.99,2022-10-16,20:08:33
+vegan,Fried Eggplant Sandwich With Eggplant Mayo Recipe,mediterranean,60.32,323.46,333.19,2022-10-16,20:08:33
+vegan,Overnight Cherry Chia Seed Pudding – Paleo/Gluten Free/Vegan,american,12.77,112.92,56.84,2022-10-16,20:08:33
+vegan,Fernanda Capobianco’s Pissaladière with Vegetables and Olives,french,43.32,292.33,229.46,2022-10-16,20:08:33
+vegan,Vegan Lentil Shepherd’s Pie With Parsnip And And Potato Mash,american,123.18,591.98,66.46,2022-10-16,20:08:33
+vegan,Ruby and Emerald Jeweled Rice,american,71.39,635.59,83.8,2022-10-16,20:08:33
+vegan,Creamy Penne Pasta Bake With Zucchini,italian,72.39,391.05,92.19,2022-10-16,20:08:33
+vegan,Quinoa Greek Salad recipes,mediterranean,40.99,145.69,88.66,2022-10-16,20:08:33
+vegan,Pumpkin Polenta Recipe With Tomatillo-Avocado Salsa,south american,25.55,215.41,94.48,2022-10-16,20:08:33
+vegan,Gluten-Free Black Bean Burgers,south east asian,167.98,551.67,21.39,2022-10-16,20:08:33
+vegan,Creamy Polenta with Tempeh Sausage and Tomatoes,american,149.12,256.35,113.0,2022-10-16,20:08:33
+vegan,Pineapple and Shrimp Fried Quinoa recipes,south east asian,88.52,225.53,98.9,2022-10-16,20:08:33
+vegan,STRAWBERRY + CHOCOLATE CHEESECAKE recipes,american,90.62,426.23,303.42,2022-10-16,20:08:33
+vegan,French Toast with Caramelized Bananas (Vegan and Gluten-Free) recipes,american,30.81,252.81,116.54,2022-10-16,20:08:40
+vegan,Black Bean And Butternut Squash Burritos,mexican,80.91,322.43,60.9,2022-10-16,20:08:40
+vegan,Jicama and Pomelo Salad With Spicy Thai Dressing (Vegan) Recipe,south east asian,20.97,83.67,19.59,2022-10-16,20:08:40
+vegan,Recipe: Best-Ever Veggie Burger,american,78.27,305.53,27.28,2022-10-16,20:08:40
+vegan,Red Lentil Spaghetti With Vegan Cauliflower Rosa Sauce and Arugula,american,68.96,372.57,26.63,2022-10-16,20:08:40
+vegan,Dried Olive and Miso Shake (The Best Vegan Parmesan Substitute) Recipe,american,12.55,40.94,74.64,2022-10-16,20:08:40
+vegan,Vietnamese-Style Tofu Hero with Asian Slaw,south east asian,49.71,65.14,96.03,2022-10-16,20:08:40
+vegan,"A Recipe For Long Grain Brown Rice Pilaf (Vegan, Gluten Free)",mediterranean,43.94,188.1,47.11,2022-10-16,20:08:40
+vegan,Hazelnut Fig Crackers with Sage and Black Pepper,american,167.2,358.87,455.11,2022-10-16,20:08:40
+vegan,crunchy quinoa & veggie roaster,american,47.61,172.48,94.06,2022-10-16,20:08:40
+vegan,Chocolate Cake with Chocolate-Orange Frosting,american,37.4,726.63,235.54,2022-10-16,20:08:40
+vegan,Aloo Gobi,indian,27.03,181.02,31.83,2022-10-16,20:08:40
+vegan,Vegan Olive Oil Cake (adapted from Maialino's Olive Oil Cake),american,59.98,595.67,315.33,2022-10-16,20:08:40
+vegan,Cashew Cheesecake,american,87.42,376.41,316.17,2022-10-16,20:08:40
+vegan,Creamy Coconut & Roasted Beet Soup with Pistachios & Greek Yogurt,mediterranean,53.36,194.74,139.46,2022-10-16,20:08:40
+vegan,"Pasta With Snap Peas, Garlic, Lemon Zest, and Black Pepper (Vegan) Recipe",american,43.66,212.0,58.57,2022-10-16,20:08:40
+vegan,Curried Chickpea Sandwich,indian,81.73,310.6,118.26,2022-10-16,20:08:40
+vegan,"Gluten-Free, Vegan, and Oil-Free Walnut Chip Brownies recipes",american,48.32,425.34,81.89,2022-10-16,20:08:47
+vegan,Gluten Free Green Bean Casserole,south east asian,101.87,445.89,688.94,2022-10-16,20:08:47
+vegan,Cashew cream fettuccine Alfredo with sauteed spinach and cheese crisps (gluten-free),italian,134.51,486.89,259.0,2022-10-16,20:08:47
+vegan,"Vegan Peanut, Sweet Potato, and Kale Soup With Coconut Recipe",american,102.57,257.64,466.14,2022-10-16,20:08:47
+vegan,Maple-Glazed Sweet Potatoes (Japanese Daigaku Imo Style) w/Vegan option,american,9.74,183.18,83.83,2022-10-16,20:08:47
+vegan,Sweet Potato and Mushroom Cannelloni with Braised Escarole and Butter Beans (Vegan) Recipe,american,98.62,443.0,40.15,2022-10-16,20:08:47
+vegan,"A Recipe for Long Grain Brown Rice Pilaf (Vegan, Gluten Free)",mediterranean,31.85,171.16,41.35,2022-10-16,20:08:47
+vegan,Creamy Zucchini Soup With Scallions And Brazil Nut Chili Oil (Vegan),american,18.0,47.86,115.43,2022-10-16,20:08:47
+vegan,20 Minute Apple Turnovers,french,10.46,194.67,32.94,2022-10-16,20:08:47
+vegan,"Fat Tommy’s Three-Bean, Gluten-Free, Vegan Chili Recipe",american,171.0,580.93,51.33,2022-10-16,20:08:47
+vegan,"Cumin Scented Kale with Onions, Tomatoes and Mushrooms (Vegan and Gluten Free)",american,23.34,55.86,6.25,2022-10-16,20:08:47
+vegan,Grilled Marinated Heart of Palm Tacos With Spicy Cabbage Slaw (vegan) Recipe,american,37.49,199.1,58.73,2022-10-16,20:08:47
+vegan,"Spicy, Smoky Bean Cakes with Lime Slaw and Charred Avocado Recipe",south american,66.35,249.4,71.01,2022-10-16,20:08:47
+vegan,Curried Lentils with Quick-Pickled Veggies,indian,225.55,590.44,50.12,2022-10-16,20:08:47
+vegan,Whole-Grain Vegan Carrot Cake Loaf with Lemon Glaze recipes,american,49.39,381.92,102.7,2022-10-16,20:08:47
+vegan,Chocolate Cake with Chocolate-Orange Frosting recipes,american,37.4,726.63,235.54,2022-10-16,20:08:47
+vegan,Hearty Vegan Polenta and Kale Soup With Miso and Toasted Sesame Oil Recipe,japanese,23.03,167.07,101.79,2022-10-16,20:08:47
+vegan,Mushroom and Eggplant Veggie Burgers,nordic,118.09,385.66,106.3,2022-10-16,20:08:47
+vegan,Blissful Blueberry Banana Spelt Muffins (vegan + refined sugar-free) recipes,american,63.99,445.42,104.56,2022-10-16,20:08:53
+vegan,Pesto Knots,american,67.14,203.94,87.54,2022-10-16,20:08:53
+vegan,J. Kenji López-Alt's 15-Minute Creamy (Vegan) Tomato Soup,american,27.5,129.28,116.19,2022-10-16,20:08:53
+vegan,Southwestern Crispy Fish Taco Salad,american,115.47,258.63,243.6,2022-10-16,20:08:53
+vegan,Sinless Sticky Toffee Pecan Pudding recipes,british,26.85,625.68,137.41,2022-10-16,20:08:53
+vegan,Kentucky fried seitan,mediterranean,317.43,703.99,534.41,2022-10-16,20:08:53
+vegan,Quinoa Maki with Avocado and Cajun Portobello Fillets,american,30.0,115.55,99.36,2022-10-16,20:08:53
+vegan,Indian Stuffed Eggplant,mediterranean,66.39,327.51,151.81,2022-10-16,20:08:53
+vegan,"Spicy Peanut Noodle Salad With Cucumbers, Red Peppers, and Basil (Vegan) Recipe",american,97.38,284.55,128.74,2022-10-16,20:08:53
+vegan,Vegan Pumpkin Pie Squares with Gluten-Free Graham Cracker Crust recipes,american,12.97,240.28,95.85,2022-10-16,20:08:53
+vegan,Lemon Glazed Spice Cake With Whipped Cream,american,29.85,482.83,78.11,2022-10-16,20:08:53
+vegan,Cozy Yellow Curry Vegetable Soup,indian,46.9,136.01,90.04,2022-10-16,20:08:53
+vegan,"Japanese Udon With Mushroom-Soy Broth, Stir-Fried Mushrooms, and Cabbage (Vegan) Recipe",american,6.82,20.1,3.16,2022-10-16,20:08:53
+vegan,"Tempeh, Pepper, and Spinach-Pesto Sandwich",mediterranean,88.15,164.82,78.16,2022-10-16,20:08:53
+vegan,Sweet potato & black bean chilli with zesty quinoa,south american,70.17,302.2,66.07,2022-10-16,20:08:53
+vegan,"ULTIMATE RAW VEGAN PIZZA (LOW-FAT, OIL-FREE, SALT-FREE) recipes",italian,26.97,147.83,5.81,2022-10-16,20:08:53
+vegan,"Oven Roasted Portobello Mushrooms marinated in Balsamic (Vegan, Gluten Free) Vinegar, Shallots and Thyme",american,10.23,86.04,1.3,2022-10-16,20:08:53
+vegan,Yellow Split Pea Soup recipes,french,122.34,325.46,68.41,2022-10-16,20:08:53
+vegan,Banana-Coconut Cake Recipe,caribbean,55.36,1063.72,621.42,2022-10-16,20:09:03
+vegan,Party Vegan's Porcini-stuffed Seitan with Wild Mushroom Sauce Recipe,american,273.14,433.03,89.55,2022-10-16,20:09:03
+vegan,Steamed Buns with Tempura King Oyster Mushrooms and Agave-Miso Mayonnaise (Vegan) Recipe,japanese,75.31,498.92,898.55,2022-10-16,20:09:03
+vegan,Mexican Chocolate Cake,mexican,37.67,460.63,87.47,2022-10-16,20:09:03
+vegan,"All the Veggies In Your Fridge, Stir-Fry (Low Oil, Vegan, GF)",american,10.96,123.44,15.73,2022-10-16,20:09:03
+vegan,CHIPOTLE JACKFRUIT TACOS WITH SIMPLE GUAC AND LEMON ORANGE CREMA,mexican,35.85,463.12,106.43,2022-10-16,20:09:03
+vegan,Crispy Bánh Mì Spring Rolls With Creamy Chili Mayo Recipe,american,12.93,389.9,1831.34,2022-10-16,20:09:03
+vegan,"Mediterranean White Beans with Sun Dried Tomatoes, Mushrooms, Garlic and Thyme (vegan, gluten free)",american,96.57,251.63,30.86,2022-10-16,20:09:03
+vegan,The Ultimate Rich and Creamy Vegan Ramen With Roasted Vegetables and Miso Broth Recipe,japanese,3.4,15.57,9.12,2022-10-16,20:09:03
+vegan,Jeweled Rice (Iranian / Persian Morausa Polo),middle eastern,66.05,572.85,202.78,2022-10-16,20:09:03
+vegan,Ginger-Apple Crumble Pie (Gluten And Dairy-Free),american,43.69,447.5,213.05,2022-10-16,20:09:03
+vegan,"Look Ma No Dairy! - Creamy Parnsnip Soup with Granny Smith Apples (Vegan, Gluten Free)",american,125.36,322.67,170.22,2022-10-16,20:09:03
+vegan,Sassy Springtime Rolls,south east asian,53.3,189.63,35.99,2022-10-16,20:09:03
+vegan,"Spicy Sauteed Kale with Pan Roasted Garlic, Currants and Sun Flower Seeds (Vegan, gluten free)",american,22.66,74.51,50.5,2022-10-16,20:09:03
+vegan,"Don't Die on Me Man - A Comforting and Healing Spicy Soup (Vegan, Gluten Free)",american,55.94,109.29,19.87,2022-10-16,20:09:03
+vegan,Maple Cinnamon Mashed Sweet Potatoes recipes,american,41.97,402.47,162.37,2022-10-16,20:09:09
+vegan,"Sichuan Shirataki Sesame Noodle Salad With Cucumber, Sichuan Peppercorn, Chili Oil, and Peanuts (Vegan) Recipe",american,54.67,207.71,111.88,2022-10-16,20:09:09
+vegan,Basil Thai Noodles with Bison and Zucchini + Spicy Quick Pickled Cucumber,south east asian,130.67,270.48,126.89,2022-10-16,20:09:09
+vegan,Beetroot Tart Tatin,french,26.4,161.98,184.31,2022-10-16,20:09:09
+vegan,Beetroot & squash Wellingtons with kale pesto,british,125.44,610.67,332.9,2022-10-16,20:09:09
+vegan,Warm Couscous Salad w/ Olives + Pine Nuts,french,46.78,201.6,85.61,2022-10-16,20:09:09
+vegan,15 Minute No Bake Energy Bites,american,25.38,166.43,34.64,2022-10-16,20:09:09
+vegan,"Carrot ""Lox""",british,2.53,16.67,0.7,2022-10-16,20:09:09
+vegan,Coconut Mashed Sweet Potatoes,american,23.13,253.62,48.98,2022-10-16,20:09:09
+vegan,Buckwheat Tortillas,mexican,45.44,255.23,44.91,2022-10-16,20:09:09
+vegan,Coconut chutney,indian,11.96,48.23,47.49,2022-10-16,20:09:09
+vegan,Rich Chocolate Ganache Topping Recipe,french,5.78,103.65,34.42,2022-10-16,20:09:09
+vegan,Stuffed Mediterranean Baked Potato,mediterranean,38.87,199.05,9.32,2022-10-16,20:09:09
+vegan,Sweet potato crisps,south american,0.38,4.9,6.76,2022-10-16,20:09:09
+vegan,Tangerine Thyme Cooler,american,13.56,282.89,5.09,2022-10-16,20:09:09
+vegan,Cashew Cream Recipe,american,51.27,112.82,123.1,2022-10-16,20:09:09
+vegan,Raspberry sorbet,french,6.64,265.07,3.42,2022-10-16,20:09:09
+vegan,Warm Shredded Carrot Salad with Carrot Greens,american,4.78,37.16,14.42,2022-10-16,20:09:09
+vegan,"Creamy, Zesty ""Cheese"" Dip",american,70.88,81.86,64.78,2022-10-16,20:09:16
+vegan,Coconut Whipped Cream,american,14.41,34.64,137.64,2022-10-16,20:09:16
+vegan,Fudgy Oat Milk Frappuccino Dream,american,35.75,172.96,95.0,2022-10-16,20:09:16
+vegan,Spinach & chickpea dhal,american,39.86,108.47,68.16,2022-10-16,20:09:16
+vegan,Apple Pie Overnight Oats Recipe,american,74.41,185.78,142.31,2022-10-16,20:09:16
+vegan,Georgian Spinach Walnut Dip- Ispanakhis Pkhali,american,10.33,24.49,46.08,2022-10-16,20:09:16
+vegan,Spicy roast chickpeas,american,29.12,93.28,16.66,2022-10-16,20:09:16
+vegan,Tuscan Tomato Soup,italian,53.19,174.27,38.44,2022-10-16,20:09:16
+vegan,Sesame stir-fry wrap,chinese,14.55,52.11,22.85,2022-10-16,20:09:16
+vegan,Black Bean-Sweet Potato Burritos,mexican,173.91,779.52,60.98,2022-10-16,20:09:16
+vegan,Tofu Scramble Fried Rice,asian,33.95,117.22,28.08,2022-10-16,20:09:16
+vegan,Mint Chocolate Chip Nice Cream,american,10.98,112.7,61.85,2022-10-16,20:09:23
+vegan,Minted green bean salad,american,11.75,46.65,41.95,2022-10-16,20:09:23
+vegan,Wilted Spinach Salad with Coconut Bacon,american,1.02,3.37,6.74,2022-10-16,20:09:23
+vegan,Cucumber-Jalapeño Popsicles,american,6.27,72.05,1.17,2022-10-16,20:09:23
+vegan,Spaghetti Carbonara,italian,89.88,234.58,104.78,2022-10-16,20:09:23
+vegan,"Bean, tomato & watercress salad",south american,98.39,331.35,36.72,2022-10-16,20:09:23
+vegan,Minted green bean salad,american,12.0,47.97,41.97,2022-10-16,20:09:23
+vegan,Baked Almond Feta,mediterranean,47.14,46.8,154.91,2022-10-16,20:09:23
+vegan,Raspberry ripple chia pudding,british,20.18,81.74,23.28,2022-10-16,20:09:23
+vegan,Indian Spiced Lentil Soup,indian,146.81,474.58,40.73,2022-10-16,20:09:23
+vegan,Classic Cashew Cheese,mediterranean,58.6,67.87,63.93,2022-10-16,20:09:23
+vegan,Roasted Squash and Raw Carrot Soup Recipe,american,36.24,277.34,126.3,2022-10-16,20:09:23
+vegan,Keep it green sandwich,south east asian,14.92,53.41,32.27,2022-10-16,20:09:23
+vegan,Smoky Charred Cauliflower and Potato Soup With Kale Recipe,american,38.9,228.69,31.37,2022-10-16,20:09:23
+vegan,Onigiri,south american,28.7,312.65,29.67,2022-10-16,20:09:23
+vegan,Chilli-charred Brussels sprouts,mediterranean,22.01,64.6,57.28,2022-10-16,20:09:30
+vegan,"Colcannon Inspired, Spicy Asian Sweet Potato Salad",south american,49.57,318.05,40.73,2022-10-16,20:09:30
+vegan,Miso aubergines,japanese,27.61,143.46,19.33,2022-10-16,20:09:30
+vegan,Golden beet hummus,eastern europe,40.89,119.51,112.69,2022-10-16,20:09:30
+vegan,Eggplant Arrabbiata,french,65.83,370.1,76.85,2022-10-16,20:09:30
+vegan,Coconut Nice,american,48.71,819.39,262.56,2022-10-16,20:09:30
+vegan,Cashew “Hollandaise”,french,6.59,13.61,42.48,2022-10-16,20:09:30
+vegan,ORANGE TARRAGON FRUIT LEATHER,american,10.5,71.22,25.36,2022-10-16,20:09:30
+vegan,Roasted pear with walnut & ginger filling,american,17.33,176.0,60.98,2022-10-16,20:09:30
+vegan,Dairy Free Chocolate Coconut Ice Cream,american,10.2,73.41,86.47,2022-10-16,20:09:30
+vegan,Hearty Winter Vegetable Soup Recipe,mediterranean,34.01,168.55,21.55,2022-10-16,20:09:30
+vegan,Spinach & chickpea curry,indian,70.74,222.0,26.18,2022-10-16,20:09:30
+vegan,Roasted cherry tomato and eggplant pasta,italian,71.33,454.7,9.06,2022-10-16,20:09:30
+vegan,Cassava Bacon,american,11.08,186.49,22.83,2022-10-16,20:09:30
+vegan,Crispy Fried Chickpea Cake and Slaw Sandwiches Recipe,american,102.28,465.63,170.32,2022-10-16,20:09:30
+vegan,"Linguine with avocado, tomato & lime",italian,24.41,137.68,32.28,2022-10-16,20:09:30
+vegan,Gluten Free Cauliflower Kale Pesto Pizza,italian,25.86,42.4,84.09,2022-10-16,20:09:30
+vegan,Pumpkin Pie Tarts,american,121.77,431.62,291.01,2022-10-16,20:09:36
+vegan,Melon Milk Pops,american,14.53,133.36,11.26,2022-10-16,20:09:36
+vegan,Vegetarian Enchiladas,mexican,70.42,272.88,34.95,2022-10-16,20:09:36
+vegan,"""Chorizo"" Tacos From 'The VB6 Cookbook'",asian,92.83,143.99,76.85,2022-10-16,20:09:36
+vegan,Parsnip and Chestnut Bisque,french,14.41,225.76,55.78,2022-10-16,20:09:36
+vegan,Barley & broccoli risotto with lemon & basil,italian,18.12,99.9,31.15,2022-10-16,20:09:36
+vegan,Butter bean & tomato salad,middle eastern,38.38,123.71,46.77,2022-10-16,20:09:36
+vegan,"Fried Plantains With Black Beans, Roasted Poblanos, Avocado, and Pickled Red Onion Recipe",south american,45.04,349.94,318.04,2022-10-16,20:09:36
+vegan,Avocado hummus & crudités,mediterranean,55.34,192.09,43.34,2022-10-16,20:09:36
+vegan,Watermelon-Strawberry Popsicles,american,4.81,76.54,1.69,2022-10-16,20:09:36
+vegan,Dairy Free Tzatziki,mediterranean,33.82,88.14,62.31,2022-10-16,20:09:36
+vegan,Cook the Book: Lasagna with Roasted Cauliflower Ricotta and Spinach,italian,96.05,125.05,37.69,2022-10-16,20:09:36
+vegan,Mexican chocolate chickpea brownie,french,140.86,703.55,233.35,2022-10-16,20:09:43
+vegan,Squash & spinach fusilli with pecans,american,26.33,128.24,19.96,2022-10-16,20:09:43
+vegan,Guacamole & mango salad with black beans,mexican,32.88,143.89,25.03,2022-10-16,20:09:43
+vegan,Butter bean & tomato salad,middle eastern,39.49,126.57,47.07,2022-10-16,20:09:43
+vegan,Leek seeni sambol,japanese,6.42,47.99,23.82,2022-10-16,20:09:43
+vegan,Parsnip gnocchi,french,48.6,271.55,78.89,2022-10-16,20:09:43
+vegan,Soondubu Jjigae (Korean Soft Tofu Stew) Recipe,asian,131.98,56.1,190.38,2022-10-16,20:09:43
+vegan,Syrian Hummus,mediterranean,60.77,194.69,122.04,2022-10-16,20:09:43
+vegan,Kohlrabi Fritters,south east asian,27.12,73.76,56.02,2022-10-16,20:09:43
+vegan,Luxury hummus,mediterranean,148.12,462.54,174.66,2022-10-16,20:09:43
+vegan,Strawberry-Mango Nice Cream,american,4.37,69.68,1.98,2022-10-16,20:09:43
+vegan,Peanut and Coke Sorbet Recipe,american,46.68,276.31,102.94,2022-10-16,20:09:43
+vegan,Tofu Tacos,asian,74.68,180.41,66.77,2022-10-16,20:09:43
+vegan,Fennel Pistachio Cauliflower Steaks,mediterranean,34.0,89.7,59.78,2022-10-16,20:09:43
+vegan,Quinoa and lentil salad with arugula,middle eastern,77.4,272.33,67.77,2022-10-16,20:09:43
+vegan,Cauliflower steaks with roasted red pepper & olive salsa,american,16.25,39.91,39.3,2022-10-16,20:09:43
+vegan,Asparagus & lemon spaghetti with peas,italian,34.55,164.06,31.77,2022-10-16,20:09:43
+vegan,Veggie tahini lentils,mediterranean,84.45,227.58,59.23,2022-10-16,20:09:50
+vegan,Roasted squash & red onion with pistachios,american,16.0,115.48,42.67,2022-10-16,20:09:50
+vegan,Citrus Lime Tofu Salad,asian,27.09,20.25,31.08,2022-10-16,20:09:50
+vegan,Burnt leeks on toast with romesco,mediterranean,52.01,258.41,57.4,2022-10-16,20:09:50
+vegan,Marinated Kale and Chickpea Salad With Sumac Onions Recipe,american,50.3,135.85,33.68,2022-10-16,20:09:50
+vegan,Beefless Ground Beef,american,41.35,11.42,32.61,2022-10-16,20:09:50
+vegan,Veggie-loaded flatbread,mediterranean,51.57,187.8,72.72,2022-10-16,20:09:50
+vegan,Gluten-Free Apple and Walnut Pakoda/Fritters,american,21.6,152.21,42.09,2022-10-16,20:09:50
+vegan,Beet Tartare,french,27.2,108.07,62.82,2022-10-16,20:09:50
+vegan,Slow-Cooker Creamy Lentil Soup Freezer Pack,american,71.2,184.75,16.0,2022-10-16,20:09:50
+vegan,Egg-Free and Dairy-Free Pumpkin Pudding,british,17.97,108.25,91.53,2022-10-16,20:09:50
+vegan,Spaghetti with a Creamy Zucchini & Mint Sauce,french,38.17,194.22,12.32,2022-10-16,20:09:50
+vegan,Pesto Tortilla Pizza,italian,56.56,269.32,155.67,2022-10-16,20:09:50
+vegan,Gluten-Free Apple Hand Pies Recipe,american,23.5,425.1,101.1,2022-10-16,20:09:56
+vegan,Veggie Sandwich,indian,9.87,48.35,10.98,2022-10-16,20:09:56
+vegan,Toasted Paprika Chickpeas,mediterranean,30.39,99.03,28.82,2022-10-16,20:09:56
+vegan,Healthy Broccoli and Cheese Soup,american,67.06,97.78,8.01,2022-10-16,20:09:56
+vegan,Garlic Mashed Cauliflower,mediterranean,17.51,49.52,43.95,2022-10-16,20:09:56
+vegan,Butternut Squash and Quinoa Pilaf,mediterranean,28.77,160.17,42.8,2022-10-16,20:09:56
+vegan,Crispy sweet potatoes with chickpeas & tahini yogurt,mediterranean,55.06,246.11,100.18,2022-10-16,20:09:56
+vegan,Sweet potato Tex-Mex salad,mexican,51.93,283.57,91.4,2022-10-16,20:09:56
+vegan,Mushroom Beet Black Bean Burger,american,60.14,138.46,27.25,2022-10-16,20:09:56
+vegan,Cauliflower Steaks with Olive Salsa and Roasted Tomato Sauce,american,23.27,96.18,29.35,2022-10-16,20:09:56
+vegan,Veggie olive wraps with mustard vinaigrette,american,6.84,34.45,13.26,2022-10-16,20:09:56
+vegan,Smoky Potato and Caper Empanadas With Cilantro Sauce Recipe,south american,48.15,374.31,1930.24,2022-10-16,20:09:56
+vegan,Aubergine & chickpea bites,french,60.56,259.79,59.97,2022-10-16,20:09:56
+vegan,Shortbread Pecan Pie Crust,american,30.42,129.38,155.44,2022-10-16,20:09:56
+vegan,Zucchini Cannelloni with Cashew sauce,italian,42.87,80.26,34.37,2022-10-16,20:09:56
+vegan,Sweet potato & cauliflower lentil bowl,indian,66.52,222.82,47.41,2022-10-16,20:09:56
+vegan,Summertime Lentil Salad With Mango,indian,15.05,51.05,17.71,2022-10-16,20:09:56
+vegan,Curried parsnip soup shots,american,30.68,141.37,32.54,2022-10-16,20:10:03
+vegan,Chilli & avocado salsa sweet potatoes,mexican,46.0,212.41,40.19,2022-10-16,20:10:03
+vegan,Autumn Apple Pumpkin Soup,american,16.38,140.73,50.33,2022-10-16,20:10:03
+vegan,Cook the Book: Garlicky Mushrooms and Kale,american,24.96,50.66,9.31,2022-10-16,20:10:03
+vegan,Raspberry-Banana Sorbet,french,10.18,107.83,4.89,2022-10-16,20:10:03
+vegan,Miso roasted tofu with sweet potato,asian,80.17,115.44,75.36,2022-10-16,20:10:03
+vegan,Citrus Collards with Raisins Redux,american,6.65,92.0,14.69,2022-10-16,20:10:03
+vegan,My children love beet salad!,american,21.29,95.81,50.29,2022-10-16,20:10:03
+vegan,Edamame & Veggie Rice Bowl,japanese,9.58,43.75,26.11,2022-10-16,20:10:03
+vegan,Sautéed Spinach,french,14.23,19.32,10.81,2022-10-16,20:10:03
+vegan,Tuscan Hummus,italian,77.06,228.87,73.14,2022-10-16,20:10:03
+vegan,Tangy Teriyaki Salmon,nordic,431.1,39.47,276.51,2022-10-16,20:10:03
+vegan,Graham Cracker Cinnamon Rolls (the best ever!),american,41.53,395.99,94.71,2022-10-16,20:10:03
+vegan,"""Chocomole"" Pudding",british,37.32,445.2,117.05,2022-10-16,20:10:03
+vegan,Broccoli Slaw w/ Mustard Vinaigrette,american,11.45,50.78,15.07,2022-10-16,20:10:03
+vegan,Pesto Stuffed Mushrooms,italian,16.01,40.09,31.17,2022-10-16,20:10:03
+vegan,Edamame Spread,japanese,1.65,4.08,18.65,2022-10-16,20:10:03
+vegan,Escalivada (Smoky Slow-Roasted Vegetables),mediterranean,15.04,78.65,74.96,2022-10-16,20:10:10
+vegan,Coconut Almond Chia Seed Pudding Recipe,british,26.13,107.65,60.6,2022-10-16,20:10:10
+vegan,Cucumber-Avocado Cauliflower Rice Sushi,japanese,18.14,60.4,149.24,2022-10-16,20:10:10
+vegan,"Amaranth ""Risotto"" With Mushrooms",italian,87.04,417.85,126.84,2022-10-16,20:10:10
+vegan,Garlicky mushroom penne,mediterranean,41.4,171.31,23.15,2022-10-16,20:10:10
+vegan,West Indian spiced aubergine curry,indian,11.25,69.45,15.4,2022-10-16,20:10:10
+vegan,Roasted aubergine & tomato curry,indian,20.68,90.56,125.12,2022-10-16,20:10:10
+vegan,"Cauliflower, squash, coconut & lentil curry",indian,77.02,241.44,118.3,2022-10-16,20:10:10
+vegan,Ripe's Eggplant Romesco Rigatoni,mediterranean,64.71,293.29,70.69,2022-10-16,20:10:10
+vegan,Date and Fennel Tofu Scramble,asian,78.01,165.29,65.14,2022-10-16,20:10:10
+vegan,Caramelized Onion Hummus,mediterranean,73.91,236.99,191.25,2022-10-16,20:10:10
+vegan,Asian Bulgur Wheat Salad,chinese,20.18,99.19,29.31,2022-10-16,20:10:10
+vegan,Roast asparagus bowls with tahini lemon dressing,mediterranean,38.85,152.63,26.53,2022-10-16,20:10:10
+vegan,"Tomato, Fennel, and Crab Soup",french,76.04,175.31,101.06,2022-10-16,20:10:10
+vegan,Pasta with Broccoli and Cauliflower,italian,71.61,273.57,34.28,2022-10-16,20:10:17
+vegan,Tuscan Black Cabbage Bruschetta - (Crostoni Di Cavolo Nero),italian,15.29,69.67,4.0,2022-10-16,20:10:17
+vegan,Black-Eyed Pea and Tempeh Beanballs,italian,89.8,120.96,41.04,2022-10-16,20:10:17
+vegan,"Spanish Rice with Chorizo, Beans and Peas",mediterranean,176.64,432.46,209.06,2022-10-16,20:10:17
+vegan,Cauliflower Cilantro Salad Recipe,mediterranean,11.07,41.95,42.2,2022-10-16,20:10:17
+vegan,"Spicy, Peanutty Udon with Kale",american,32.54,85.66,35.11,2022-10-16,20:10:17
+vegan,Satay noodle soup,asian,13.54,53.94,39.2,2022-10-16,20:10:17
+vegan,Raw Chocolate Ganache Cake,french,42.13,240.67,153.62,2022-10-16,20:10:17
+vegan,"#SPINACH #LASAGNA my #Caribbean favourite, #Delicious #Nutritious #Vegetarian",italian,165.9,333.74,548.55,2022-10-16,20:10:17
+vegan,"Tempeh ""Chicken"" Salad",american,26.8,23.75,24.2,2022-10-16,20:10:17
+vegan,Easy Chickpea Curry,indian,201.31,843.44,267.99,2022-10-16,20:10:17
+vegan,Mint & basil griddled peach salad,mediterranean,23.36,118.14,42.51,2022-10-16,20:10:17
+vegan,Seasoned Black-Eyed Peas,south american,16.32,101.48,30.38,2022-10-16,20:10:17
+vegan,Southwest Sweet Potato Salad,american,52.07,266.82,62.04,2022-10-16,20:10:17
+vegan,Braised Green Beans with Tomatoes,mediterranean,17.49,77.86,70.2,2022-10-16,20:10:17
+vegan,Curried Cauliflower Soup with Roasted Tomatoes,american,22.49,77.48,52.77,2022-10-16,20:10:17
+vegan,Gluten-Free Banana Flapjacks,eastern europe,21.33,185.77,33.69,2022-10-16,20:10:17
+vegan,Baked Potato Soup with Crunchy Potato Skins,american,36.82,279.22,56.47,2022-10-16,20:10:17
+vegan,Baked Sweet Potatoes with Spiced Lentil Salad & Lemon Tahini Dressing,mediterranean,98.97,347.21,116.32,2022-10-16,20:10:17
+vegan,Pistachio Gelato,italian,0.48,75.19,155.03,2022-10-16,20:10:24
+vegan,Japanese Tabbouleh with Cilantro & Tofu,asian,57.81,24.75,42.47,2022-10-16,20:10:24
+vegan,Dairy-Free Spinach Stuffed Shells,american,156.82,426.75,85.12,2022-10-16,20:10:24
+vegan,Greek Potato Salad,mediterranean,49.15,416.81,110.81,2022-10-16,20:10:24
+vegan,West Coast Avocado Toast,american,15.07,42.1,21.11,2022-10-16,20:10:24
+vegan,Cook the Book: Brussels Sprout-Potato Hash,french,18.46,110.8,10.42,2022-10-16,20:10:24
+vegan,Red Lentil Dhal,indian,93.79,232.77,13.92,2022-10-16,20:10:24
+vegan,Chilled spicy tahini noodle bowl,asian,147.05,367.86,120.65,2022-10-16,20:10:24
+vegan,Stuffed pumpkin,american,45.99,241.59,104.45,2022-10-16,20:10:24
+vegan,Chickpea & roasted parsnip curry,south east asian,80.48,352.46,142.46,2022-10-16,20:10:24
+vegan,Charred Green Beans with Mustard Vinaigrette & Hazelnuts,american,13.8,38.34,62.36,2022-10-16,20:10:24
+vegan,Summer Vegetable Tian,italian,11.57,52.41,74.19,2022-10-16,20:10:24
+vegan,Maple Walnut Banana Bread,american,19.51,192.39,49.08,2022-10-16,20:10:24
+vegan,Mushroom Quinoa Soup,mediterranean,32.24,133.05,34.29,2022-10-16,20:10:24
+vegan,My children love beet salad!,american,20.11,92.55,50.04,2022-10-16,20:10:30
+vegan,Egyptian courgettes with dukkah sprinkle,french,61.46,188.94,43.4,2022-10-16,20:10:30
+vegan,Cream of Cashew Pea Soup,mediterranean,84.33,232.63,196.13,2022-10-16,20:10:30
+vegan,Banana “Ice Cream”,american,5.11,106.25,1.93,2022-10-16,20:10:30
+vegan,Peach Pie Ice Cream,american,14.16,188.15,45.56,2022-10-16,20:10:30
+vegan,Cider & Honey Kohlrabi Slaw with Radicchio,chinese,11.24,94.37,47.86,2022-10-16,20:10:30
+vegan,Pumpkin Seed Dip,american,222.79,307.84,1042.73,2022-10-16,20:10:30
+vegan,Lentil ragu with courgetti,french,147.6,431.43,42.09,2022-10-16,20:10:30
+vegan,Indian Spiced Broccoli and Potato Hash,nordic,9.39,47.36,10.47,2022-10-16,20:10:30
+vegan,Eggplant Pide (or Eggplant Boats),mediterranean,87.94,350.33,36.43,2022-10-16,20:10:30
+vegan,Jambalaya,american,109.58,533.45,39.66,2022-10-16,20:10:30
+vegan,Curried Millet with Chickpeas and Currants,indian,43.83,222.77,55.67,2022-10-16,20:10:30
+vegan,Spaghetti puttanesca with red beans & spinach,italian,34.11,141.84,20.31,2022-10-16,20:10:30
+vegan,"Chilaquiles With Pepitas, Charred Corn, and Black Beans Recipe",american,73.23,371.82,160.37,2022-10-16,20:10:30
+vegan,Pumpkin Maple Milkshake,american,1.87,21.6,4.41,2022-10-16,20:10:31
+vegan,Tofu Jerky,asian,73.15,29.96,40.14,2022-10-16,20:10:37
+vegan,Carrot Cake Bites,british,33.15,320.19,189.16,2022-10-16,20:10:37
+vegan,Vegetarian Jambalaya,american,110.18,519.84,39.84,2022-10-16,20:10:37
+vegan,"Roast Chicken Dinner Potato Chips With Mushrooms, Lemon, and Thyme Recipe",french,24.46,16.85,1.91,2022-10-16,20:10:37
+vegan,Zucchini Curry,indian,27.75,90.49,123.34,2022-10-16,20:10:37
+vegan,Hearty lentil one pot,french,84.58,333.89,48.88,2022-10-16,20:10:37
+vegan,Mom's Favorite Blueberry-Bran Muffins,american,32.27,312.66,80.36,2022-10-16,20:10:37
+vegan,Creamy Instant Pot Coconut Red Lentils,south east asian,122.43,334.72,54.58,2022-10-16,20:10:37
+vegan,Quinoa Bowl With Tahini Dressing,mediterranean,67.06,209.97,112.65,2022-10-16,20:10:37
+vegan,Lentil lasagne,italian,128.98,425.86,24.86,2022-10-16,20:10:37
+vegan,Spiced mushroom & lentil hotpot,south american,211.12,617.15,37.22,2022-10-16,20:10:37
+vegan,Roasted Vegetable & Black Bean Tacos,mexican,19.25,94.02,28.49,2022-10-16,20:10:37
+vegan,Pumpkin curry with chickpeas,south east asian,46.43,174.03,112.36,2022-10-16,20:10:37
+vegan,Cook the Book: Lentil and Eggplant Chili Mole,american,67.53,234.06,14.49,2022-10-16,20:10:37
+vegan,"Spinach, sweet potato & lentil dhal",middle eastern,73.66,251.11,18.46,2022-10-16,20:10:37
+vegan,"Crispy Potato, Onion, and Mushroom Rösti Recipe",french,12.68,80.54,68.43,2022-10-16,20:10:37
+vegan,Carrot Dog Pigs in a Blanket,american,27.61,150.93,9.46,2022-10-16,20:10:44
+vegan,Mung Dal shorba (mung dal soup),american,9.88,25.24,76.3,2022-10-16,20:10:44
+vegan,Quinoa Chickpea Salad with Roasted Red Pepper Hummus Dressing,mediterranean,26.62,89.01,9.54,2022-10-16,20:10:44
+vegan,Stuffed Mediterranean Baked Potato,mediterranean,45.76,218.21,22.86,2022-10-16,20:10:44
+vegan,Homemade Seitan,italian,253.43,128.26,12.5,2022-10-16,20:10:44
+vegan,Tastiest Miso Soup,japanese,43.75,124.7,46.01,2022-10-16,20:10:44
+vegan,Black Bean Corn Avocado Salsa,mexican,46.41,182.86,145.78,2022-10-16,20:10:44
+vegan,Spinach with Pine Nuts and Raisins,american,37.77,162.01,62.19,2022-10-16,20:10:44
+vegan,Pasta with Broccoli Pesto,italian,82.43,393.15,60.18,2022-10-16,20:10:44
+vegan,"Squash, Kale, and Wild Rice Pilaf",mediterranean,38.08,199.4,27.49,2022-10-16,20:10:44
+vegan,Sesame parsnip & wild rice tabbouleh,middle eastern,40.07,233.5,72.6,2022-10-16,20:10:44
+vegan,"Cabbage, Bean and Crispy Cale Soup",french,95.38,399.58,45.6,2022-10-16,20:10:44
+vegan,Creamy Matcha White Chocolate Pudding,british,13.22,81.76,47.48,2022-10-16,20:10:44
+vegan,Strawberry Nice Cream,american,5.66,89.79,2.18,2022-10-16,20:10:44
+vegan,"Chickpea, tomato & spinach curry",indian,79.3,242.05,65.03,2022-10-16,20:10:44
+vegan,Avocado Pesto Pasta,italian,31.84,118.21,296.65,2022-10-16,20:10:44
+vegan,Chole Masala,indian,48.03,168.93,27.82,2022-10-16,20:10:44
+vegan,Asian Eggplant Stir fry,asian,15.96,120.62,15.11,2022-10-16,20:10:44
+vegan,Quinoa Chili,american,89.06,298.89,14.26,2022-10-16,20:10:51
+vegan,Mushroom Tacos with Charred-Corn Salsa,mexican,31.89,162.99,116.81,2022-10-16,20:10:51
+vegan,Thai-Scented Asparagus Soup,south east asian,39.86,85.84,109.29,2022-10-16,20:10:51
+vegan,General Tso's Cauliflower,chinese,26.4,58.48,52.18,2022-10-16,20:10:51
+vegan,Brown Rice Risotto with Mushrooms,italian,42.67,384.54,95.64,2022-10-16,20:10:51
+vegan,Sweet Potato Chickpea Curry,mexican,52.71,195.01,46.65,2022-10-16,20:10:51
+vegan,Choc-cherry fudge torte with cherry sorbet,mediterranean,62.73,1054.37,159.57,2022-10-16,20:10:51
+vegan,Hearty White Bean and Spinach Soup with Rosemary and Garlic Recipe,french,38.21,121.5,56.68,2022-10-16,20:10:51
+vegan,"Cucumber, Shallot, and Tomato Salad",american,5.57,39.21,14.3,2022-10-16,20:10:51
+vegan,Recipe: Curried Cauliflower Chowder,american,30.01,134.87,86.19,2022-10-16,20:10:51
+vegan,Corn & split pea chowder,american,76.4,287.4,27.47,2022-10-16,20:10:51
+vegan,Pumpkin Pie Nice Cream,american,9.86,168.39,3.01,2022-10-16,20:10:51
+vegan,Warm Farro with Mushrooms and Crispy Beets,japanese,32.67,143.15,30.32,2022-10-16,20:10:51
+vegan,Tofu Cashew Noodles With Snow Peas,asian,132.93,276.79,137.04,2022-10-16,20:10:51
+vegan,Cannellini Bean & Roasted Red Pepper Sandwich,italian,88.04,263.7,20.91,2022-10-16,20:10:51
+vegan,Spicy Pineapple and Tequila Sorbet Recipe,italian,5.46,326.46,1.24,2022-10-16,20:10:51
+vegan,Ají (Colombian-Style Tomato and Onion Salsa) Recipe,mexican,2.92,12.61,0.63,2022-10-16,20:10:51
+vegan,Smoked Cauliflower Soup,american,49.78,134.47,17.29,2022-10-16,20:10:58
+vegan,No-Cook Black Bean Salad,american,44.49,159.15,61.72,2022-10-16,20:10:58
+vegan,Buffalo-Style Quinoa Chili,american,39.63,187.22,25.32,2022-10-16,20:10:58
+vegan,Seitan & black bean stir-fry,asian,119.84,191.43,53.95,2022-10-16,20:10:58
+vegan,Kadala curry,indian,73.23,254.76,89.89,2022-10-16,20:10:58
+vegan,Greek Salad Wraps,mediterranean,62.05,275.99,93.62,2022-10-16,20:10:58
+vegan,Cauliflower curry,indian,26.67,98.4,82.57,2022-10-16,20:10:58
+vegan,Savory Tempeh Crumbles,american,43.86,24.95,34.17,2022-10-16,20:10:58
+vegan,Thai-Style Chopped Salad with Sriracha Tofu,south east asian,73.37,51.78,97.29,2022-10-16,20:10:58
+vegan,Steamed Jackfruit Buns,mediterranean,32.97,516.13,79.82,2022-10-16,20:10:58
+vegan,Roasted Sweet Potato Salad,south american,18.94,150.93,49.5,2022-10-16,20:10:58
+vegan,Spiced aubergine bake,indian,45.99,265.59,132.97,2022-10-16,20:10:58
+vegan,Raw Kale Salad With Honey Apple Cider Vinaigrette,american,14.09,68.15,77.95,2022-10-16,20:10:58
+vegan,Cook the Book: Bengali Squash with Chickpeas,indian,19.96,116.01,49.17,2022-10-16,20:10:58
+vegan,Sri Lankan runner bean curry,indian,34.33,107.96,119.4,2022-10-16,20:10:58
+vegan,"Ajo Blanco (Spanish Chilled ""White Gazpacho"" Bread and Almond Soup) Recipe",mediterranean,43.39,90.72,95.4,2022-10-16,20:10:58
+vegan,Chickpea patties,american,55.28,157.14,36.8,2022-10-16,20:11:04
+vegan,Twice-Roasted Miniature Pumpkins with Onions and Thyme,american,31.28,151.92,57.22,2022-10-16,20:11:04
+vegan,Raw hazelnut brownies with chocolate ganache,french,64.45,516.22,181.61,2022-10-16,20:11:04
+vegan,Miso Ramen with Roasted Vegetables,japanese,103.59,601.06,169.47,2022-10-16,20:11:04
+vegan,Curried Potato and Carrot Soup Recipe,american,42.88,322.28,109.06,2022-10-16,20:11:04
+vegan,Roasted Cauliflower with Tahini and Goji Berries Recipe,mediterranean,17.46,53.43,37.31,2022-10-16,20:11:04
+vegan,Thai Curry Ice Cream,south east asian,18.6,248.87,156.02,2022-10-16,20:11:04
+vegan,Butternut Squash and Black Bean Tacos,mexican,49.82,230.23,66.95,2022-10-16,20:11:04
+vegan,Quinoa Black Bean Summer Salad with Tahini Dressing,mediterranean,118.34,461.48,66.81,2022-10-16,20:11:04
+vegan,Spicy Beet and Spinach Stir-Fry Over Sesame Rice,south east asian,22.09,186.31,39.09,2022-10-16,20:11:04
+vegan,Sticky noodles with homemade hoisin,asian,28.65,123.53,25.96,2022-10-16,20:11:04
+vegan,Coconut curry noodle bowl,asian,109.71,374.79,157.21,2022-10-16,20:11:04
+vegan,"Roasted cauliflower, tomato and chickpea bowl",mediterranean,73.87,345.96,60.67,2022-10-16,20:11:04
+vegan,Teriyaki Tofu Summer Rolls,asian,71.8,259.72,28.1,2022-10-16,20:11:04
+vegan,Kisir,middle eastern,42.33,270.29,107.38,2022-10-16,20:11:04
+vegan,Black Bean Burgers,american,77.08,309.03,45.43,2022-10-16,20:11:04
+vegan,Thai Zucchini-Coconut Soup,south east asian,14.83,79.0,57.34,2022-10-16,20:11:04
+vegan,Press-In Gluten-Free Pie Crust,american,36.74,100.91,130.56,2022-10-16,20:11:11
+vegan,Spice-crusted tofu with kumquat radish salad,asian,49.48,66.44,56.12,2022-10-16,20:11:11
+vegan,Cauliflower + Red Lentil Curry,indian,71.24,193.75,117.33,2022-10-16,20:11:11
+vegan,Indian Saag with Chickpeas,indian,84.13,249.24,57.59,2022-10-16,20:11:11
+vegan,Lots O'Laksa (Malaysian-Style Chicken Soup),south east asian,153.7,174.14,182.31,2022-10-16,20:11:11
+vegan,Balsamic Mushroom Pasta,italian,69.05,225.51,60.5,2022-10-16,20:11:11
+vegan,Healthy & Delicious: Herb-Scalloped Potatoes Recipe,french,44.55,169.93,17.37,2022-10-16,20:11:11
+vegan,Moroccan Pumpkin and Chickpea Stew,middle eastern,13.47,63.18,4.32,2022-10-16,20:11:11
+vegan,Marshmallow Cream,american,71.91,730.58,0.09,2022-10-16,20:11:11
+vegan,Sweet Potato Hash Stuffed Portobello Mushrooms,south american,25.75,112.86,81.42,2022-10-16,20:11:11
+vegan,Pickled Red Onions,american,3.43,38.47,0.31,2022-10-16,20:11:11
+vegan,"Potato, Asparagus & Mushroom Hash",american,25.67,131.88,43.33,2022-10-16,20:11:11
+vegan,Pasta With Braised Broccoli and Tomato Recipe,italian,99.53,467.16,68.61,2022-10-16,20:11:11
+vegan,German American Potato Salad,central europe,30.46,213.44,110.53,2022-10-16,20:11:11
+vegan,Chocolate Icebox Cake,american,66.39,297.87,259.06,2022-10-16,20:11:11
+vegan,Lentil Burgers,nordic,99.48,315.18,31.22,2022-10-16,20:11:11
+vegan,"Summer Quinoa Salad, Mexican-Style",mexican,34.44,181.0,48.88,2022-10-16,20:11:18
+vegan,Kale and Potato Mash with Romesco Sauce,mediterranean,31.94,198.87,30.33,2022-10-16,20:11:18
+vegan,Creamy Ginger-Asparagus Soup,mediterranean,15.29,60.62,81.98,2022-10-16,20:11:18
+vegan,"Sweet Potato, Kale & Chicken Salad with Peanut Dressing",mediterranean,126.37,117.56,71.8,2022-10-16,20:11:18
+vegan,Whipped Frozen Pink Lemonade,french,6.45,137.75,48.82,2022-10-16,20:11:18
+vegan,Buddha bowl with grilled tofu and gluten-free white beer,asian,91.78,255.89,70.28,2022-10-16,20:11:18
+vegan,Stewed Chickpeas and Chard over Garlic Toast,french,59.12,224.37,60.29,2022-10-16,20:11:18
+vegan,Tuscan white beans w/ roasted vegetables,italian,149.35,411.98,43.73,2022-10-16,20:11:18
+vegan,"Tamari Roasted ""Crack"" Almonds",british,64.31,63.69,142.94,2022-10-16,20:11:18
+vegan,Chia Chipotle Dressing From 'Salad Samurai',american,3.5,34.27,31.23,2022-10-16,20:11:18
+vegan,Squash Risotto,italian,59.38,209.97,32.81,2022-10-16,20:11:18
+vegan,Hippie Loaf,american,44.17,172.18,17.81,2022-10-16,20:11:18
+vegan,"Carrot and Rye Berry Salad With Celery, Cilantro, and Marcona Almonds Recipe",american,38.18,117.41,114.49,2022-10-16,20:11:18
+vegan,Smoky Tofu Chili,asian,69.77,135.28,48.41,2022-10-16,20:11:18
+vegan,Quinoa Stuffed Peppers,mediterranean,114.85,276.83,160.19,2022-10-16,20:11:18
+vegan,Gobhi Mussallam,indian,44.76,75.01,68.9,2022-10-16,20:11:18
+vegan,Roasted aloo gobi,indian,36.81,175.89,66.91,2022-10-16,20:11:18
+vegan,Tahini Noodles,asian,97.68,440.21,72.93,2022-10-16,20:11:25
+vegan,Chocolate Coconut Ice Cream Mochi,american,45.56,469.36,233.65,2022-10-16,20:11:25
+vegan,Rainbow Swiss Chard and Lemon Stir-Fry,chinese,29.15,167.53,51.66,2022-10-16,20:11:25
+vegan,'Akara' aka bean or lentil fritters,mediterranean,48.67,130.15,44.12,2022-10-16,20:11:25
+vegan,Braised Winter Vegetable Pasta,italian,59.4,297.09,35.46,2022-10-16,20:11:25
+vegan,Favorite Fall Orzo Salad,american,50.82,207.74,89.08,2022-10-16,20:11:25
+vegan,Sneaky Collards Recipe,american,55.67,118.96,38.34,2022-10-16,20:11:25
+vegan,Best veggie stir fry,chinese,46.21,246.43,202.85,2022-10-16,20:11:25
+vegan,The Crisper Whisperer: Gingered Butternut Soup Recipe,american,62.04,340.05,47.92,2022-10-16,20:11:25
+vegan,Tofu Poke,asian,72.95,157.18,65.14,2022-10-16,20:11:25
+vegan,Hummus and Mint Veggie Burgers,nordic,75.73,270.57,86.9,2022-10-16,20:11:25
+vegan,Thin Mint Smoothie,world,5.29,44.03,10.04,2022-10-16,20:11:25
+vegan,Beans and Mushrooms,american,20.79,96.31,56.46,2022-10-16,20:11:25
+vegan,"Lentil Salad With Cauliflower, Walnuts, and Roasted Orange Vinaigrette Recipe",american,127.46,364.61,229.66,2022-10-16,20:11:25
+vegan,Quick & Dirty Slow Cooker Vegetarian Chili,american,98.97,331.17,43.99,2022-10-16,20:11:25
+vegan,Chickpea & Jackfruit Curry,indian,45.55,246.68,68.46,2022-10-16,20:11:25
+vegan,Grilled Tofu with Chimichurri on Toast,asian,91.17,111.42,160.34,2022-10-16,20:11:25
+vegan,Korean Stewed Tofu with a Green Onion Salad and Crisp Bacon,asian,79.06,64.73,74.17,2022-10-16,20:11:25
+vegan,Jackfruit Carnitas,mexican,23.56,421.86,49.12,2022-10-16,20:11:32
+vegan,Vegetarian Mushroom Thyme Gravy,south american,14.75,67.01,72.71,2022-10-16,20:11:32
+vegan,Well-Crafted Macaroni and Cheese Mix,american,127.15,164.38,70.78,2022-10-16,20:11:32
+vegan,Easy Black-Bean Corn Salad,mexican,64.0,208.35,10.35,2022-10-16,20:11:32
+vegan,Banana Heavens Little Pig (Spanish Custard Dessert),mediterranean,48.41,518.39,148.52,2022-10-16,20:11:32
+vegan,The Ultimate Raw Taco,mexican,9.88,40.98,30.65,2022-10-16,20:11:32
+vegan,Rosemary Alu Paratha (Potato Parathas with Fresh Rosemary),american,41.76,256.51,19.4,2022-10-16,20:11:32
+vegan,One-Pot Lentils & Rice with Spinach,middle eastern,58.84,235.58,48.83,2022-10-16,20:11:32
+vegan,Toni Fiore's Millet Beet Burger,american,47.33,241.3,45.89,2022-10-16,20:11:32
+vegan,Smoky Tempeh and Hummus Sandwiches,mediterranean,119.5,247.13,98.81,2022-10-16,20:11:32
+vegan,Mini nut roasts with candied carrots,american,421.72,1636.67,267.25,2022-10-16,20:11:32
+vegan,Chickpea Cashew Curry,indian,59.38,196.66,104.83,2022-10-16,20:11:32
+vegan,Easy Middle Eastern Fried Tomatoes: Jordanian Galayet Bandora,middle eastern,6.26,33.5,55.18,2022-10-16,20:11:38
+vegan,"Whole-Grain Wraps with Quinoa, Beans, and Roasted Veggies",american,126.07,229.3,164.88,2022-10-16,20:11:38
+vegan,White Beans with Herbes de Provence,world,29.17,125.36,49.62,2022-10-16,20:11:38
+vegan,Chickpea Piccata,italian,39.19,142.48,14.77,2022-10-16,20:11:38
+vegan,Recipe: Purple Cauliflower Hummus,mediterranean,3.34,19.69,67.86,2022-10-16,20:11:38
+vegan,Instant Pot Vegetarian Chili,american,99.51,330.95,22.49,2022-10-16,20:11:38
+vegan,"No-Churn Mango Sherbet (Sorbet, Frozen Yogurt, or Ice Cream!)",american,7.92,125.36,6.46,2022-10-16,20:11:38
+vegan,Feta Stuffed Eggplant Polpetti,mediterranean,20.16,85.67,20.56,2022-10-16,20:11:38
+vegan,Cinnamon Spiced Nuts,american,94.41,129.09,412.23,2022-10-16,20:11:38
+vegan,Israeli Couscous Salad,middle eastern,42.92,203.37,40.93,2022-10-16,20:11:38
+vegan,Cranberry Curry and Mint Cashew Butter,american,9.16,16.16,41.83,2022-10-16,20:11:38
+vegan,Tofu Pesto,asian,49.91,68.57,242.68,2022-10-16,20:11:38
+vegan,"Tofu and Kale Salad With Avocado, Grapefruit, and Miso-Tahini Dressing Recipe",mediterranean,46.85,81.27,131.61,2022-10-16,20:11:38
+vegan,Mediterranean Cabbage Soup,mediterranean,47.06,183.94,31.28,2022-10-16,20:11:38
+vegan,Mother's Day Mexican Veggie Burgers,mexican,122.64,405.33,43.13,2022-10-16,20:11:38
+vegan,"Pasta Sauce, Elevated",italian,63.83,211.59,40.86,2022-10-16,20:11:38
+vegan,Jackfruit Barbacoa Burrito Bowls,mexican,40.22,496.18,35.97,2022-10-16,20:11:38
+vegan,Spicy Thai Peanut Kelp Noodle Pad Thai,south east asian,92.67,357.52,68.86,2022-10-16,20:11:45
+vegan,Make-Ahead Zucchini and Quinoa Dill Bisque Recipe,french,36.29,102.42,28.8,2022-10-16,20:11:45
+vegan,Pearl Couscous Chicken Salad with Roasted Asparagus and Herbs,nordic,203.05,397.74,97.26,2022-10-16,20:11:45
+vegan,Slow-Cooker Creamy Butternut Squash-Apple Soup,french,17.22,204.62,24.8,2022-10-16,20:11:45
+vegan,Potato Salad with Parsley Pesto,french,24.8,160.68,133.13,2022-10-16,20:11:45
+vegan,Vietnamese Citrus and Noodle Salad With Fresh Herbs and Fried Yuba (Tofu Skin) Recipe,asian,53.49,256.92,308.86,2022-10-16,20:11:45
+vegan,Andrea Nguyen's Saag Soy Paneer,indian,50.48,52.34,95.34,2022-10-16,20:11:45
+vegan,Harvest-Stuffed Portobello Mushrooms,mediterranean,86.71,237.42,95.53,2022-10-16,20:11:45
+vegan,Thai Summer Squash Curry,south east asian,77.15,228.01,65.94,2022-10-16,20:11:45
+vegan,Stir-Fried Broccoli and Shiitake Mushrooms with Oyster Sauce,mediterranean,23.13,64.29,31.52,2022-10-16,20:11:45
+vegan,Instant Pot Vegetable Soup,italian,45.98,152.64,31.25,2022-10-16,20:11:45
+vegan,Stuffed Portobello Mushroom Caps with Roasted Root Vegetable Risotto,italian,57.13,259.37,52.6,2022-10-16,20:11:45
+vegan,Chickpea Spaghetti With Roasted Vegetables,italian,62.65,351.35,43.49,2022-10-16,20:11:45
+vegan,Gluten-Free Chocolate-Chip Zucchini Bread Squares Recipe,american,29.52,285.85,115.17,2022-10-16,20:11:45
+vegan,Black Girl Baking is a Journey in Food Memories Told Through the Senses,american,60.23,403.78,375.91,2022-10-16,20:11:45
+vegan,Homemade Crunchy Nutella Recipe,american,32.92,349.55,252.31,2022-10-16,20:11:45
+vegan,Tofu Mexicali Scramble Recipe,asian,63.61,154.85,64.2,2022-10-16,20:11:45
+vegan,Green Coconut Zoodle Soup,american,24.81,104.19,130.69,2022-10-16,20:11:45
+vegan,"Sticky Rice Cake with Coconut, Ginger & Condensed Coconut Milk",south east asian,56.93,434.64,324.66,2022-10-16,20:11:45
+vegan,Cook the Book: Quinoa with Chimichurri Herbs,south american,27.28,135.59,51.58,2022-10-16,20:11:52
+vegan,Quinoacado Tacos with Charred Corn and Fruit Salsa,mexican,42.79,258.64,86.54,2022-10-16,20:11:52
+vegan,Summertime Potluck Puttanesca,italian,80.09,424.04,125.3,2022-10-16,20:11:52
+vegan,The Best Vegetarian Bean Chili Recipe,american,138.0,434.9,67.01,2022-10-16,20:11:52
+vegan,"Cranberry Orange Cornbread with Orange ""Butter""",american,43.91,543.24,123.1,2022-10-16,20:11:52
+vegan,Dairy-Free Pumpkin Pie,american,27.39,364.75,119.43,2022-10-16,20:11:52
+vegan,Autumn Curry with Pumpkin and Chickpeas,indian,121.86,507.04,158.57,2022-10-16,20:11:52
+vegan,'Clean Start': Chewy Chocolate Macaroons Recipe,french,23.58,248.33,174.13,2022-10-16,20:11:52
+vegan,"Zucchini, Almond, and Mint Soup with Lemony Lentils",french,70.76,141.49,112.43,2022-10-16,20:11:52
+vegan,Spanish Chickpea Gratin,mediterranean,83.94,288.01,108.84,2022-10-16,20:11:52
+vegan,French in a Flash: Parsnip Purée with Olive Oil and Sage,american,12.47,172.38,71.85,2022-10-16,20:11:52
+vegan,Easy Walnut Pesto,italian,85.28,44.39,80.87,2022-10-16,20:11:52
+vegan,Country-Style Tomato and Cilantro Broth,mediterranean,0.36,1.83,0.1,2022-10-16,20:11:52
+vegan,Quinoa & Sweet Potato Chili,american,58.05,237.62,28.37,2022-10-16,20:11:52
+vegan,Quinoa Salad with Roasted Beets and Baby Spinach,american,76.97,301.5,97.26,2022-10-16,20:11:52
+vegan,Dinner Tonight: Caramelized Tofu with Brussels Sprouts Recipe,asian,29.77,57.5,74.44,2022-10-16,20:11:52
+vegan,Stir-Fried Garlic Eggplant with Ground Pork Recipe,south east asian,29.35,42.31,68.44,2022-10-16,20:11:52
+vegan,Sweet Potato Cake with Cashew Cream Cheese Frosting,american,48.54,390.74,138.94,2022-10-16,20:11:58
+vegan,Black Bean Corn Tamales,south american,152.27,798.89,84.75,2022-10-16,20:11:58
+vegan,Pappardelle with Artichoke Chickpea Meatballs,mediterranean,252.44,1115.32,150.17,2022-10-16,20:11:58
+vegan,Curried Cauliflower Soup with Tamarind Glazed Kabocha Squash and Apple,american,49.51,207.1,47.15,2022-10-16,20:11:58
+vegan,Citrus Ginger Tofu Salad with Buckwheat Soba Noodles,asian,88.65,188.32,96.04,2022-10-16,20:11:58
+vegan,Cook the Book: Coconut Rice with Variations,south american,14.84,118.9,44.97,2022-10-16,20:11:58
+vegan,Maple Hasselback Butternut Squash Recipe,american,10.25,146.75,18.23,2022-10-16,20:11:58
+vegan,Fresh Tomato Soup,italian,11.49,61.53,48.05,2022-10-16,20:11:58
+vegan,Dinner Tonight: Farro Salad with Roasted Kale and Beets Recipe,italian,104.08,384.58,73.85,2022-10-16,20:11:58
+vegan,Tom Kha Udon Soup With Mushrooms Recipe,south east asian,134.56,719.89,87.81,2022-10-16,20:11:58
+vegan,Lemon and Saffron Risotto,italian,39.75,341.75,61.86,2022-10-16,20:11:58
+vegan,Vegetarian Butternut Squash Chili with Black Beans,american,78.55,261.64,35.03,2022-10-16,20:11:58
+vegan,Instant Pot Curry,south east asian,53.58,198.48,112.46,2022-10-16,20:11:58
+vegan,Sweet Potato Soup with Crispy Tortilla Topping,french,92.0,316.83,126.56,2022-10-16,20:11:58
+vegan,Edamame Gyoza,south east asian,72.45,357.2,30.33,2022-10-16,20:11:58
+vegan,Raw Harvest Kale Salad,american,13.24,95.77,49.0,2022-10-16,20:11:58
+vegan,Rye and Butternut Squash Dressing,american,93.11,546.51,72.18,2022-10-16,20:11:58
+vegan,Classic Beans and Greens Tacos,mexican,102.35,375.3,101.68,2022-10-16,20:11:58
+vegan,Spring Vegetarian Cassoulet,french,32.57,148.59,123.4,2022-10-16,20:11:58
+vegan,Gluten-Free Tuesday: Allergen-free Chocolate Pumpkin Spice Cake,american,26.21,445.66,124.96,2022-10-16,20:12:05
+vegan,Vegetarian Slow-Cooker Chili Recipe,american,57.47,182.49,20.72,2022-10-16,20:12:05
+vegan,Rich Roll's Ultra Meatless Tempeh Loaf,american,132.02,238.22,222.53,2022-10-16,20:12:05
+vegan,French Toast with Blueberry Compote,french,58.55,366.33,222.47,2022-10-16,20:12:05
+vegan,Whipped Frozen Creamsicle,world,5.17,46.29,24.93,2022-10-16,20:12:05
+vegan,Pandan Khanom Chan (Layered Rice Sweets) Recipe,south east asian,32.01,974.19,55.15,2022-10-16,20:12:05
+vegan,Recipe: Garlicky Soba Noodle Bowls,asian,38.89,187.15,11.12,2022-10-16,20:12:05
+vegan,Basic Chili Paste to Replace Chili Powder Recipe,american,22.16,24.7,9.29,2022-10-16,20:12:05
+vegan,"Instant Pot Bengali Red Lentil, Potato, Pea, and Cauliflower Risotto",italian,58.03,232.18,74.27,2022-10-16,20:12:05
+vegan,Southwest-Stuffed Sweet Potato Skins,american,83.88,491.68,44.65,2022-10-16,20:12:05
+vegan,Red Lentil Soup,british,62.77,197.6,24.27,2022-10-16,20:12:05
+vegan,Vegetarian Gumbo,american,115.35,568.37,92.32,2022-10-16,20:12:05
+vegan,Slow-Cooker Mediterranean Stew,american,46.14,170.31,56.55,2022-10-16,20:12:05
+vegan,Tempeh and Eggplant Pot Pies,american,34.58,204.76,101.42,2022-10-16,20:12:05
+vegan,"Avocado with Pomegranate Molasses, Tomatoes, Citrus, and Basil",american,11.52,57.04,57.09,2022-10-16,20:12:05
+vegan,Grilled Cauliflower Steaks with Almond Pesto & Butter Beans,british,111.57,303.83,116.4,2022-10-16,20:12:05
+vegan,French Caramelized Onion Tart,american,34.83,216.01,134.76,2022-10-16,20:12:05
+vegan,Sri Lankan braised roots stew & coconut dhal dumplings,american,73.76,361.63,159.57,2022-10-16,20:12:12
+vegan,curried lentils with sweet potatoes.,indian,89.51,311.47,14.88,2022-10-16,20:12:12
+vegan,One-Pot Coconut Milk Curry with Chickpeas,indian,51.92,198.04,128.18,2022-10-16,20:12:12
+vegan,Zucchini-Chickpea Veggie Burgers with Tahini-Ranch Sauce,mediterranean,67.07,233.11,68.11,2022-10-16,20:12:12
+vegan,"Squash, chickpea & coconut curry",indian,61.08,278.25,160.2,2022-10-16,20:12:12
+vegan,"Gardein ""Chicken"" Scaloppini with Shiitake Sake Sauce, Pea Shoots, and Udon Noodle Cakes",asian,34.07,155.84,189.14,2022-10-16,20:12:12
+vegan,Lisa's Delicious 3-Bean Chili,american,117.41,384.6,19.06,2022-10-16,20:12:12
+vegan,Matcha Mint Chip Ice Cream,american,15.15,165.73,147.34,2022-10-16,20:12:12
+vegan,Tomato and Farro Minestrone,italian,76.22,303.4,23.42,2022-10-16,20:12:12
+vegan,"Chickpea, Potato, and Spinach Jalfrezi With Cilantro Chutney Recipe",indian,57.59,242.68,57.44,2022-10-16,20:12:12
+vegan,Midtown Greek Salad,mediterranean,57.49,93.94,130.53,2022-10-16,20:12:12
+vegan,Flat-Belly Soup,french,42.63,188.44,28.24,2022-10-16,20:12:12
+vegan,"Charred Corn, Radish, Jicama, and Green Bean Salad With Lime Dressing Recipe",japanese,13.52,81.22,72.01,2022-10-16,20:12:12
+vegan,Vegetarian Ghormeh Sabzi for times of plague,mediterranean,151.41,566.8,118.61,2022-10-16,20:12:12
+vegan,Seitan and Polenta Skillet with Fresh Greens,japanese,161.96,480.09,71.68,2022-10-16,20:12:12
+vegan,Strawberry Oat Crumble Bars,american,46.72,547.43,158.32,2022-10-16,20:12:12
+vegan,Sweet Potato & Spinach Dal,central europe,61.47,175.5,31.64,2022-10-16,20:12:12
+vegan,"Roasted Garlic, White Bean & Kale Pizz'alad",italian,81.4,351.98,63.0,2022-10-16,20:12:12
+vegan,Cook the Book: Moroccan-Style Braised Vegetables,middle eastern,47.3,150.7,40.81,2022-10-16,20:12:19
+vegan,Slow-Cooker Vegetarian Tex-Mex Casserole,mexican,76.56,248.92,115.38,2022-10-16,20:12:19
+vegan,Greek Style Chickpea soup,mediterranean,99.72,335.36,145.56,2022-10-16,20:12:19
+vegan,Roasted Mediterranean Vegetables with Chickpeas,mediterranean,56.91,237.33,42.09,2022-10-16,20:12:19
+vegan,Potato Cauliflower Chaat (for an American kitchen),american,50.51,311.9,83.16,2022-10-16,20:12:19
+vegan,Pad Thai Redux,south east asian,19.72,132.77,52.76,2022-10-16,20:12:19
+vegan,Asian-style Cabbage Slaw w/Tofu and Crunchy Ramen,japanese,35.24,95.9,42.98,2022-10-16,20:12:19
+vegan,Roasted-Carrot Salad With Peanut-Sesame Mole Recipe,italian,36.63,126.8,114.44,2022-10-16,20:12:19
+vegan,Mushroom-Tofu-Pecan Stuffed Vegetables,american,188.05,220.59,262.31,2022-10-16,20:12:19
+vegan,Quinoa with Curried Cauliflower & Potatoes,indian,26.99,130.18,67.17,2022-10-16,20:12:19
+vegan,Low-Carb Portobello Mushroom Fajitas,mexican,41.49,111.46,148.41,2022-10-16,20:12:19
+vegan,Healthy and Delicious: Confetti Quinoa Salad Recipe,south american,105.2,380.79,31.22,2022-10-16,20:12:19
+vegan,Pistachio-Crusted Tofu with Red Chimichurri Recipe,asian,69.87,99.93,149.91,2022-10-16,20:12:19
+vegan,Baby Artichokes with Lemon and Olive Oil,mediterranean,90.34,307.15,220.77,2022-10-16,20:12:19
+vegan,"Portobello Mushrooms Stuffed with Spinach, Parmesan and Fennel",mediterranean,88.96,74.56,105.46,2022-10-16,20:12:19
+vegan,Chili Lime Black Bean and Quinoa Salad,american,75.94,358.72,75.25,2022-10-16,20:12:19
+vegan,Holiday Slow Cooker Veggie Chili,american,126.44,521.3,33.18,2022-10-16,20:12:19
+vegan,Pumpkin Tiramisu Recipe,italian,62.91,1228.6,366.25,2022-10-16,20:12:19
+vegan,"Carrot, Ginger, and Basil Soup Recipe",american,35.0,62.3,18.06,2022-10-16,20:12:26
+vegan,Eat for Eight Bucks: Farro and Cauliflower Salad with Currants Recipe,mediterranean,63.82,237.21,44.88,2022-10-16,20:12:26
+vegan,"Healthy and Delicious: Shredded Beet, Apple, and Currant Salad with Apple Vinaigrette Recipe",french,8.36,137.62,28.48,2022-10-16,20:12:26
+vegan,Versatile Lentil Stew,italian,64.06,178.01,50.35,2022-10-16,20:12:26
+vegan,Spicy Tortilla Crisps with Queso Fundito from 'Salty Snacks',american,54.74,49.59,93.59,2022-10-16,20:12:26
+vegan,Radishes With Avocado Dip From 'The VB6 Cookbook',american,19.88,71.62,42.65,2022-10-16,20:12:26
+vegan,Simple Kale Salad,american,52.89,93.69,116.43,2022-10-16,20:12:26
+vegan,Chickpea and Kale Curry,indian,34.63,104.0,98.87,2022-10-16,20:12:26
+vegan,Meat Lite: Portobello Burgers with Crispy Prosciutto and Arugula Mayo Recipe,mediterranean,85.6,123.67,87.8,2022-10-16,20:12:26
+vegan,Slow-Cooker Vegetarian Chili,american,53.11,279.09,7.67,2022-10-16,20:12:26
+vegan,Gluten-Free Tuesday: Graham Crackers Recipe,american,20.99,344.46,67.13,2022-10-16,20:12:26
+vegan,Braised Artichokes With Leeks and Peas From 'The New Vegetarian Cooking for Everyone',mediterranean,50.89,224.38,53.68,2022-10-16,20:12:26
+vegan,Apple Fennel Casserole with a Coconut-Turmeric Twist,italian,5.6,46.5,18.34,2022-10-16,20:12:26
+vegan,Healthy & Delicious: Tabbouleh Salad Recipe,middle eastern,27.75,136.96,57.17,2022-10-16,20:12:26
+vegan,Apricot Kuchen,american,71.48,744.37,79.76,2022-10-16,20:12:26
+vegan,"'The Food Matters Cookbook': Spicy Fried Rice with Bean Sprouts, Chicken, and Peanuts Recipe",south east asian,111.5,337.99,105.43,2022-10-16,20:12:26
+vegan,French Lentil and Arugula Salad with Herbed Cashew Cheese,french,175.8,371.72,229.85,2022-10-16,20:12:26
+vegan,Healthy & Delicious: Greek Orzo Salad Recipe,mediterranean,74.66,303.36,108.39,2022-10-16,20:12:33
+vegan,Sichuan-Style Braised Eggplant With Pickled Chilies and Garlic (Yu Xiang Qie Zi) Recipe,chinese,14.06,79.82,45.68,2022-10-16,20:12:33
+vegan,Roasted Strawberry Margaritas with Aquafaba Whip,world,38.66,291.21,15.16,2022-10-16,20:12:33
+vegan,"Butternut Squash, Kale, and Crunchy Pepitas Taco",american,41.35,123.69,102.21,2022-10-16,20:12:33
+vegan,Saag Paneer,indian,82.6,88.55,33.27,2022-10-16,20:12:33
+vegan,Kolkata Style Chickpea Rolls,american,39.57,203.13,154.75,2022-10-16,20:12:33
+vegan,The Occasional Vegetarian's Bibimbap,chinese,22.9,185.2,24.96,2022-10-16,20:12:33
+vegan,This Roasted Beet Hummus Recipe Can’t Be Beat,mediterranean,45.83,157.32,64.12,2022-10-16,20:12:33
+vegan,Persian Eggplant Stew // Khoresh Bademjan,south american,27.57,188.51,59.1,2022-10-16,20:12:33
+vegan,Healthy and Delicious: Mexican Potato Soup Recipe,mexican,12.18,86.8,1.45,2022-10-16,20:12:33
+vegan,Michael Natkin's Soba Noodles in Shiitake-Shoyu Broth with Spring Vegetables,japanese,128.8,494.56,102.46,2022-10-16,20:12:33
+vegan,Shauna James Ahern's Quinoa-Stuffed Peppers,south american,38.4,221.84,93.74,2022-10-16,20:12:33
+vegan,Braised Eggplant With Tofu in Garlic Sauce Recipe,asian,44.86,102.6,59.6,2022-10-16,20:12:33
+vegan,Coconut-Mango Rice Noodle Salad,asian,45.56,237.57,135.07,2022-10-16,20:12:33
+vegan,Blueberry Mug Cake,american,6.67,61.95,16.73,2022-10-16,20:12:33
+vegan,Recipe: Sesame Ginger Shrimp and Cabbage Stew,chinese,173.09,219.9,75.42,2022-10-16,20:12:33
+vegan,Pretzel- and Cashew-Crusted Tofu,asian,124.14,587.22,98.82,2022-10-16,20:12:33
+vegan,Hominy Stew Is Soul-Soothing on a Chilly Fall Morning,american,136.2,62.09,373.84,2022-10-16,20:12:40
+vegan,Black Bean and Butternut Squash Chili,american,63.6,221.25,29.06,2022-10-16,20:12:40
+vegan,Pasta e Fagioli (Pasta and Beans),italian,64.73,230.05,74.06,2022-10-16,20:12:40
+vegan,Tofu Bánh Mì,asian,88.99,201.36,131.58,2022-10-16,20:12:40
+vegan,Moosewood’s Classic Tofu Burgers,asian,166.91,108.07,215.9,2022-10-16,20:12:40
+vegan,Beef and Chinese Broccoli Chow Fun Recipe,chinese,127.79,432.09,139.84,2022-10-16,20:12:40
+vegan,Sara's Green Harissa,mediterranean,5.17,24.8,162.85,2022-10-16,20:12:40
+vegan,Black Bean Tostadas,south american,102.05,538.95,113.14,2022-10-16,20:12:40
+vegan,Quinoa Fried ‘Rice’,chinese,82.5,226.38,156.54,2022-10-16,20:12:40
+vegan,Phat Phrik Khing With Tofu and Long Beans (Thai Dry-Curry Stir-Fry) Recipe,south east asian,80.34,179.92,82.62,2022-10-16,20:12:40
+vegan,Corn and Coconut Salad,american,26.28,185.69,40.05,2022-10-16,20:12:40
+vegan,Crêpes with Chicken and Morels,mediterranean,106.42,116.25,173.88,2022-10-16,20:12:40
+vegan,French in a Flash: Campanelle with Eggplant Caviar Recipe,french,76.47,416.03,85.99,2022-10-16,20:12:40
+vegan,Apple-Chestnut Cornbread Stuffing,american,55.26,424.43,86.48,2022-10-16,20:12:40
+vegan,Wet Bean Burritos,mexican,136.76,434.28,68.66,2022-10-16,20:12:40
+vegan,Cook the Book: Pan-Roasted Striped Bass with Tunisian Chickpea Salad and Yogurt Sauce,american,236.43,225.35,203.05,2022-10-16,20:12:40
+vegan,"Scooped: Kaffir Lime, Ginger, Star Anise Sorbet Recipe",american,7.39,242.33,2.83,2022-10-16,20:12:46
+vegan,A Sweet Potato Burrito Packs Your Morning with Power,mexican,27.38,237.56,30.22,2022-10-16,20:12:46
+vegan,Sun Dried Tomato Yumballs,south east asian,95.79,135.95,117.94,2022-10-16,20:12:46
+vegan,Red Minestrone from 'Stewed',american,36.43,179.27,77.9,2022-10-16,20:12:46
+vegan,Healthy & Delicious: West African Vegetable Stew Recipe,american,47.57,291.86,27.71,2022-10-16,20:12:46
+vegan,Recipe: Roasted Sweet Potato Slices with Cilantro Pesto,italian,39.8,229.88,151.44,2022-10-16,20:12:46
+vegan,Mother-in-Law's Signature Kimchi from 'The Kimchi Cookbook',south east asian,89.53,150.15,20.36,2022-10-16,20:12:46
+vegan,"'Clean Start': Polenta Pizzas with Kale, Chard, and Parsley Pesto Recipe",italian,64.97,448.84,180.1,2022-10-16,20:12:46
+vegan,Old School French Onion Soup Gratinée,french,187.25,102.14,200.92,2022-10-16,20:12:46
+vegan,Recipe: Braised Coconut Spinach & Chickpeas with Lemon,american,57.94,161.09,108.55,2022-10-16,20:12:46
+vegan,"Gluten-Free Tuesday: Dairy-Free, Egg-Free Coconut-Pumpkin Pie Recipe",american,19.46,343.44,141.52,2022-10-16,20:12:46
+vegan,Recipe: Socca Flatbread with Spring Pesto and Salad,american,85.66,170.49,285.1,2022-10-16,20:12:46
+vegan,"Braised Chickpeas and Vegetables with Couscous, Harissa Yogurt, and Soft Eggs from 'Flour, Too'",american,118.52,330.85,107.74,2022-10-16,20:12:46
+vegan,Veggie Masala Burgers with Cilantro Chutney Aioli,indian,78.08,362.33,365.09,2022-10-16,20:12:46
+vegan,Curry Noodles With Chicken (Kuai-Tiao Kaeng Sai Kai) From 'Simple Thai Food',south east asian,219.17,398.38,298.2,2022-10-16,20:12:46
+vegan,"Crispy Fried Spinach with Tomato, Onion, Tamarind, and Yogurt Recipe",american,39.75,149.57,124.56,2022-10-16,20:12:46
+vegan,Sweet Potato–Chickpea-Quinoa Burgers,south american,122.26,381.65,275.06,2022-10-16,20:12:46
+vegan,Vegan S'mores,american,6.55,59.48,27.17,2022-10-16,20:12:53
+vegan,Vegan Chocolate Frosting | Vegan Chocolate | Vegetarian Chocolate,american,6.93,227.99,35.67,2022-10-16,20:12:53
+vegan,Vegan Candy | Vegan Chocolate | Vegetarian Chocolate,american,77.84,299.39,211.54,2022-10-16,20:12:53
+vegan,Vegan Thanksgiving Sandwich,american,34.66,41.97,24.09,2022-10-16,20:12:53
+vegan,Vegan BLT,american,26.6,57.13,55.22,2022-10-16,20:12:53
+vegan,Vegan Campfire Smores,american,26.2,237.91,108.67,2022-10-16,20:12:53
+vegan,Vegan Chocolate Ganache,american,8.48,114.52,95.53,2022-10-16,20:12:53
+vegan,White Pizza {Vegan},italian,72.6,279.01,87.99,2022-10-16,20:12:53
+vegan,Vegan Rice Krispie Squares,american,9.04,118.65,35.72,2022-10-16,20:12:53
+vegan,Vegan Spinach Balls,american,76.78,159.24,103.72,2022-10-16,20:12:53
+vegan,the best vegan cheesecake,american,63.31,346.83,174.07,2022-10-16,20:12:53
+vegan,Vegan Spaghetti,american,170.62,530.82,117.23,2022-10-16,20:12:53
+vegan,VEGAN COLESLAW,american,10.9,28.5,38.95,2022-10-16,20:12:53
+vegan,Vegan Eggnog,american,12.5,61.52,6.74,2022-10-16,20:12:53
+vegan,Vegan Stuffing,american,48.86,255.15,102.43,2022-10-16,20:12:53
+vegan,Gluten-free vegan hashbrowns,american,80.01,561.1,457.19,2022-10-16,20:13:00
+vegan,Vegan Ranch Dressing,american,4.9,13.07,93.73,2022-10-16,20:13:00
+vegan,Smoked Vegan Mac and Cheese,american,144.9,405.77,142.12,2022-10-16,20:13:00
+vegan,Vegan Eclairs,american,24.67,231.46,65.08,2022-10-16,20:13:00
+vegan,Vegan Beer Brats,american,315.1,112.22,86.61,2022-10-16,20:13:00
+vegan,Joey's Vegan Cream Cheese Frosting,american,15.39,115.03,88.13,2022-10-16,20:13:00
+vegan,Vegan Chocolate Pie,american,19.81,275.17,73.25,2022-10-16,20:13:00
+vegan,Vegan Eggplant Lasagna,american,47.9,97.41,28.47,2022-10-16,20:13:00
+vegan,Vegan Cheese Pumpkin,american,117.38,147.3,248.45,2022-10-16,20:13:00
+vegan,Vegan Coconut Caramel,american,4.63,54.29,77.54,2022-10-16,20:13:00
+vegan,Vegan Cheesy Corn Casserole recipes,american,42.68,350.4,179.88,2022-10-16,20:13:00
+vegan,Vegan Pigs in a Blanket,american,25.87,26.58,72.29,2022-10-16,20:13:07
+vegan,Pretzel Dipping Sauces {Vegetarian/Vegan},american,5.53,38.17,30.82,2022-10-16,20:13:07
+vegan,{Vegan} Homemade Peanut Butter Cups,american,34.86,156.24,112.15,2022-10-16,20:13:07
+vegan,Vegan Vanilla Pudding recipes,british,3.6,162.64,33.81,2022-10-16,20:13:07
+vegan,Vegan Garlic Butter,american,10.0,5.68,114.04,2022-10-16,20:13:07
+vegan,Vegan Strawberry Freezer Pie,american,12.81,146.64,56.35,2022-10-16,20:13:07
+vegan,Mushroom Stroganoff {Vegan},american,18.16,39.22,64.8,2022-10-16,20:13:07
+vegan,Vegan Pumpkin Pie Cheesecake,american,53.69,369.5,218.47,2022-10-16,20:13:07
+vegan,Vegan Cherry Pie recipes,american,87.4,1168.14,445.86,2022-10-16,20:13:07
+vegan,Vegan Jalapeno Poppers,american,21.44,93.99,63.25,2022-10-16,20:13:07
+vegan,Easy Vegan Artichoke Dip,mediterranean,12.61,24.05,60.55,2022-10-16,20:13:07
+vegan,Vegan Tiramisu,italian,17.4,89.84,80.29,2022-10-16,20:13:07
+vegan,Vegan Creamed Spinach,american,36.05,57.08,38.48,2022-10-16,20:13:07
+vegan,Vegan Aioli,american,10.34,20.64,38.41,2022-10-16,20:13:07
+vegan,Vegan Toffee Squares recipes,british,37.17,459.92,196.03,2022-10-16,20:13:07
+vegan,Vegan Cheese Enchiladas,american,86.0,180.46,97.22,2022-10-16,20:13:07
+vegan,Vegan vegetable pizza,italian,48.03,106.56,47.69,2022-10-16,20:13:13
+vegan,Fancy Vegan Sausage Rolls,american,40.01,27.86,97.86,2022-10-16,20:13:13
+vegan,NO-BAKE VEGAN CHEESECAKE,american,9.43,152.64,150.35,2022-10-16,20:13:13
+vegan,Vegan “Egg” Mayo,american,38.26,12.77,49.9,2022-10-16,20:13:13
+vegan,Butternut Squash and Spinach Lasagna (Vegan),italian,114.38,356.37,130.93,2022-10-16,20:13:13
+vegan,Vegan Baileys Truffles,american,16.69,137.19,298.32,2022-10-16,20:13:13
+vegan,Vegan Mocha Latte,american,5.27,17.74,43.43,2022-10-16,20:13:13
+vegan,Vegan Eggnog Martini,world,1.32,11.41,1.27,2022-10-16,20:13:13
+vegan,"Vegan Sausage, Kale, Dijon & Sesame Ba",american,32.25,64.16,22.55,2022-10-16,20:13:13
+vegan,Vegan Tiramisu,american,5.78,30.64,40.05,2022-10-16,20:13:13
+vegan,Vegan Kale Pesto Gnocchi,american,40.87,187.62,41.62,2022-10-16,20:13:13
+vegan,Vegan Apple Betty,american,16.14,360.76,60.46,2022-10-16,20:13:13
+vegan,Vegan Russian Dressing,american,28.43,199.03,78.89,2022-10-16,20:13:13
+vegan,Vegan Cream Cheese Frosting,american,7.3,246.7,84.86,2022-10-16,20:13:13
+vegan,Fries Supreme Vegan recipes,american,73.88,138.47,106.78,2022-10-16,20:13:13
+vegan,Vegan Creamed Spinach Phyllo Tart,american,37.19,110.15,134.27,2022-10-16,20:13:13
+vegan,Vegan Pecan Pie,american,39.45,316.43,215.21,2022-10-16,20:13:20
+vegan,Vegan Pizza Snacks,american,85.06,73.15,89.7,2022-10-16,20:13:20
+vegan,Vegan Peppermint Patties,american,14.54,544.16,129.8,2022-10-16,20:13:20
+vegan,Unbelievable Vegan Mashed Potatoes,american,23.17,144.98,35.42,2022-10-16,20:13:20
+vegan,Vegan Sweet Noodle Kugel,asian,83.08,340.35,162.71,2022-10-16,20:13:20
+vegan,Vegan Champagne Truffles,american,36.43,187.43,149.5,2022-10-16,20:13:20
+vegan,Animal-Style Patty Melts (Vegan),american,70.0,50.08,167.2,2022-10-16,20:13:20
+vegan,Vegan Kale Caesar Salad,american,18.09,31.38,9.93,2022-10-16,20:13:20
+vegan,Vegan Gravy,american,2.71,39.3,13.89,2022-10-16,20:13:20
+vegan,Vegan Chocolate Gingerbread Bourbon Balls,american,47.1,482.04,216.53,2022-10-16,20:13:20
+vegan,Vegan Cheesecake,american,81.6,408.57,249.34,2022-10-16,20:13:20
+vegan,Vegan Pecan Crusted Toffee Bites,american,55.15,401.71,518.46,2022-10-16,20:13:20
+vegan,Vegan French Onion Dip,american,26.35,71.65,38.96,2022-10-16,20:13:20
+vegan,Vegan Jambalaya,american,75.39,241.05,53.46,2022-10-16,20:13:27
+vegan,Vegan Chanterelle Quiche,french,43.26,200.51,30.65,2022-10-16,20:13:27
+vegan,Vegan BLT Sandwich,american,21.41,32.94,51.84,2022-10-16,20:13:27
+vegan,Vegan Grits,american,3.98,41.13,28.01,2022-10-16,20:13:27
+vegan,Ultimate Loaded Grilled Vegan BLT,american,46.21,92.01,60.29,2022-10-16,20:13:27
+vegan,Vegan Spaghetti,american,53.89,268.55,54.49,2022-10-16,20:13:27
+vegan,Vegan Herb Butter,american,0.73,1.97,109.17,2022-10-16,20:13:27
+vegan,Vegan Sabzi Polow,american,80.49,533.39,49.0,2022-10-16,20:13:27
+vegan,Vegan Caesar Dressing,american,3.69,7.89,174.62,2022-10-16,20:13:27
+vegan,Frosted Vegan Cinnamon Rolls,american,23.15,531.0,68.82,2022-10-16,20:13:27
+vegan,Vegan Scallops with King Oyster Mushrooms,american,16.08,37.24,86.97,2022-10-16,20:13:27
+vegan,Vegan Coleslaw,american,12.89,49.08,58.2,2022-10-16,20:13:27
+vegan,Vegan Meatball Bahn Mi,american,315.67,284.3,149.4,2022-10-16,20:13:27
+vegan,Vegan-friendly Chocolate Bites,american,27.1,176.27,136.12,2022-10-16,20:13:27
+vegan,Strawberry Rhubarb Jam {Vegan},american,2.48,155.82,22.73,2022-10-16,20:13:34
+vegan,Vegan Cafe Corn Chowder,american,27.46,269.14,100.24,2022-10-16,20:13:34
+vegan,Easy Vegan Brownies,french,39.69,294.28,191.92,2022-10-16,20:13:34
+vegan,Zesty Vegan Italian Casserole,american,81.37,88.44,166.22,2022-10-16,20:13:34
+vegan,Strawberry Rhubarb Jam {Vegan},american,2.48,155.82,22.73,2022-10-16,20:13:34
+vegan,Vegan Macaroni Salad,american,30.26,177.35,66.65,2022-10-16,20:13:34
+vegan,Vegan Parmesan-Crusted Cauliflower Wings,american,56.28,65.62,90.77,2022-10-16,20:13:34
+vegan,Vegan Spice Cake,american,34.4,551.66,193.42,2022-10-16,20:13:34
+vegan,Fudgy Vegan Brownies,french,28.65,364.77,168.68,2022-10-16,20:13:34
+vegan,Vegan Spinach Pinwheels recipes,american,44.84,59.62,60.33,2022-10-16,20:13:34
+vegan,Vegan Noodle Kugel recipes,asian,60.29,469.33,108.76,2022-10-16,20:13:34
+vegan,Strawberry Rhubarb Jam {Vegan},american,2.48,155.82,22.73,2022-10-16,20:13:40
+vegan,Vegan Cafe Corn Chowder,american,27.46,269.14,100.24,2022-10-16,20:13:40
+vegan,Easy Vegan Brownies,french,39.69,294.28,191.92,2022-10-16,20:13:40
+vegan,Zesty Vegan Italian Casserole,american,81.37,88.44,166.22,2022-10-16,20:13:40
+vegan,Strawberry Rhubarb Jam {Vegan},american,2.48,155.82,22.73,2022-10-16,20:13:40
+vegan,Vegan Macaroni Salad,american,30.26,177.35,66.65,2022-10-16,20:13:40
+vegan,Vegan Parmesan-Crusted Cauliflower Wings,american,56.28,65.62,90.77,2022-10-16,20:13:40
+vegan,Vegan Spice Cake,american,34.4,551.66,193.42,2022-10-16,20:13:40
+vegan,Fudgy Vegan Brownies,french,28.65,364.77,168.68,2022-10-16,20:13:40
+vegan,Vegan Spinach Pinwheels recipes,american,44.84,59.62,60.33,2022-10-16,20:13:40
+vegan,Vegan Noodle Kugel recipes,asian,60.29,469.33,108.76,2022-10-16,20:13:40
