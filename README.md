@@ -26,5 +26,5 @@
 
 ## Misc & Use Cases
 
-- [Health Assistant Bot](../apps/HealthBot)
-- [Research Paper Bot](../apps/ResearchPaperBot)
+- [Health Assistant Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/HealthBot)
+- [Research Paper Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/ResearchPaperBot)
