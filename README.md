@@ -14,6 +14,7 @@
 - [Langchain- Ultimate Guide](https://www.youtube.com/watch?v=IbMtSXTJ0ic)
 - [Embedchain AI in one video](https://www.youtube.com/watch?v=vIhDh7H73Ww)
 - [Chatbot like ChatGPT: Chat with Multiple Website using Langchain](https://www.youtube.com/watch?v=vBBRwDca5Uo)
+- [RAG using Open Source LLMs](https://www.youtube.com/watch?v=dUkiQ_WI92c)
 
 ## Blogs
 
