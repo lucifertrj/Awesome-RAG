@@ -1,5 +1,10 @@
 # Awesome-RAG
 
+> For discussions and doubt-solving: Join Our Community
+
+<a href="https://discord.gg/hEMqtDXCHA">
+<img src="https://discord.com/api/guilds/939520548726272010/widget.png?style=banner1"></a>
+
 ## Notebooks
 
 | UseCase   |      Frameworks      |  Colab |
