@@ -16,9 +16,9 @@ Deep Learning
       - [IIT Madras Deep Learning](https://youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG&si=xhVJEfc2Y7eDWU15)
    - Course without Maths:
       - [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
-   - Book 
-   	- PyTorch: [Deep Learning with PyTorch](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
-   	- TensorFlow: [Deep Learning with TensorFlow](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
+   - Book
+     - PyTorch: [Deep Learning with PyTorch](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+     - TensorFlow: [Deep Learning with TensorFlow](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
 
 Generative AI for ML/DS/DL
 
