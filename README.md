@@ -31,6 +31,9 @@
 - [Qdrant 101- Qdrant as knowledge base](https://www.youtube.com/watch?v=Fwqp79mVfpQ)
 - [Milvus 101- Most advanced VectorDB](https://www.youtube.com/watch?v=ZABs7HcMPR0)
 
+## Talks/Presentation
+- [Fine Tuning and RAG for LLMS](https://docs.google.com/presentation/d/1ch_kLYfYI6B0zEIukLKvNsZWL7vk-w4MVk5VC6_Hd7s/edit?usp=sharing)
+
 ## Misc & Use Cases
 
 - [Health Assistant Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/HealthBot)
