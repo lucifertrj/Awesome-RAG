@@ -7,13 +7,13 @@
 
 ## Notebooks
 
-| UseCase   |      Frameworks      |  Colab |
+| UseCase   |      Frameworks/Library      |  Colab |
 |----------|:-------------:|------:|
 | Build RAG pipeline using Open Source Large Languages Models |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cW01yqNxKqYHpU7uvi5UfUsNnbfxVw7R?usp=sharing) |
 | Chat with Website |    GenAI Stack   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
 | ChatBot like ChatGPT for multiple websites | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hKkF2ut1EqlV7e9PEp7UxdI-AQnMDrpz?usp=sharing) |
 | Mobile Recommendation System | Embedchain |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSZKLupj2YhhaCceGiFOzYZIkwZqjCMr?usp=sharing) |
-| Advanced RAG - Patent Document Retriever | Langchain & HuggingFace |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7NlkmuHTu0xa34APXUhPRMMkxCWPYDD?usp=sharing) |
+| Advanced RAG - Patent Document Retriever+ReRanking (LCEL) | Langchain & HuggingFace & Cohere |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7NlkmuHTu0xa34APXUhPRMMkxCWPYDD?usp=sharing) |
 
 ## YouTube Videos
 
