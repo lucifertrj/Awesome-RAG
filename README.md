@@ -15,7 +15,7 @@
 | Mobile Recommendation System | Embedchain |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSZKLupj2YhhaCceGiFOzYZIkwZqjCMr?usp=sharing) |
 | Advanced RAG - Patent Document Retriever+ReRanking (LCEL) | Langchain & HuggingFace & Cohere |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7NlkmuHTu0xa34APXUhPRMMkxCWPYDD?usp=sharing) |
 | Evaluate LLMs | Langchain & HuggingFace & RAGAS |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| Get started with LLamaIndex | LlamaIndex & HuggingFace |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| Chat with Scanned PDF (Hybrid Search) | Langchain & Unstructured |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzLAGdjEaKfWUzXwnP-1MhDihq7VK8hM?usp=sharing) |
 | Hybrid Search - Custom Retriever | LlamaIndex |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tk9tvX-MbSjiPqfdUakY0tfeGFM8BTG3?usp=sharing) |
 
 ## YouTube Videos
