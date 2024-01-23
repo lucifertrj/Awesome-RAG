@@ -16,6 +16,7 @@
 | Advanced RAG - Patent Document Retriever+ReRanking (LCEL) | Langchain & HuggingFace & Cohere |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7NlkmuHTu0xa34APXUhPRMMkxCWPYDD?usp=sharing) |
 | Evaluate LLMs | Langchain & HuggingFace & RAGAS |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | Chat with Scanned PDF (Hybrid Search) | Langchain & Unstructured |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzLAGdjEaKfWUzXwnP-1MhDihq7VK8hM?usp=sharing) |
+| Get started with LlamaIndex | LlamaIndex & HuggingFace |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rpgek5Z3aH5-nnFUKTofEQzD1Axa7a0j?usp=sharing) |
 | Hybrid Search - Custom Retriever | LlamaIndex |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tk9tvX-MbSjiPqfdUakY0tfeGFM8BTG3?usp=sharing) |
 
 ## YouTube Videos
