@@ -26,6 +26,8 @@
 - [Chatbot like ChatGPT: Chat with Multiple Website using Langchain](https://www.youtube.com/watch?v=vBBRwDca5Uo)
 - [RAG using Open Source LLMs](https://www.youtube.com/watch?v=dUkiQ_WI92c)
 - [Advanced RAG- Langchain and HuggingFace](https://www.youtube.com/watch?v=oUQHBNVVEH4)
+- [Hybrid Search Langchain](https://www.youtube.com/watch?v=kSVGpbqYLYs)
+- [LlamaIndex and HuggingFace- Ultimate Guide](https://www.youtube.com/watch?v=38JKFag3MOk)
 
 ## Blogs
 
