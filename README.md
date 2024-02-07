@@ -10,6 +10,7 @@
 | UseCase   |      Frameworks/Library      |  Colab |
 |----------|:-------------:|------:|
 | Build RAG pipeline using Open Source Large Languages Models |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cW01yqNxKqYHpU7uvi5UfUsNnbfxVw7R?usp=sharing) |
+| Memory + LCEL (Langchain Expression Language) |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qkRs-ZLmc8ooxPJ3rgxp8IskEBpAkBp5?usp=sharing) |
 | Chat with Website |    GenAI Stack   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
 | ChatBot like ChatGPT for multiple websites | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hKkF2ut1EqlV7e9PEp7UxdI-AQnMDrpz?usp=sharing) |
 | Mobile Recommendation System | Embedchain |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSZKLupj2YhhaCceGiFOzYZIkwZqjCMr?usp=sharing) |
