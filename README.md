@@ -22,16 +22,18 @@
 
 ## YouTube Videos
 
-- [Langchain- Ultimate Guide](https://www.youtube.com/watch?v=IbMtSXTJ0ic)
 - [Embedchain AI in one video](https://www.youtube.com/watch?v=vIhDh7H73Ww)
 - [Chatbot like ChatGPT: Chat with Multiple Website using Langchain](https://www.youtube.com/watch?v=vBBRwDca5Uo)
 - [RAG using Open Source LLMs](https://www.youtube.com/watch?v=dUkiQ_WI92c)
 - [Advanced RAG- Langchain and HuggingFace](https://www.youtube.com/watch?v=oUQHBNVVEH4)
 - [Hybrid Search Langchain](https://www.youtube.com/watch?v=kSVGpbqYLYs)
 - [LlamaIndex and HuggingFace- Ultimate Guide](https://www.youtube.com/watch?v=38JKFag3MOk)
+- [Getting started with Gemini with LlamaIndex](https://www.youtube.com/watch?v=jotnU2MRU3w)
+- [Faster Response with Streamlit and Langchain Streaming](https://www.youtube.com/watch?v=xw7t_LAqV7E)
 
 ## Blogs
 
+- [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
 - [A Comprehensive Guide to Implement HuggingFace Models Using Langchain](https://www.analyticsvidhya.com/blog/2023/12/implement-huggingface-models-using-langchain/)
 - [Multimodal Using Gemini and LlamaIndex](https://medium.com/@jaintarun7/multimodal-using-gemini-and-llamaindex-f622a190cc32)
 
