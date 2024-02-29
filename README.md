@@ -19,6 +19,7 @@
 | Get started with LlamaIndex | LlamaIndex & HuggingFace |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rpgek5Z3aH5-nnFUKTofEQzD1Axa7a0j?usp=sharing) |
 | Hybrid Search - Custom Retriever | LlamaIndex |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tk9tvX-MbSjiPqfdUakY0tfeGFM8BTG3?usp=sharing) |
 | Multimodal Example - Gemini | LlamaIndex | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ulIdOnM4WWj1dtbyvz2RFGUz10ULWbFn?usp=sharing) |
+| Qdrant as a Vector Store | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y09JScY54PzbuNjJjHbz9Q5xbs1iEymL?usp=sharing) |
 
 ## YouTube Videos
 
@@ -30,6 +31,7 @@
 - [LlamaIndex and HuggingFace- Ultimate Guide](https://www.youtube.com/watch?v=38JKFag3MOk)
 - [Getting started with Gemini with LlamaIndex](https://www.youtube.com/watch?v=jotnU2MRU3w)
 - [Faster Response with Streamlit and Langchain Streaming](https://www.youtube.com/watch?v=xw7t_LAqV7E)
+- [Qdrant and Langchain](https://www.youtube.com/watch?v=sxtnbOYAUps)
 
 ## Blogs
 
