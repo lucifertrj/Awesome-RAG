@@ -38,7 +38,10 @@
 - [🗂️ LlamaIndex 🦙](https://pypi.org/project/llama-index/)
 - [🧠 MindSQL](https://pypi.org/project/mindsql/)
 - [haystack](https://pypi.org/project/haystack-ai/)
-
+- [Embedchain](https://docs.embedchain.ai/get-started/quickstart)
+- [llmware](https://pypi.org/project/llmware/)
+- [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
+- [Verba](https://github.com/weaviate/Verba)
 ## Blogs
 
 - [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
