@@ -33,6 +33,15 @@
 - [Faster Response with Streamlit and Langchain Streaming](https://www.youtube.com/watch?v=xw7t_LAqV7E)
 - [Qdrant and Langchain](https://www.youtube.com/watch?v=sxtnbOYAUps)
 
+## Libraries
+- [🦜️🔗 LangChain](https://pypi.org/project/langchain/)
+- [🗂️ LlamaIndex 🦙](https://pypi.org/project/llama-index/)
+- [🧠 MindSQL](https://pypi.org/project/mindsql/)
+- [haystack](https://pypi.org/project/haystack-ai/)
+- [Embedchain](https://docs.embedchain.ai/get-started/quickstart)
+- [llmware](https://pypi.org/project/llmware/)
+- [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
+- [Verba](https://github.com/weaviate/Verba)
 ## Blogs
 
 - [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
