@@ -34,9 +34,10 @@
 - [Qdrant and Langchain](https://www.youtube.com/watch?v=sxtnbOYAUps)
 
 ## Libraries
-- [🦜️🔗 LangChain](https://pypi.org/project/langchain/)
-- [🗂️ LlamaIndex 🦙](https://pypi.org/project/llama-index/)
-- [🧠 MindSQL](https://pypi.org/project/mindsql/)
+- [LangChain](https://pypi.org/project/langchain/)
+- [LlamaIndex](https://pypi.org/project/llama-index/)
+- [MindSQL](https://pypi.org/project/mindsql/)
+- [GenAI Stack](https://github.com/aiplanethub/genai-stack/)
 - [haystack](https://pypi.org/project/haystack-ai/)
 - [Embedchain](https://docs.embedchain.ai/get-started/quickstart)
 - [llmware](https://pypi.org/project/llmware/)
