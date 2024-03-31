@@ -20,6 +20,7 @@
 | Hybrid Search - Custom Retriever | LlamaIndex |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tk9tvX-MbSjiPqfdUakY0tfeGFM8BTG3?usp=sharing) |
 | Multimodal Example - Gemini | LlamaIndex | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ulIdOnM4WWj1dtbyvz2RFGUz10ULWbFn?usp=sharing) |
 | Qdrant as a Vector Store | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y09JScY54PzbuNjJjHbz9Q5xbs1iEymL?usp=sharing) |
+| Multimodal RAG | LLamaIndex, Gemini, Qdrant | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ulIdOnM4WWj1dtbyvz2RFGUz10ULWbFn?usp=sharing) |
 
 ## YouTube Videos
 
