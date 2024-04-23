@@ -1,0 +1,3 @@
+beyondllm
+ollama
+llama-index-embeddings-fastembed
