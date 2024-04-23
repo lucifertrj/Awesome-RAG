@@ -35,10 +35,13 @@
 - [Getting started with Gemini with LlamaIndex](https://www.youtube.com/watch?v=jotnU2MRU3w)
 - [Faster Response with Streamlit and Langchain Streaming](https://www.youtube.com/watch?v=xw7t_LAqV7E)
 - [Qdrant and Langchain](https://www.youtube.com/watch?v=sxtnbOYAUps)
+- [Ollama and Langchain || Run LLMs locally](https://www.youtube.com/watch?v=vE_njT3GdY8)
+- [Langchain Streaming and Groq](https://www.youtube.com/watch?v=frMdOL8knqg&t=13s)
 
 ## Libraries
 - [LangChain](https://pypi.org/project/langchain/)
 - [LlamaIndex](https://pypi.org/project/llama-index/)
+- [BeyondLLM](http://github.com/aiplanethub/beyondllm)
 - [MindSQL](https://pypi.org/project/mindsql/)
 - [GenAI Stack](https://github.com/aiplanethub/genai-stack/)
 - [haystack](https://pypi.org/project/haystack-ai/)
