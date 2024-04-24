@@ -13,6 +13,7 @@
 | Memory + LCEL (Langchain Expression Language) |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qkRs-ZLmc8ooxPJ3rgxp8IskEBpAkBp5?usp=sharing) |
 | Chat with Website |    GenAI Stack   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
 | ChatBot like ChatGPT for multiple websites | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hKkF2ut1EqlV7e9PEp7UxdI-AQnMDrpz?usp=sharing) |
+| Evaluate and Advanced RAG | BeyondLLM & Gemini | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S1UL2uCahHkfJsurRA3f7dcR6IHjg-IM?usp=sharing) |
 | Mobile Recommendation System | Embedchain |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSZKLupj2YhhaCceGiFOzYZIkwZqjCMr?usp=sharing) |
 | Advanced RAG - Patent Document Retriever+ReRanking (LCEL) | Langchain & HuggingFace & Cohere |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7NlkmuHTu0xa34APXUhPRMMkxCWPYDD?usp=sharing) |
 | Chat with Scanned PDF (Hybrid Search) | Langchain & Unstructured |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzLAGdjEaKfWUzXwnP-1MhDihq7VK8hM?usp=sharing) |
@@ -62,8 +63,10 @@
 
 ## Talks/Presentation
 - [Fine Tuning and RAG for LLMS](https://docs.google.com/presentation/d/1ch_kLYfYI6B0zEIukLKvNsZWL7vk-w4MVk5VC6_Hd7s/edit?usp=sharing)
+- [Build RAG application using Gemini](https://docs.google.com/presentation/d/13gtOiYk07axGPMwPIN3fiCcyxVG0m3JwQ3BImmKfdAo/edit?usp=sharing)
 
 ## Misc & Use Cases
 
+- [Evaluate RAG using Open Source LLM](https://github.com/lucifertrj/Awesome-RAG/tree/main/evaluate_open_source)
 - [Health Assistant Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/HealthBot)
 - [Research Paper Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/ResearchPaperBot)
