@@ -13,6 +13,7 @@
 | Memory + LCEL (Langchain Expression Language) |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qkRs-ZLmc8ooxPJ3rgxp8IskEBpAkBp5?usp=sharing) |
 | Chat with Website |    GenAI Stack   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
 | ChatBot like ChatGPT for multiple websites | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hKkF2ut1EqlV7e9PEp7UxdI-AQnMDrpz?usp=sharing) |
+| Observability and RAG 10 lines of Code | BeyondLLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dOWfx-rQpBCMhFe9iGZMeIUFSMe6Wfr?usp=sharing) |
 | Evaluate and Advanced RAG | BeyondLLM & Gemini | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S1UL2uCahHkfJsurRA3f7dcR6IHjg-IM?usp=sharing) |
 | Mobile Recommendation System | Embedchain |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSZKLupj2YhhaCceGiFOzYZIkwZqjCMr?usp=sharing) |
 | Advanced RAG - Patent Document Retriever+ReRanking (LCEL) | Langchain & HuggingFace & Cohere |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7NlkmuHTu0xa34APXUhPRMMkxCWPYDD?usp=sharing) |
@@ -37,9 +38,11 @@
 - [Faster Response with Streamlit and Langchain Streaming](https://www.youtube.com/watch?v=xw7t_LAqV7E)
 - [Qdrant and Langchain](https://www.youtube.com/watch?v=sxtnbOYAUps)
 - [Ollama and Langchain || Run LLMs locally](https://www.youtube.com/watch?v=vE_njT3GdY8)
-- [Langchain Streaming and Groq](https://www.youtube.com/watch?v=frMdOL8knqg&t=13s)
+- [Langchain Streaming and Groq](https://www.youtube.com/watch?v=frMdOL8knqg)
+- [Evaluate RAG using Open Source LLMs](https://www.youtube.com/watch?v=qkl2e6VT1aE)
 
 ## Libraries
+- [BeyondLLM](https://github.com/aiplanethub/beyondllm)
 - [LangChain](https://pypi.org/project/langchain/)
 - [LlamaIndex](https://pypi.org/project/llama-index/)
 - [BeyondLLM](http://github.com/aiplanethub/beyondllm)
@@ -50,6 +53,7 @@
 - [llmware](https://pypi.org/project/llmware/)
 - [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
 - [Verba](https://github.com/weaviate/Verba)
+
 ## Blogs
 
 - [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
@@ -60,10 +64,6 @@
 
 - [Qdrant 101- Qdrant as knowledge base](https://www.youtube.com/watch?v=Fwqp79mVfpQ)
 - [Milvus 101- Most advanced VectorDB](https://www.youtube.com/watch?v=ZABs7HcMPR0)
-
-## Talks/Presentation
-- [Fine Tuning and RAG for LLMS](https://docs.google.com/presentation/d/1ch_kLYfYI6B0zEIukLKvNsZWL7vk-w4MVk5VC6_Hd7s/edit?usp=sharing)
-- [Build RAG application using Gemini](https://docs.google.com/presentation/d/13gtOiYk07axGPMwPIN3fiCcyxVG0m3JwQ3BImmKfdAo/edit?usp=sharing)
 
 ## Misc & Use Cases
 
