@@ -11,7 +11,8 @@
 |----------|:-------------:|------:|
 | Build RAG pipeline using Open Source Large Languages Models |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cW01yqNxKqYHpU7uvi5UfUsNnbfxVw7R?usp=sharing) |
 | Memory + LCEL (Langchain Expression Language) |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qkRs-ZLmc8ooxPJ3rgxp8IskEBpAkBp5?usp=sharing) |
-| Chat with Website |    GenAI Stack   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
+| LlamaIndex Quickstart Tutorial |  LLamaIndex, Qdrant & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/192aAkGqx9CkCX9pdr-YqRTojaU1yXTjs?usp=sharing) |
+| Chat with Website |    GenAI Stack (deprecated)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
 | ChatBot like ChatGPT for multiple websites | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hKkF2ut1EqlV7e9PEp7UxdI-AQnMDrpz?usp=sharing) |
 | Observability and RAG 10 lines of Code | BeyondLLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dOWfx-rQpBCMhFe9iGZMeIUFSMe6Wfr?usp=sharing) |
 | Evaluate and Advanced RAG | BeyondLLM & Gemini | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S1UL2uCahHkfJsurRA3f7dcR6IHjg-IM?usp=sharing) |
@@ -28,7 +29,8 @@
 
 ## YouTube Videos
 
-- [Embedchain AI in one video](https://www.youtube.com/watch?v=vIhDh7H73Ww)
+- [Langchain Crash Course || Ultimate End-to-End Guide 2024](https://youtube.com/watch?v=TWmV95-dUgQ)
+- [LlamaIndex and Qdrant Quickstart || LlamaIndex Crash Course](https://www.youtube.com/watch?v=Ds2u4Plg1PA)
 - [Chatbot like ChatGPT: Chat with Multiple Website using Langchain](https://www.youtube.com/watch?v=vBBRwDca5Uo)
 - [RAG using Open Source LLMs](https://www.youtube.com/watch?v=dUkiQ_WI92c)
 - [Advanced RAG- Langchain and HuggingFace](https://www.youtube.com/watch?v=oUQHBNVVEH4)
@@ -42,6 +44,7 @@
 - [Evaluate RAG using Open Source LLMs](https://www.youtube.com/watch?v=qkl2e6VT1aE)
 
 ## Libraries
+
 - [BeyondLLM](https://github.com/aiplanethub/beyondllm)
 - [LangChain](https://pypi.org/project/langchain/)
 - [LlamaIndex](https://pypi.org/project/llama-index/)
