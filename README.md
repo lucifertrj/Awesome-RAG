@@ -32,12 +32,14 @@
 
 ## YouTube Videos
 
+- [Build Bhagavad Gita GPT using Deepseek R1 and Qdrant](https://www.youtube.com/watch?v=NK1wp3YVY4Q)
 - [Langchain Crash Course || Ultimate End-to-End Guide 2024](https://youtube.com/watch?v=TWmV95-dUgQ)
 - [LlamaIndex and Qdrant Quickstart || LlamaIndex Crash Course](https://www.youtube.com/watch?v=Ds2u4Plg1PA)
 - [Chatbot like ChatGPT: Chat with Multiple Website using Langchain](https://www.youtube.com/watch?v=vBBRwDca5Uo)
 - [RAG using Open Source LLMs](https://www.youtube.com/watch?v=dUkiQ_WI92c)
 - [Advanced RAG- Langchain and HuggingFace](https://www.youtube.com/watch?v=oUQHBNVVEH4)
 - [Hybrid Search Langchain](https://www.youtube.com/watch?v=kSVGpbqYLYs)
+- [Run Agentic RAG locally - Langchain and Agno](https://www.youtube.com/watch?v=qOD_BPjMiwM)
 - [LlamaIndex and HuggingFace- Ultimate Guide](https://www.youtube.com/watch?v=38JKFag3MOk)
 - [Getting started with Gemini with LlamaIndex](https://www.youtube.com/watch?v=jotnU2MRU3w)
 - [Faster Response with Streamlit and Langchain Streaming](https://www.youtube.com/watch?v=xw7t_LAqV7E)
