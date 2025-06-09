@@ -13,7 +13,9 @@
 | Memory + LCEL (Langchain Expression Language) |  Langchain & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qkRs-ZLmc8ooxPJ3rgxp8IskEBpAkBp5?usp=sharing) |
 | LlamaIndex Quickstart Tutorial |  LLamaIndex, Qdrant & HuggingFace  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/192aAkGqx9CkCX9pdr-YqRTojaU1yXTjs?usp=sharing) |
 | Chat with Website |    GenAI Stack (deprecated)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVgLv4cuWnN4F4TPHSOW6U0pew9AfSww?usp=sharing) |
+| Multi-Document Fast RAG- Binary Quantization | LangGraph & Qdrant | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1heeIOY_yzisnkXRYqS3MNhUq8RpibDcy?usp=sharing) |
 | ChatBot like ChatGPT for multiple websites | Langchain | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hKkF2ut1EqlV7e9PEp7UxdI-AQnMDrpz?usp=sharing) |
+| Advanced: Hybrid Search - miniCOIL | LangGraph, Qdrant and Comet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bWmNEHPu7vpleKtXt5jLMceLu5_tNWf3?usp=sharing) |
 | Observability and RAG 10 lines of Code | BeyondLLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dOWfx-rQpBCMhFe9iGZMeIUFSMe6Wfr?usp=sharing) |
 | Evaluate and Advanced RAG | BeyondLLM & Gemini | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S1UL2uCahHkfJsurRA3f7dcR6IHjg-IM?usp=sharing) |
 | Mobile Recommendation System | Embedchain |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSZKLupj2YhhaCceGiFOzYZIkwZqjCMr?usp=sharing) |
@@ -60,6 +62,8 @@
 
 ## Blogs
 
+- [Advanced Hybrid RAG with Qdrant miniCOIL, LangGraph, and SambaNova DeepSeek-R1 🚀](https://medium.com/dphi-tech/advanced-retrieval-and-evaluation-hybrid-search-with-minicoil-using-qdrant-and-langgraph-6fbe5e514078)
+- [Fast Multi-Document RAG using LangGraph, Qdrant Binary Quantization, and DeepSeek R1 — SambaNova](https://medium.com/dphi-tech/fast-multi-document-rag-using-qdrant-binary-quantization-and-sambanova-deepseek-r1-using-langgraph-a9c7d1532290)
 - [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
 - [A Comprehensive Guide to Implement HuggingFace Models Using Langchain](https://www.analyticsvidhya.com/blog/2023/12/implement-huggingface-models-using-langchain/)
 - [Multimodal Using Gemini and LlamaIndex](https://medium.com/@jaintarun7/multimodal-using-gemini-and-llamaindex-f622a190cc32)
