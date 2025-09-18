@@ -49,7 +49,7 @@
 - [Evaluate RAG using Open Source LLMs](https://www.youtube.com/watch?v=qkl2e6VT1aE)
 
 ## Libraries
-
+- [VeritasGraph](https://github.com/bibinprathap/VeritasGraph)
 - [BeyondLLM](https://github.com/aiplanethub/beyondllm)
 - [LangChain](https://pypi.org/project/langchain/)
 - [LlamaIndex](https://pypi.org/project/llama-index/)
