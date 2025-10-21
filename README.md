@@ -29,6 +29,7 @@
 | Superfast RAG using Langchain Streaming and Groq | Langchain and Groq | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/152P-7aZKMXp2VvDctbO_aHBqE9crtWiU?usp=sharing) |
 | Qdrant Hybrid Search + Memory | LlamaIndex | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14SBWZDKWF822W9RWKWSraerW3wGUTlxa?usp=sharing) |
 | Agentic RAG with Memory | Phidata & Qdrant | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p5KOZznfPt0Z74e9zVhtu4Bte9dCPNas?usp=sharing) |
+| PDF Document Q&A | Neurolink | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ztA7d9LF1kgEFSeQm7fizxbiS-9weXn?usp=sharing) |
 
 ## YouTube Videos
 
