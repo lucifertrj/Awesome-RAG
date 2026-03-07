@@ -71,6 +71,7 @@
 - [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
 - [A Comprehensive Guide to Implement HuggingFace Models Using Langchain](https://www.analyticsvidhya.com/blog/2023/12/implement-huggingface-models-using-langchain/)
 - [Multimodal Using Gemini and LlamaIndex](https://medium.com/@jaintarun7/multimodal-using-gemini-and-llamaindex-f622a190cc32)
+- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) 
 
 ## Live Sessions
 
