@@ -71,6 +71,7 @@
 - [RAG and Advanced articles - AI Planet Medium](https://medium.aiplanet.com/)
 - [A Comprehensive Guide to Implement HuggingFace Models Using Langchain](https://www.analyticsvidhya.com/blog/2023/12/implement-huggingface-models-using-langchain/)
 - [Multimodal Using Gemini and LlamaIndex](https://medium.com/@jaintarun7/multimodal-using-gemini-and-llamaindex-f622a190cc32)
+- [Learn AI by Rajul Babel - Visual interactive guide to RAG, vector databases, and agent frameworks](https://rajulbabel.github.io/learn-ai/) - Free, end-to-end guide covering retrieval (HNSW, IVF, PQ, hybrid search, rerankers, ColBERT-style multi-vector), vector DB systems (FAISS, pgvector, Qdrant, Pinecone, Weaviate, Milvus, Chroma), and agents. Real formulas, real diagrams.
 
 ## Live Sessions
 
