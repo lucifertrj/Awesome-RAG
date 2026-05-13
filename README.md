@@ -58,6 +58,7 @@
 - [MindSQL](https://pypi.org/project/mindsql/)
 - [GenAI Stack](https://github.com/aiplanethub/genai-stack/)
 - [haystack](https://pypi.org/project/haystack-ai/)
+- [Dakera](https://github.com/Dakera-AI/dakera) — Persistent memory layer for RAG agents: hybrid BM25 + vector retrieval, temporal reasoning, and importance-weighted memory decay
 - [Embedchain](https://docs.embedchain.ai/get-started/quickstart)
 - [llmware](https://pypi.org/project/llmware/)
 - [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
