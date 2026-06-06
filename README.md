@@ -63,6 +63,7 @@
 - [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
 - [Verba](https://github.com/weaviate/Verba)
 - [Neurolink](https://github.com/juspay/neurolink)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server providing trust scoring for x402 agents on Solana. Enables RAG agents to verify tool/API trustworthiness before including external output in generated responses. Free preflight + paid signed receipts via USDC micropayment (<1s).
 
 ## Blogs
 
