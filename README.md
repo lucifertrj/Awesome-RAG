@@ -63,6 +63,7 @@
 - [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
 - [Verba](https://github.com/weaviate/Verba)
 - [Neurolink](https://github.com/juspay/neurolink)
+- [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents and RAG retrieval — live web results, news, images, and full-page scraping; x402 USDC pay-per-call or free API key tier ([RAG guide](https://superhighway.walls.sh/guides/web-search-rag))
 
 ## Blogs
 
