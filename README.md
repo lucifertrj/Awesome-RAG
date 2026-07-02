@@ -63,6 +63,7 @@
 - [REALM](https://huggingface.co/docs/transformers/model_doc/realm)
 - [Verba](https://github.com/weaviate/Verba)
 - [Neurolink](https://github.com/juspay/neurolink)
+- [khazad](https://github.com/GuglielmoCerri/khazad)
 
 ## Blogs
 
