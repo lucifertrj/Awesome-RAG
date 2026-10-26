@@ -82,3 +82,4 @@
 - [Evaluate RAG using Open Source LLM](https://github.com/lucifertrj/Awesome-RAG/tree/main/evaluate_open_source)
 - [Health Assistant Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/HealthBot)
 - [Research Paper Bot](https://github.com/lucifertrj/Awesome-RAG/tree/main/apps/ResearchPaperBot)
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
